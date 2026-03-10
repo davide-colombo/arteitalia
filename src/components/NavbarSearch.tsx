@@ -82,7 +82,7 @@ function NavbarSearchForm({
           }
         }}
         aria-label="Apri la ricerca"
-        className="absolute right-2 flex h-8 w-8 items-center justify-center rounded-md text-text-secondary transition-colors hover:text-accent"
+        className="absolute right-2 flex h-8 w-8 items-center justify-center rounded-md text-text-secondary transition-colors hover:text-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent/30"
       >
         <svg
           viewBox="0 0 24 24"

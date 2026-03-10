@@ -1,7 +1,12 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { PageShell } from "@/components/page-shell";
 import { getArtworksByPeriod, periods } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Periodi storici",
+};
 
 export default function PeriodsPage() {
   const periodCards = [...periods].sort(

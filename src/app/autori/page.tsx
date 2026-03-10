@@ -1,6 +1,11 @@
+import type { Metadata } from "next";
 import { AuthorDirectory } from "@/components/AuthorDirectory";
 import { PageShell } from "@/components/page-shell";
 import { authors, getArtworksByAuthor, getMovementById } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Autori",
+};
 
 export default function AuthorsPage() {
   const authorsWithArtworks = authors

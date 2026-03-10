@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
@@ -19,6 +20,17 @@ type MovementPageProps = {
 
 export function generateStaticParams() {
   return movements.map((movement) => ({ movementId: movement.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: MovementPageProps): Promise<Metadata> {
+  const { movementId } = await params;
+  const movement = getMovementById(movementId);
+
+  return {
+    title: movement?.name ?? "Corrente",
+  };
 }
 
 export default async function MovementPage({ params }: MovementPageProps) {

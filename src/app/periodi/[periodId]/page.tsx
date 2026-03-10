@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { ArtworkGrid } from "@/components/ArtworkGrid";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { notFound } from "next/navigation";
@@ -17,6 +18,17 @@ type PeriodPageProps = {
 
 export function generateStaticParams() {
   return periods.map((period) => ({ periodId: period.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: PeriodPageProps): Promise<Metadata> {
+  const { periodId } = await params;
+  const period = getPeriodById(periodId);
+
+  return {
+    title: period?.name ?? "Periodo",
+  };
 }
 
 export default async function PeriodPage({ params }: PeriodPageProps) {

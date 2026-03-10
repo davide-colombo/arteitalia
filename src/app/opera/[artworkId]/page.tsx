@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { Breadcrumb } from "@/components/Breadcrumb";
@@ -103,6 +104,24 @@ function buildBreadcrumbSegments({
 
 export function generateStaticParams() {
   return artworks.map((artwork) => ({ artworkId: artwork.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: Pick<ArtworkPageProps, "params">): Promise<Metadata> {
+  const { artworkId } = await params;
+  const artwork = getArtworkById(artworkId);
+  const author = artwork ? getAuthorById(artwork.author_id) : undefined;
+
+  if (!artwork) {
+    return {
+      title: "Opera",
+    };
+  }
+
+  return {
+    title: `${artwork.title} — ${author?.name ?? "Autore sconosciuto"}`,
+  };
 }
 
 export default async function ArtworkPage({

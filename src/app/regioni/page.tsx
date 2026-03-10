@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { PageShell } from "@/components/page-shell";
@@ -7,6 +8,10 @@ import {
   regions,
 } from "@/lib/data";
 import { formatCount } from "@/lib/format";
+
+export const metadata: Metadata = {
+  title: "Regioni",
+};
 
 export default function RegionsPage() {
   const regionCards = regions.map((region) => {

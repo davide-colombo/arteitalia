@@ -1,7 +1,12 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { PageShell } from "@/components/page-shell";
 import { getArtworksByMovement, getPeriodById, movements } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Correnti pittoriche",
+};
 
 export default function MovementsPage() {
   const movementCards = [...movements].sort((left, right) =>

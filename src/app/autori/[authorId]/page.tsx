@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
@@ -20,6 +21,17 @@ type AuthorPageProps = {
 
 export function generateStaticParams() {
   return authors.map((author) => ({ authorId: author.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: AuthorPageProps): Promise<Metadata> {
+  const { authorId } = await params;
+  const author = getAuthorById(authorId);
+
+  return {
+    title: author?.name ?? "Autore",
+  };
 }
 
 export default async function AuthorPage({ params }: AuthorPageProps) {
