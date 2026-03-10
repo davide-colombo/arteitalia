@@ -88,11 +88,11 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Francesco_Francia_-_Crucifixion_with_Sts_John_and_Jerome_-_WGA08167.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Francesco_Francia_-_Crucifixion_with_Sts_John_and_Jerome_-_WGA08167.jpg",
+      "license": "Public domain",
+      "attribution": "Francesco Francia"
     },
     "links": [],
     "verified": true,
@@ -998,11 +998,11 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/VirginiaBotticelli.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VirginiaBotticelli.jpg/1920px-VirginiaBotticelli.jpg",
+      "license": "Public domain",
+      "attribution": "Sandro Botticelli"
     },
     "links": [
       {
@@ -1051,11 +1051,11 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Lotto%2C_pala_martinengo_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Lotto%2C_pala_martinengo_01.jpg/1920px-Lotto%2C_pala_martinengo_01.jpg",
+      "license": "Public domain",
+      "attribution": "Lorenzo Lotto"
     },
     "links": [],
     "verified": true,
@@ -1078,11 +1078,11 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Saint_Francis_in_Meditation-Caravaggio_%28Cremona%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saint_Francis_in_Meditation-Caravaggio_%28Cremona%29.jpg/1920px-Saint_Francis_in_Meditation-Caravaggio_%28Cremona%29.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
     },
     "links": [],
     "verified": true,
@@ -1286,11 +1286,11 @@
     "dimensions": null,
     "description": "Tra i più importanti cicli profani del Gotico internazionale nell'Italia settentrionale.",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ciclo_dei_mesi_00.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ciclo_dei_mesi_00.JPG",
+      "license": "Public domain",
+      "attribution": "Maestro Venceslao"
     },
     "links": [
       {
@@ -1477,11 +1477,11 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "placeholder",
-      "url": null,
-      "thumbnail": null,
-      "license": null,
-      "attribution": null
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lucas_Cranach_%28I%29_-_Christus_als_Schmerzensmann_%28Di%C3%B6zesanmuseum_Brixen%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lucas_Cranach_%28I%29_-_Christus_als_Schmerzensmann_%28Di%C3%B6zesanmuseum_Brixen%29.jpg",
+      "license": "Public domain",
+      "attribution": "Lucas Cranach the Elder or workshop"
     },
     "links": [],
     "verified": true,
