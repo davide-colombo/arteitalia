@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ArtèItalia
 
-## Getting Started
+Catalogo digitale dell'arte pittorica italiana.
 
-First, run the development server:
+Un progetto personale di [Davide Colombo](https://instagram.com/colombvo): un catalogo interattivo di opere pittoriche italiane organizzato per regione, museo, autore, periodo storico e corrente artistica.
+
+## Stack
+
+- **Framework**: Next.js 14+ (App Router, TypeScript)
+- **Styling**: Tailwind CSS
+- **Data**: JSON files (no database)
+- **Hosting**: Vercel
+- **Lingua**: Italiano
+
+## Sviluppo locale
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Il sito sarà disponibile su `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Struttura dati
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I dati sono in `src/data/`:
+- `regions.json` — 20 regioni italiane
+- `cities.json` — città con musei
+- `institutions.json` — musei, pinacoteche, case museo
+- `authors.json` — artisti
+- `movements.json` — correnti pittoriche
+- `periods.json` — periodi storici
+- `artworks.json` — opere (entità centrale)
 
-## Learn More
+## Validazione dati
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+python3 scripts/validate.py
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Licenza
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Tutti i diritti riservati. Codice sorgente visibile per trasparenza; non è consentito l'uso commerciale senza autorizzazione.
