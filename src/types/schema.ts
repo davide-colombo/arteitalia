@@ -61,6 +61,7 @@ export interface Period {
 export interface ArtworkImage {
   source: "wikimedia" | "museo" | "placeholder";
   url: string | null;
+  thumbnail: string | null;
   license: string | null;
   attribution: string | null;
 }

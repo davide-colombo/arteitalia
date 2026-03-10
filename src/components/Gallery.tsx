@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useEffect } from "react";
 
-import { ArtworkPlaceholder } from "@/components/ArtworkPlaceholder";
+import { ArtworkImage } from "@/components/ArtworkImage";
 import {
   getAuthorById,
   getCityByInstitutionId,
@@ -118,7 +118,12 @@ export function Gallery({
               className="flex h-full scale-[0.85] flex-col items-center gap-4 rounded-[2rem] border border-border/60 bg-bg-primary/40 p-4 text-left opacity-30 transition-all duration-300 ease-in-out hover:border-accent hover:opacity-60"
               aria-label={`Vai all'opera precedente: ${previousArtwork.title}`}
             >
-              <ArtworkPlaceholder className="aspect-[3/4] w-full" />
+              <ArtworkImage
+                image={previousArtwork.image}
+                alt={previousArtwork.title}
+                className="aspect-[3/4] w-full"
+                fit="contain"
+              />
               <div className="space-y-1 text-center">
                 <p className="font-serif text-xl text-text-primary">
                   {previousArtwork.title}
@@ -134,8 +139,11 @@ export function Gallery({
 
           <div className="space-y-5">
             <div className="mx-auto w-full max-w-[min(100%,32rem)] transition-all duration-300 ease-in-out">
-              <ArtworkPlaceholder
+              <ArtworkImage
+                image={currentArtwork.image}
+                alt={currentArtwork.title}
                 className="aspect-[3/4] max-h-[70vh] w-full"
+                fit="contain"
                 label="Immagine non disponibile"
               />
             </div>
@@ -171,7 +179,12 @@ export function Gallery({
               className="flex h-full scale-[0.85] flex-col items-center gap-4 rounded-[2rem] border border-border/60 bg-bg-primary/40 p-4 text-left opacity-30 transition-all duration-300 ease-in-out hover:border-accent hover:opacity-60"
               aria-label={`Vai all'opera successiva: ${nextArtwork.title}`}
             >
-              <ArtworkPlaceholder className="aspect-[3/4] w-full" />
+              <ArtworkImage
+                image={nextArtwork.image}
+                alt={nextArtwork.title}
+                className="aspect-[3/4] w-full"
+                fit="contain"
+              />
               <div className="space-y-1 text-center">
                 <p className="font-serif text-xl text-text-primary">
                   {nextArtwork.title}
@@ -188,8 +201,11 @@ export function Gallery({
 
         <div className="space-y-5 lg:hidden">
           <div className="relative mx-auto w-full max-w-[min(100%,28rem)]">
-            <ArtworkPlaceholder
+            <ArtworkImage
+              image={currentArtwork.image}
+              alt={currentArtwork.title}
               className="aspect-[3/4] max-h-[70vh] w-full"
+              fit="contain"
               label="Immagine non disponibile"
             />
             {canNavigate ? (

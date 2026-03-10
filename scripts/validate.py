@@ -4,12 +4,13 @@ ArtèItalia — Script di validazione integrità dati
 Verifica integrità referenziale, unicità ID, campi obbligatori.
 """
 
-import json
-import sys
-from pathlib import Path
 from collections import Counter
+import json
+from pathlib import Path
+import sys
 
-DATA_DIR = Path(__file__).parent.parent / "data"
+ROOT_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT_DIR / "src" / "data"
 
 def load(name: str) -> list[dict]:
     path = DATA_DIR / f"{name}.json"
@@ -93,6 +94,12 @@ def validate():
             errors.append(f"[artworks] '{aw['id']}' -> title mancante")
         if aw.get("year") is None and aw.get("year_range") is None:
             warnings.append(f"[artworks] '{aw['id']}' -> né year né year_range specificato")
+        image = aw.get("image", {})
+        for required_field in ["source", "url", "thumbnail", "license", "attribution"]:
+            if required_field not in image:
+                errors.append(
+                    f"[artworks] '{aw['id']}' -> image.{required_field} mancante"
+                )
 
     # 8. Artworks senza immagine
     no_image = [aw["id"] for aw in artworks if aw["image"]["source"] == "placeholder"]

@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { ArtworkPlaceholder } from "@/components/ArtworkPlaceholder";
+import { ArtworkImage } from "@/components/ArtworkImage";
 import {
   artworks,
   authors,
@@ -115,8 +115,11 @@ export default function HomePage() {
             href="/opera/sposalizio-vergine-raffaello"
             className="group flex w-full max-w-md flex-col gap-5 rounded-[2rem] border border-accent/60 bg-bg-secondary/70 p-6 shadow-[0_0_0_1px_rgba(196,162,101,0.18),0_0_42px_rgba(196,162,101,0.08)] transition-colors hover:border-accent"
           >
-            <ArtworkPlaceholder
+            <ArtworkImage
+              image={featuredArtwork.image}
+              alt={featuredArtwork.title}
               className="aspect-[3/4] w-full"
+              fit="cover"
               label="Immagine non disponibile"
             />
             <div className="space-y-2 text-left">

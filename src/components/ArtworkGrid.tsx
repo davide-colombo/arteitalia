@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-import { ArtworkPlaceholder } from "@/components/ArtworkPlaceholder";
+import { ArtworkImage } from "@/components/ArtworkImage";
 import { ArtworkFilters } from "@/components/ArtworkFilters";
 import { getAuthorById } from "@/lib/data";
 import { formatYear } from "@/lib/format";
@@ -65,7 +65,12 @@ export function ArtworkGrid({
               }}
               className="flex flex-col gap-4 rounded-3xl border border-border bg-bg-secondary p-4 transition-colors hover:border-accent"
             >
-              <ArtworkPlaceholder className="aspect-[4/3] w-full" />
+              <ArtworkImage
+                image={artwork.image}
+                alt={artwork.title}
+                className="aspect-[4/3] w-full"
+                fit="cover"
+              />
               <div className="space-y-1">
                 <h2 className="line-clamp-2 font-serif text-xl leading-snug">
                   {artwork.title}

@@ -12,7 +12,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Raffaello_e_collaboratori%2C_estasi_di_santa_cecilia%2C_1515_ca._da_pinacoteca_nazionale_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Raffaello_e_collaboratori%2C_estasi_di_santa_cecilia%2C_1515_ca._da_pinacoteca_nazionale_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Raphael"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -30,7 +36,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Guido_Reni%2C_Strage_degli_innocenti_%281611%29_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Guido_Reni%2C_Strage_degli_innocenti_%281611%29_04.jpg/1920px-Guido_Reni%2C_Strage_degli_innocenti_%281611%29_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mongolo1984"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -48,7 +60,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vestizione_di_san_Guglielmo_d%27Aquitania.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Vestizione_di_san_Guglielmo_d%27Aquitania.jpg",
+      "license": "Public domain",
+      "attribution": "Guercino - Bologna, Pinacotea Nazionale"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -59,14 +77,23 @@
     "author_id": "francesco-francia",
     "year": null,
     "year_approximate": true,
-    "year_range": [1485, 1490],
+    "year_range": [
+      1485,
+      1490
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "collezioni-comunali-arte-bologna",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -84,7 +111,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prospero_Lambertini_by_Giuseppe_Maria_Crespi.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Prospero_Lambertini_by_Giuseppe_Maria_Crespi.jpg",
+      "license": "Public domain",
+      "attribution": "Giuseppe Maria Crespi"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -102,7 +135,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Ubaldino_gandolfi%2C_andromeda_e_perseo%2C_1770%2C_collez._comunali%2C_bolgna.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Ubaldino_gandolfi%2C_andromeda_e_perseo%2C_1770%2C_collez._comunali%2C_bolgna.jpg/1920px-Ubaldino_gandolfi%2C_andromeda_e_perseo%2C_1770%2C_collez._comunali%2C_bolgna.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -113,15 +152,29 @@
     "author_id": "francesco-del-cossa",
     "year": null,
     "year_approximate": true,
-    "year_range": [1469, 1470],
+    "year_range": [
+      1469,
+      1470
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "museo-schifanoia",
     "medium": "Affresco",
     "dimensions": null,
     "description": "Ciclo articolato in pannelli mensili con trionfi e scene zodiacali, vertice dell'officina ferrarese.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Musei Ferrara", "url": "https://www.museiferrara.it/capolavori/salone-mesi/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Palazzo_schifanoia%2C_salone_dei_mesi_01.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palazzo_schifanoia%2C_salone_dei_mesi_01.JPG/1920px-Palazzo_schifanoia%2C_salone_dei_mesi_01.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Musei Ferrara",
+        "url": "https://www.museiferrara.it/capolavori/salone-mesi/"
+      }
+    ],
     "verified": true,
     "notes": "Opera collettiva dell'officina ferrarese. Attribuzioni puntuali per singoli riquadri."
   },
@@ -131,14 +184,23 @@
     "author_id": "francesco-del-cossa",
     "year": null,
     "year_approximate": true,
-    "year_range": [1469, 1470],
+    "year_range": [
+      1469,
+      1470
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "museo-schifanoia",
     "medium": "Affresco",
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Marzo%2C_francesco_del_cossa%2C_15_trionfo_di_minerva.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Marzo%2C_francesco_del_cossa%2C_15_trionfo_di_minerva.jpg",
+      "license": "Public domain",
+      "attribution": "Francesco del Cossa"
+    },
     "links": [],
     "verified": true,
     "notes": "Parte del ciclo del Salone dei Mesi."
@@ -156,8 +218,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Gallerie Estensi", "url": "https://gallerie-estensi.beniculturali.it/blog/velazquez-e-il-ritratto-di-francesco-i-deste-1638/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Duke_Francesco_I_d%27Este_%28by_Diego_Vel%C3%A1zquez%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Portrait_of_Duke_Francesco_I_d%27Este_%28by_Diego_Vel%C3%A1zquez%29.jpg",
+      "license": "Public domain",
+      "attribution": "Diego Velázquez"
+    },
+    "links": [
+      {
+        "label": "Scheda Gallerie Estensi",
+        "url": "https://gallerie-estensi.beniculturali.it/blog/velazquez-e-il-ritratto-di-francesco-i-deste-1638/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -167,14 +240,23 @@
     "author_id": "cima-da-conegliano",
     "year": null,
     "year_approximate": false,
-    "year_range": [1502, 1505],
+    "year_range": [
+      1502,
+      1505
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento",
     "institution_id": "galleria-estense",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cima_da_Conegliano%2C_Compianto_sul_Cristo_morto%2C_Galleria_Estense%2C_Modena.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cima_da_Conegliano%2C_Compianto_sul_Cristo_morto%2C_Galleria_Estense%2C_Modena.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Battista Cima da Conegliano"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -192,7 +274,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Guido_reni%2C_ges%C3%B9_crocifisso%2C_1636%2C_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Guido_reni%2C_ges%C3%B9_crocifisso%2C_1636%2C_02.jpg/1920px-Guido_reni%2C_ges%C3%B9_crocifisso%2C_1636%2C_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -203,14 +291,23 @@
     "author_id": "el-greco",
     "year": null,
     "year_approximate": true,
-    "year_range": [1590, 1592],
+    "year_range": [
+      1590,
+      1592
+    ],
     "period_id": "cinquecento",
     "movement_id": "manierismo",
     "institution_id": "galleria-estense",
     "medium": null,
     "dimensions": null,
     "description": "Madonna col Bambino; S. Martina e S. Agnese; S. Tarsicio.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Modena_Triptych.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Modena_Triptych.jpg",
+      "license": "Public domain",
+      "attribution": "El Greco"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -221,15 +318,29 @@
     "author_id": "leonardo-da-vinci",
     "year": null,
     "year_approximate": true,
-    "year_range": [1492, 1501],
+    "year_range": [
+      1492,
+      1501
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "galleria-nazionale-parma",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Complesso Pilotta", "url": "https://complessopilotta.it/opera/testa-di-fanciulla-detta-la-scapiliata/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Leonardo_da_vinci%2C_testa_di_fanciulla_detta_la_scapigliata%2C_1500-10_ca.%2C_disegno_su_tavola%2C_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leonardo_da_vinci%2C_testa_di_fanciulla_detta_la_scapigliata%2C_1500-10_ca.%2C_disegno_su_tavola%2C_02.jpg/1920px-Leonardo_da_vinci%2C_testa_di_fanciulla_detta_la_scapigliata%2C_1500-10_ca.%2C_disegno_su_tavola%2C_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Complesso Pilotta",
+        "url": "https://complessopilotta.it/opera/testa-di-fanciulla-detta-la-scapiliata/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -246,8 +357,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Complesso Pilotta", "url": "https://complessopilotta.it/opera/schiava-turca/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Parmigianino%2C_ritratto_di_gentildonna_detto_la_schiava_turca%2C_1532_ca._02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Parmigianino%2C_ritratto_di_gentildonna_detto_la_schiava_turca%2C_1532_ca._02.jpg/1920px-Parmigianino%2C_ritratto_di_gentildonna_detto_la_schiava_turca%2C_1532_ca._02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Complesso Pilotta",
+        "url": "https://complessopilotta.it/opera/schiava-turca/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -257,14 +379,23 @@
     "author_id": "correggio",
     "year": null,
     "year_approximate": false,
-    "year_range": [1528, 1530],
+    "year_range": [
+      1528,
+      1530
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento-maturo",
     "institution_id": "galleria-nazionale-parma",
     "medium": null,
     "dimensions": null,
     "description": "Riposo durante il ritorno dalla fuga in Egitto.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Correggio_-_Madonna_della_Scodella_-_WGA05337.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/14/Correggio_-_Madonna_della_Scodella_-_WGA05337.jpg",
+      "license": "Public domain",
+      "attribution": "Antonio da Correggio"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -275,15 +406,29 @@
     "author_id": "gustav-klimt",
     "year": null,
     "year_approximate": false,
-    "year_range": [1916, 1917],
+    "year_range": [
+      1916,
+      1917
+    ],
     "period_id": "novecento",
     "movement_id": "post-impressionismo",
     "institution_id": "ricci-oddi",
     "medium": null,
     "dimensions": null,
     "description": "Opera-simbolo della galleria, con vicende conservative notevoli.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Ricci Oddi", "url": "https://riccioddi.it/klimt.php" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Gustav-Klimt%2C_Portrait_of_a_Lady%2C_1917%2C_Galleria_d%27Arte_Moderna_Ricci_Oddi.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gustav-Klimt%2C_Portrait_of_a_Lady%2C_1917%2C_Galleria_d%27Arte_Moderna_Ricci_Oddi.jpg/1920px-Gustav-Klimt%2C_Portrait_of_a_Lady%2C_1917%2C_Galleria_d%27Arte_Moderna_Ricci_Oddi.jpg",
+      "license": "Public domain",
+      "attribution": "Gustav Klimt"
+    },
+    "links": [
+      {
+        "label": "Scheda Ricci Oddi",
+        "url": "https://riccioddi.it/klimt.php"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -293,15 +438,29 @@
     "author_id": "sandro-botticelli",
     "year": null,
     "year_approximate": true,
-    "year_range": [1475, 1487],
+    "year_range": [
+      1475,
+      1487
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "palazzo-farnese-piacenza",
     "medium": null,
     "dimensions": null,
     "description": "Detto \"Tondo di Botticelli\". Datazione non univoca nelle fonti.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Palazzo Farnese", "url": "https://www.palazzofarnese.piacenza.it/en/page/madonna-adorante-il-figlio-con-san-giovannino" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Madonna_adorante_il_figlio_con_san_Giovannino%2C_tondo_Botticelli%2C_Piacenza.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Madonna_adorante_il_figlio_con_san_Giovannino%2C_tondo_Botticelli%2C_Piacenza.jpg/1920px-Madonna_adorante_il_figlio_con_san_Giovannino%2C_tondo_Botticelli%2C_Piacenza.jpg",
+      "license": "CC BY 4.0",
+      "attribution": "Sandro Botticelli"
+    },
+    "links": [
+      {
+        "label": "Scheda Palazzo Farnese",
+        "url": "https://www.palazzofarnese.piacenza.it/en/page/madonna-adorante-il-figlio-con-san-giovannino"
+      }
+    ],
     "verified": true,
     "notes": "Range datazione ampio: 1475–1487."
   },
@@ -318,7 +477,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -336,7 +501,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -354,7 +525,13 @@
     "medium": "Affresco",
     "dimensions": null,
     "description": "Sala rossa del Palazzo Patriarcale.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiepolo_-_Giudizio_di_Salomone%2C_408829.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tiepolo_-_Giudizio_di_Salomone%2C_408829.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Battista Tiepolo"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -372,7 +549,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -390,8 +573,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Museo Revoltella", "url": "https://museorevoltella.it/opere/gladiatori/" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Scheda Museo Revoltella",
+        "url": "https://museorevoltella.it/opere/gladiatori/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -408,8 +602,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Musei Genova", "url": "https://www.museidigenova.it/it/michelangelo-merisi-detto-caravaggio-ecce-homo-circa-1605" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg/1920px-Caravaggio_%28Michelangelo_Merisi%29_-_Ecce_Homo_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [
+      {
+        "label": "Scheda Musei Genova",
+        "url": "https://www.museidigenova.it/it/michelangelo-merisi-detto-caravaggio-ecce-homo-circa-1605"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -426,7 +631,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Anton_van_dyck%2C_ritratto_di_paola_adonno_brignole-sale%2C_1627%2C_02.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Anton_van_dyck%2C_ritratto_di_paola_adonno_brignole-sale%2C_1627%2C_02.JPG/1920px-Anton_van_dyck%2C_ritratto_di_paola_adonno_brignole-sale%2C_1627%2C_02.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Sailko"
+    },
     "links": [],
     "verified": false,
     "notes": "Datazione da verificare."
@@ -444,8 +655,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Brera", "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/sposalizio-della-vergine/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Raphael_Marriage_of_the_Virgin.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Raphael_Marriage_of_the_Virgin.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [
+      {
+        "label": "Scheda Brera",
+        "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/sposalizio-della-vergine/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -462,8 +684,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Brera", "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/cena-in-emmaus/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Merisi_Michelangelo%2C_Cena_in_Emmaus%2C_47495.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Merisi_Michelangelo%2C_Cena_in_Emmaus%2C_47495.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [
+      {
+        "label": "Scheda Brera",
+        "url": "https://pinacotecabrera.org/collezioni/collezione-on-line/cena-in-emmaus/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -473,14 +706,23 @@
     "author_id": "andrea-mantegna",
     "year": null,
     "year_approximate": true,
-    "year_range": [1475, 1490],
+    "year_range": [
+      1475,
+      1490
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "pinacoteca-brera",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/The_dead_Christ_with_three_mourners_%28by_Andrea_Mantegna%29_%E2%80%93_Pinacoteca_di_Brera.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_dead_Christ_with_three_mourners_%28by_Andrea_Mantegna%29_%E2%80%93_Pinacoteca_di_Brera.jpg/1920px-The_dead_Christ_with_three_mourners_%28by_Andrea_Mantegna%29_%E2%80%93_Pinacoteca_di_Brera.jpg",
+      "license": "Public domain",
+      "attribution": "Andrea Mantegna"
+    },
     "links": [],
     "verified": false,
     "notes": "Anno da verificare."
@@ -491,14 +733,23 @@
     "author_id": "piero-della-francesca",
     "year": null,
     "year_approximate": true,
-    "year_range": [1472, 1474],
+    "year_range": [
+      1472,
+      1474
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "pinacoteca-brera",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Piero%2C_Pala_di_Brera_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/81/Piero%2C_Pala_di_Brera_01.jpg",
+      "license": "Public domain",
+      "attribution": "see filename or category"
+    },
     "links": [],
     "verified": false,
     "notes": "Anno da verificare."
@@ -516,7 +767,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hayez_-_Il_Bacio%2C_1867%2C_5989850.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hayez_-_Il_Bacio%2C_1867%2C_5989850.jpg/1920px-Hayez_-_Il_Bacio%2C_1867%2C_5989850.jpg",
+      "license": "Public domain",
+      "attribution": "Francesco Hayez"
+    },
     "links": [],
     "verified": false,
     "notes": "Anno da verificare nel report. Datazione tradizionale: 1859."
@@ -527,14 +784,23 @@
     "author_id": "leonardo-da-vinci",
     "year": null,
     "year_approximate": true,
-    "year_range": [1480, 1485],
+    "year_range": [
+      1480,
+      1485
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "pinacoteca-ambrosiana",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg/1920px-Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+      "license": "Public domain",
+      "attribution": "Leonardo da Vinci"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -545,15 +811,29 @@
     "author_id": "caravaggio",
     "year": 1599,
     "year_approximate": true,
-    "year_range": [1597, 1600],
+    "year_range": [
+      1597,
+      1600
+    ],
     "period_id": "cinquecento",
     "movement_id": "naturalismo",
     "institution_id": "pinacoteca-ambrosiana",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Ambrosiana", "url": "https://www.ambrosiana.it/ambrosiana-lis-la-canestra-di-frutta-di-caravaggio/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Canestra_di_frutta_%28Caravaggio%29.jpg/1920px-Canestra_di_frutta_%28Caravaggio%29.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [
+      {
+        "label": "Scheda Ambrosiana",
+        "url": "https://www.ambrosiana.it/ambrosiana-lis-la-canestra-di-frutta-di-caravaggio/"
+      }
+    ],
     "verified": false,
     "notes": "Datazione puntuale da verificare."
   },
@@ -563,15 +843,29 @@
     "author_id": "piero-del-pollaiolo",
     "year": null,
     "year_approximate": true,
-    "year_range": [1470, 1480],
+    "year_range": [
+      1470,
+      1480
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "museo-poldi-pezzoli",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Poldi Pezzoli", "url": "https://museopoldipezzoli.it/scopri/collezioni/capolavori/opera/ritratto-di-dama/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Piero_del_pollaiolo%2C_ritratto_di_giovane_donna%2C_1470-75_ca._%28poldi_pezzoli%29_06.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Piero_del_pollaiolo%2C_ritratto_di_giovane_donna%2C_1470-75_ca._%28poldi_pezzoli%29_06.JPG/1920px-Piero_del_pollaiolo%2C_ritratto_di_giovane_donna%2C_1470-75_ca._%28poldi_pezzoli%29_06.JPG",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Poldi Pezzoli",
+        "url": "https://museopoldipezzoli.it/scopri/collezioni/capolavori/opera/ritratto-di-dama/"
+      }
+    ],
     "verified": false,
     "notes": "Attribuzione a Piero del Pollaiolo. Anno da verificare."
   },
@@ -588,7 +882,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raffaello_Angelo_1_%28frammento_pala_Baronci%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Raffaello_Angelo_1_%28frammento_pala_Baronci%29.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -606,7 +906,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Savoldo%2C_adorazione_dei_pastori%2C_brescia.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/36/Savoldo%2C_adorazione_dei_pastori%2C_brescia.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Girolamo Savoldo"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -617,15 +923,29 @@
     "author_id": "raffaello-sanzio",
     "year": null,
     "year_approximate": false,
-    "year_range": [1502, 1503],
+    "year_range": [
+      1502,
+      1503
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento-maturo",
     "institution_id": "accademia-carrara",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Catalogo Carrara", "url": "https://lacarrara.it/catalogo-online/81lc00207/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Raffaello_Sanzio_-_St_Sebastian_-_WGA18601.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/40/Raffaello_Sanzio_-_St_Sebastian_-_WGA18601.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [
+      {
+        "label": "Catalogo Carrara",
+        "url": "https://lacarrara.it/catalogo-online/81lc00207/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -635,15 +955,29 @@
     "author_id": "andrea-mantegna",
     "year": null,
     "year_approximate": true,
-    "year_range": [1475, 1480],
+    "year_range": [
+      1475,
+      1480
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "accademia-carrara",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Catalogo Carrara", "url": "https://lacarrara.it/catalogo-online/58ac00024/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Andrea_Mantegna%2C_Madonna_col_Bambino%2C_Accademia_Carrara%2C_Bergamo.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Andrea_Mantegna%2C_Madonna_col_Bambino%2C_Accademia_Carrara%2C_Bergamo.jpg/1920px-Andrea_Mantegna%2C_Madonna_col_Bambino%2C_Accademia_Carrara%2C_Bergamo.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Nicola Quirico"
+    },
+    "links": [
+      {
+        "label": "Catalogo Carrara",
+        "url": "https://lacarrara.it/catalogo-online/58ac00024/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -653,15 +987,29 @@
     "author_id": "sandro-botticelli",
     "year": null,
     "year_approximate": true,
-    "year_range": [1490, 1500],
+    "year_range": [
+      1490,
+      1500
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "accademia-carrara",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Catalogo Carrara", "url": "https://lacarrara.it/catalogo-online/81LC00138/" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Catalogo Carrara",
+        "url": "https://lacarrara.it/catalogo-online/81LC00138/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -678,7 +1026,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bellini%2C_Giovanni_-_Piet%C3%A0_with_Madonna_and_St._John_the_Evangelist_-_Accademia_Carrara_Bergamo.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bellini%2C_Giovanni_-_Piet%C3%A0_with_Madonna_and_St._John_the_Evangelist_-_Accademia_Carrara_Bergamo.jpg/1920px-Bellini%2C_Giovanni_-_Piet%C3%A0_with_Madonna_and_St._John_the_Evangelist_-_Accademia_Carrara_Bergamo.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Bellini"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -696,7 +1050,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": "Attribuita a Lorenzo Lotto nel report. Verificare autore corretto."
@@ -707,14 +1067,23 @@
     "author_id": "caravaggio",
     "year": null,
     "year_approximate": true,
-    "year_range": [1603, 1606],
+    "year_range": [
+      1603,
+      1606
+    ],
     "period_id": "seicento",
     "movement_id": "naturalismo",
     "institution_id": "museo-ala-ponzone",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -725,15 +1094,29 @@
     "author_id": "andrea-mantegna",
     "year": null,
     "year_approximate": true,
-    "year_range": [1465, 1474],
+    "year_range": [
+      1465,
+      1474
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "palazzo-ducale-mantova",
     "medium": "Affresco",
     "dimensions": null,
     "description": "Ciclo fondamentale della pittura rinascimentale, cultura di corte gonzaghesca.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Palazzo Ducale", "url": "https://www.mantovaducale.beniculturali.it/it/camera-picta" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Andrea_Mantegna_-_Camera_picta%2C_la_corte_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Andrea_Mantegna_-_Camera_picta%2C_la_corte_01.jpg",
+      "license": "Public domain",
+      "attribution": "Andrea Mantegna"
+    },
+    "links": [
+      {
+        "label": "Scheda Palazzo Ducale",
+        "url": "https://www.mantovaducale.beniculturali.it/it/camera-picta"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -743,14 +1126,23 @@
     "author_id": "peter-paul-rubens",
     "year": null,
     "year_approximate": true,
-    "year_range": [1604, 1605],
+    "year_range": [
+      1604,
+      1605
+    ],
     "period_id": "seicento",
     "movement_id": "barocco",
     "institution_id": "palazzo-ducale-mantova",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/La_Trinit%C3%A0_adorata_dalla_famiglia_Gonzaga_%28ricostruzione%29.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/La_Trinit%C3%A0_adorata_dalla_famiglia_Gonzaga_%28ricostruzione%29.png/1920px-La_Trinit%C3%A0_adorata_dalla_famiglia_Gonzaga_%28ricostruzione%29.png",
+      "license": "Public domain",
+      "attribution": "Peter Paul Rubens"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -761,15 +1153,29 @@
     "author_id": "giulio-romano",
     "year": null,
     "year_approximate": true,
-    "year_range": [1526, 1534],
+    "year_range": [
+      1526,
+      1534
+    ],
     "period_id": "cinquecento",
     "movement_id": "manierismo",
     "institution_id": "palazzo-te",
     "medium": "Affresco",
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Palazzo Te", "url": "https://www.centropalazzote.it/camera-dei-giganti/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Camera-dei-giganti-ceiling-mantova.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Camera-dei-giganti-ceiling-mantova.jpg/1920px-Camera-dei-giganti-ceiling-mantova.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "FedericaGaspari"
+    },
+    "links": [
+      {
+        "label": "Scheda Palazzo Te",
+        "url": "https://www.centropalazzote.it/camera-dei-giganti/"
+      }
+    ],
     "verified": false,
     "notes": "Cronologia da verificare nel dettaglio."
   },
@@ -779,15 +1185,29 @@
     "author_id": "antonello-da-messina",
     "year": null,
     "year_approximate": false,
-    "year_range": [1470, 1473],
+    "year_range": [
+      1470,
+      1473
+    ],
     "period_id": "quattrocento",
     "movement_id": "rinascimento",
     "institution_id": "pinacoteca-malaspina",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Malaspina", "url": "https://malaspina.museicivici.pavia.it/SCHEDA/?id=124" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Antonello_da_messina%2C_ritratto_d%27uomo%2C_1475-76_ca.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Antonello_da_messina%2C_ritratto_d%27uomo%2C_1475-76_ca.jpg/1920px-Antonello_da_messina%2C_ritratto_d%27uomo%2C_1475-76_ca.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Malaspina",
+        "url": "https://malaspina.museicivici.pavia.it/SCHEDA/?id=124"
+      }
+    ],
     "verified": true,
     "notes": "Opera con storia documentata di furto e recupero. Attribuzione ad Antonello da Messina."
   },
@@ -797,15 +1217,29 @@
     "author_id": "giacomo-balla",
     "year": null,
     "year_approximate": false,
-    "year_range": [1912, 1913],
+    "year_range": [
+      1912,
+      1913
+    ],
     "period_id": "novecento",
     "movement_id": "futurismo",
     "institution_id": "mart-rovereto",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda MART", "url": "https://www.mart.tn.it/opere/compenetrazione-iridescente-n-4-studio-della-luce-120110" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Scheda MART",
+        "url": "https://www.mart.tn.it/opere/compenetrazione-iridescente-n-4-studio-della-luce-120110"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -822,8 +1256,19 @@
     "medium": null,
     "dimensions": null,
     "description": "Firmato 1921.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda MART", "url": "https://www.mart.tn.it/opere/autoritratto-con-la-madre-85861" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Scheda MART",
+        "url": "https://www.mart.tn.it/opere/autoritratto-con-la-madre-85861"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -840,8 +1285,19 @@
     "medium": "Affresco",
     "dimensions": null,
     "description": "Tra i più importanti cicli profani del Gotico internazionale nell'Italia settentrionale.",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Approfondimento Trentino Cultura", "url": "https://www.cultura.trentino.it/Approfondimenti/Torre-Aquila-scopriamo-il-Ciclo-dei-mesi" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Approfondimento Trentino Cultura",
+        "url": "https://www.cultura.trentino.it/Approfondimenti/Torre-Aquila-scopriamo-il-Ciclo-dei-mesi"
+      }
+    ],
     "verified": true,
     "notes": "Attribuzione a Maestro Venceslao discussa."
   },
@@ -851,15 +1307,29 @@
     "author_id": "canaletto",
     "year": null,
     "year_approximate": true,
-    "year_range": [1725, 1730],
+    "year_range": [
+      1725,
+      1730
+    ],
     "period_id": "settecento",
     "movement_id": "vedutismo",
     "institution_id": "pinacoteca-agnelli",
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Pinacoteca Agnelli", "url": "https://www.pinacoteca-agnelli.it/collezione/giovanni-antonio-canal-detto-il-canaletto-campo-santi-giovanni-e-paolo/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Giovanni_Antonio_Canal%2C_detto_il_Canaletto%2C_Campo_Santi_Giovanni_e_Paolo_%281726%29_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Giovanni_Antonio_Canal%2C_detto_il_Canaletto%2C_Campo_Santi_Giovanni_e_Paolo_%281726%29_02.jpg/1920px-Giovanni_Antonio_Canal%2C_detto_il_Canaletto%2C_Campo_Santi_Giovanni_e_Paolo_%281726%29_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mongolo1984"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Agnelli",
+        "url": "https://www.pinacoteca-agnelli.it/collezione/giovanni-antonio-canal-detto-il-canaletto-campo-santi-giovanni-e-paolo/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -876,8 +1346,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Pinacoteca Agnelli", "url": "https://www.pinacoteca-agnelli.it/collezione/nu-couche-1917/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Modigliani_-_Nu_couch%C3%A9.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Modigliani_-_Nu_couch%C3%A9.jpg/1920px-Modigliani_-_Nu_couch%C3%A9.jpg",
+      "license": "Public domain",
+      "attribution": "Amedeo Modigliani"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Agnelli",
+        "url": "https://www.pinacoteca-agnelli.it/collezione/nu-couche-1917/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -894,8 +1375,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Pinacoteca Agnelli", "url": "https://www.pinacoteca-agnelli.it/collezione/lhetaire/" }],
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pablo_Picasso%2C_L%27H%C3%A9taire_%281901%29_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pablo_Picasso%2C_L%27H%C3%A9taire_%281901%29_01.jpg/1920px-Pablo_Picasso%2C_L%27H%C3%A9taire_%281901%29_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mongolo1984"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Agnelli",
+        "url": "https://www.pinacoteca-agnelli.it/collezione/lhetaire/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -912,7 +1404,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -930,7 +1428,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -948,7 +1452,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Elia_naurizio%2C_congregazione_generale_del_concilio_di_trento_in_s.m._maggiore%2C_1633%2C_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Elia_naurizio%2C_congregazione_generale_del_concilio_di_trento_in_s.m._maggiore%2C_1633%2C_02.jpg/1920px-Elia_naurizio%2C_congregazione_generale_del_concilio_di_trento_in_s.m._maggiore%2C_1633%2C_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
     "links": [],
     "verified": true,
     "notes": null
@@ -966,7 +1476,13 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
     "links": [],
     "verified": true,
     "notes": "Attribuito."
@@ -984,8 +1500,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda Museo Borgogna", "url": "https://www.museoborgogna.it/opere/lorenzo-delleani-torrente-di-maggio/" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Scheda Museo Borgogna",
+        "url": "https://www.museoborgogna.it/opere/lorenzo-delleani-torrente-di-maggio/"
+      }
+    ],
     "verified": true,
     "notes": null
   },
@@ -1002,8 +1529,19 @@
     "medium": null,
     "dimensions": null,
     "description": "",
-    "image": { "source": "placeholder", "url": null, "license": null, "attribution": null },
-    "links": [{ "label": "Scheda GAM Torino", "url": "https://www.gamtorino.it/it/archivio-catalogo/giornata-di-vento-una-giornata-di-vento/" }],
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [
+      {
+        "label": "Scheda GAM Torino",
+        "url": "https://www.gamtorino.it/it/archivio-catalogo/giornata-di-vento-una-giornata-di-vento/"
+      }
+    ],
     "verified": true,
     "notes": null
   }
