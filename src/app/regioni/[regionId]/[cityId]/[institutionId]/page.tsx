@@ -11,6 +11,7 @@ import {
   getInstitutionById,
   getRegionById,
   institutions,
+  sortArtworksByYear,
 } from "@/lib/data";
 import { formatArtworkDate, formatCount } from "@/lib/format";
 
@@ -60,7 +61,7 @@ export default async function InstitutionPage({
     notFound();
   }
 
-  const artworks = getArtworksByInstitution(institution.id);
+  const artworks = sortArtworksByYear(getArtworksByInstitution(institution.id));
 
   return (
     <section className="space-y-8">
@@ -110,7 +111,7 @@ export default async function InstitutionPage({
           {artworks.map((artwork) => (
             <Link
               key={artwork.id}
-              href={`/opera/${artwork.id}`}
+              href={`/opera/${artwork.id}?context=institution:${institution.id}`}
               className="flex flex-col gap-4 rounded-3xl border border-border bg-bg-secondary p-4 transition-colors hover:border-accent"
             >
               <ArtworkPlaceholder className="aspect-[4/3] w-full" />

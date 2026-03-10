@@ -15,7 +15,7 @@ export function formatInstitutionType(type: InstitutionType): string {
   return institutionTypeLabels[type];
 }
 
-export function formatArtworkDate(
+export function formatYear(
   artwork: Pick<Artwork, "year" | "year_approximate" | "year_range">,
 ): string {
   if (artwork.year !== null) {
@@ -30,6 +30,8 @@ export function formatArtworkDate(
 
   return "Data sconosciuta";
 }
+
+export const formatArtworkDate = formatYear;
 
 export function formatCount(
   count: number,

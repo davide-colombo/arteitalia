@@ -8,7 +8,9 @@ import {
   getMovementById,
   getPeriodById,
   movements,
+  sortArtworksByYear,
 } from "@/lib/data";
+import { formatYear } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -28,7 +30,7 @@ export default async function MovementPage({ params }: MovementPageProps) {
     notFound();
   }
 
-  const artworks = getArtworksByMovement(movement.id);
+  const artworks = sortArtworksByYear(getArtworksByMovement(movement.id));
 
   return (
     <PageShell
@@ -38,9 +40,9 @@ export default async function MovementPage({ params }: MovementPageProps) {
       <p className="max-w-3xl text-text-secondary">{movement.description}</p>
       <EntityList
         items={artworks.map((artwork) => ({
-          href: `/opera/${artwork.id}`,
+          href: `/opera/${artwork.id}?context=movement:${movement.id}`,
           title: artwork.title,
-          meta: artwork.year ? String(artwork.year) : "Anno non disponibile",
+          meta: formatYear(artwork),
           description:
             getAuthorById(artwork.author_id)?.name ?? "Autore non disponibile",
         }))}

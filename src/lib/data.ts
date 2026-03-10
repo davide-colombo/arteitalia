@@ -15,6 +15,17 @@ import type {
   Region,
 } from "@/types/schema";
 
+export type ArtworkContextType =
+  | "institution"
+  | "author"
+  | "period"
+  | "movement";
+
+export type ArtworkContext = {
+  type: ArtworkContextType;
+  id: string;
+};
+
 export const regions = regionsData as Region[];
 export const cities = citiesData as City[];
 export const institutions = institutionsData as Institution[];
@@ -123,6 +134,93 @@ export function getArtworksByPeriod(periodId: string): Artwork[] {
 
 export function getArtworksByMovement(movementId: string): Artwork[] {
   return artworks.filter((artwork) => artwork.movement_id === movementId);
+}
+
+function getArtworkYearValue(artwork: Artwork): number | null {
+  if (artwork.year !== null) {
+    return artwork.year;
+  }
+
+  return artwork.year_range ? artwork.year_range[0] : null;
+}
+
+export function sortArtworksByYear(entries: Artwork[]): Artwork[] {
+  return [...entries].sort((left, right) => {
+    const leftYear = getArtworkYearValue(left);
+    const rightYear = getArtworkYearValue(right);
+
+    if (leftYear === null && rightYear === null) {
+      return left.title.localeCompare(right.title, "it");
+    }
+
+    if (leftYear === null) {
+      return 1;
+    }
+
+    if (rightYear === null) {
+      return -1;
+    }
+
+    if (leftYear === rightYear) {
+      return left.title.localeCompare(right.title, "it");
+    }
+
+    return leftYear - rightYear;
+  });
+}
+
+export function sortArtworksByTitle(entries: Artwork[]): Artwork[] {
+  return [...entries].sort((left, right) =>
+    left.title.localeCompare(right.title, "it"),
+  );
+}
+
+export function parseArtworkContext(
+  value: string | string[] | undefined,
+): ArtworkContext | null {
+  const rawValue = Array.isArray(value) ? value[0] : value;
+
+  if (!rawValue) {
+    return null;
+  }
+
+  const [type, ...rest] = rawValue.split(":");
+  const id = rest.join(":").trim();
+
+  if (
+    (type === "institution" ||
+      type === "author" ||
+      type === "period" ||
+      type === "movement") &&
+    id
+  ) {
+    return {
+      type,
+      id,
+    };
+  }
+
+  return null;
+}
+
+export function getArtworksForContext(context: ArtworkContext | null): Artwork[] {
+  if (!context) {
+    return sortArtworksByTitle(artworks);
+  }
+
+  if (context.type === "institution") {
+    return sortArtworksByYear(getArtworksByInstitution(context.id));
+  }
+
+  if (context.type === "author") {
+    return sortArtworksByYear(getArtworksByAuthor(context.id));
+  }
+
+  if (context.type === "period") {
+    return sortArtworksByYear(getArtworksByPeriod(context.id));
+  }
+
+  return sortArtworksByYear(getArtworksByMovement(context.id));
 }
 
 export function getAuthorById(id: string): Author | undefined {

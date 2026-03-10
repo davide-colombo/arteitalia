@@ -7,7 +7,9 @@ import {
   getArtworksByAuthor,
   getAuthorById,
   getInstitutionById,
+  sortArtworksByYear,
 } from "@/lib/data";
+import { formatYear } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -35,7 +37,7 @@ export default async function AuthorPage({ params }: AuthorPageProps) {
     notFound();
   }
 
-  const artworks = getArtworksByAuthor(author.id);
+  const artworks = sortArtworksByYear(getArtworksByAuthor(author.id));
 
   return (
     <PageShell
@@ -45,9 +47,9 @@ export default async function AuthorPage({ params }: AuthorPageProps) {
       <p className="max-w-3xl text-text-secondary">{author.bio}</p>
       <EntityList
         items={artworks.map((artwork) => ({
-          href: `/opera/${artwork.id}`,
+          href: `/opera/${artwork.id}?context=author:${author.id}`,
           title: artwork.title,
-          meta: artwork.year ? String(artwork.year) : "Anno non disponibile",
+          meta: formatYear(artwork),
           description:
             getInstitutionById(artwork.institution_id)?.name ??
             "Istituzione non disponibile",
