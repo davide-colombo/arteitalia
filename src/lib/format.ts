@@ -33,6 +33,18 @@ export function formatYear(
 
 export const formatArtworkDate = formatYear;
 
+export function formatLifeYears(
+  birthYear: number | null,
+  deathYear: number | null,
+  fallback?: string,
+): string | undefined {
+  if (!birthYear && !deathYear) {
+    return fallback;
+  }
+
+  return `${birthYear ?? "?"} - ${deathYear ?? "?"}`;
+}
+
 export function formatCount(
   count: number,
   singular: string,

@@ -1,16 +1,15 @@
+import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { EntityList } from "@/components/entity-list";
-import { PageShell } from "@/components/page-shell";
+import { ArtworkGrid } from "@/components/ArtworkGrid";
+import { Breadcrumb } from "@/components/Breadcrumb";
 import {
   getArtworksByMovement,
-  getAuthorById,
   getMovementById,
   getPeriodById,
   movements,
   sortArtworksByYear,
 } from "@/lib/data";
-import { formatYear } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -31,23 +30,40 @@ export default async function MovementPage({ params }: MovementPageProps) {
   }
 
   const artworks = sortArtworksByYear(getArtworksByMovement(movement.id));
+  const period = getPeriodById(movement.period_id);
 
   return (
-    <PageShell
-      title={movement.name}
-      subtitle={getPeriodById(movement.period_id)?.name ?? "Corrente pittorica"}
-    >
-      <p className="max-w-3xl text-text-secondary">{movement.description}</p>
-      <EntityList
-        items={artworks.map((artwork) => ({
-          href: `/opera/${artwork.id}?context=movement:${movement.id}`,
-          title: artwork.title,
-          meta: formatYear(artwork),
-          description:
-            getAuthorById(artwork.author_id)?.name ?? "Autore non disponibile",
-        }))}
+    <section className="space-y-8">
+      <Breadcrumb
+        segments={[
+          { label: "Correnti", href: "/correnti" },
+          { label: movement.name, href: `/correnti/${movement.id}` },
+        ]}
+      />
+      <section className="space-y-4 rounded-3xl border border-border bg-bg-secondary p-6 sm:p-8">
+        <div className="space-y-2">
+          <h1 className="font-serif text-4xl leading-tight sm:text-5xl">
+            {movement.name}
+          </h1>
+          {period ? (
+            <Link
+              href={`/periodi/${period.id}`}
+              className="text-base text-accent transition-colors hover:text-accent-hover"
+            >
+              {period.name}
+            </Link>
+          ) : null}
+        </div>
+        <p className="max-w-4xl leading-7 text-text-secondary">
+          {movement.description}
+        </p>
+      </section>
+      <ArtworkGrid
+        artworks={artworks}
+        context={`movement:${movement.id}`}
+        showMovementFilter={false}
         emptyLabel="Nessuna opera disponibile per questa corrente."
       />
-    </PageShell>
+    </section>
   );
 }

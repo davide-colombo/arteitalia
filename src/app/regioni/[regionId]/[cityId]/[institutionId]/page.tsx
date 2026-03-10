@@ -1,19 +1,17 @@
-import Link from "next/link";
 import { notFound } from "next/navigation";
 
-import { ArtworkPlaceholder } from "@/components/ArtworkPlaceholder";
+import { ArtworkGrid } from "@/components/ArtworkGrid";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { InstitutionTypeBadge } from "@/components/InstitutionTypeBadge";
 import {
   getArtworksByInstitution,
-  getAuthorById,
   getCityById,
   getInstitutionById,
   getRegionById,
   institutions,
   sortArtworksByYear,
 } from "@/lib/data";
-import { formatArtworkDate, formatCount } from "@/lib/format";
+import { formatCount } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -102,34 +100,11 @@ export default async function InstitutionPage({
           {formatCount(artworks.length, "opera", "opere")} censite in catalogo
         </p>
       </section>
-      {artworks.length === 0 ? (
-        <div className="flex min-h-64 items-center justify-center rounded-3xl border border-dashed border-border bg-bg-secondary px-6 text-center text-text-secondary">
-          Nessuna opera censita per questo museo.
-        </div>
-      ) : (
-        <div className="grid grid-cols-2 gap-4 md:grid-cols-3 xl:grid-cols-4">
-          {artworks.map((artwork) => (
-            <Link
-              key={artwork.id}
-              href={`/opera/${artwork.id}?context=institution:${institution.id}`}
-              className="flex flex-col gap-4 rounded-3xl border border-border bg-bg-secondary p-4 transition-colors hover:border-accent"
-            >
-              <ArtworkPlaceholder className="aspect-[4/3] w-full" />
-              <div className="space-y-1">
-                <h2 className="font-serif text-xl leading-snug line-clamp-2">
-                  {artwork.title}
-                </h2>
-                <p className="text-sm text-text-secondary">
-                  {getAuthorById(artwork.author_id)?.name ?? "Autore sconosciuto"}
-                </p>
-                <p className="text-sm text-text-secondary">
-                  {formatArtworkDate(artwork)}
-                </p>
-              </div>
-            </Link>
-          ))}
-        </div>
-      )}
+      <ArtworkGrid
+        artworks={artworks}
+        context={`institution:${institution.id}`}
+        emptyLabel="Nessuna opera censita per questo museo."
+      />
     </section>
   );
 }

@@ -1,15 +1,13 @@
+import { ArtworkGrid } from "@/components/ArtworkGrid";
+import { Breadcrumb } from "@/components/Breadcrumb";
 import { notFound } from "next/navigation";
 
-import { EntityList } from "@/components/entity-list";
-import { PageShell } from "@/components/page-shell";
 import {
   getArtworksByPeriod,
-  getAuthorById,
   getPeriodById,
   periods,
   sortArtworksByYear,
 } from "@/lib/data";
-import { formatYear } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -32,20 +30,27 @@ export default async function PeriodPage({ params }: PeriodPageProps) {
   const artworks = sortArtworksByYear(getArtworksByPeriod(period.id));
 
   return (
-    <PageShell
-      title={period.name}
-      subtitle={`${period.start_year} - ${period.end_year}`}
-    >
-      <EntityList
-        items={artworks.map((artwork) => ({
-          href: `/opera/${artwork.id}?context=period:${period.id}`,
-          title: artwork.title,
-          meta: formatYear(artwork),
-          description:
-            getAuthorById(artwork.author_id)?.name ?? "Autore non disponibile",
-        }))}
+    <section className="space-y-8">
+      <Breadcrumb
+        segments={[
+          { label: "Periodi", href: "/periodi" },
+          { label: period.name, href: `/periodi/${period.id}` },
+        ]}
+      />
+      <section className="space-y-3 rounded-3xl border border-border bg-bg-secondary p-6 sm:p-8">
+        <h1 className="font-serif text-4xl leading-tight sm:text-5xl">
+          {period.name}
+        </h1>
+        <p className="text-base text-text-secondary sm:text-lg">
+          {period.start_year}–{period.end_year}
+        </p>
+      </section>
+      <ArtworkGrid
+        artworks={artworks}
+        context={`period:${period.id}`}
+        showPeriodFilter={false}
         emptyLabel="Nessuna opera disponibile per questo periodo."
       />
-    </PageShell>
+    </section>
   );
 }

@@ -1,6 +1,10 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Cormorant_Garamond, Inter } from "next/font/google";
+
+import { NavbarSearch } from "@/components/NavbarSearch";
+
 import "./globals.css";
 
 const inter = Inter({
@@ -57,6 +61,9 @@ export default function RootLayout({
                     {item.label}
                   </Link>
                 ))}
+                <Suspense fallback={null}>
+                  <NavbarSearch />
+                </Suspense>
               </nav>
             </div>
           </header>

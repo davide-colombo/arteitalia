@@ -90,6 +90,18 @@ export function getRegionByInstitutionId(
   return city ? getRegionById(city.region_id) : undefined;
 }
 
+export function getInstitutionPath(institutionId: string): string | null {
+  const institution = getInstitutionById(institutionId);
+  const city = getCityByInstitutionId(institutionId);
+  const region = getRegionByInstitutionId(institutionId);
+
+  if (!institution || !city || !region) {
+    return null;
+  }
+
+  return `/regioni/${region.id}/${city.id}/${institution.id}`;
+}
+
 export function getInstitutionsByCity(cityId: string): Institution[] {
   return institutions.filter((institution) => institution.city_id === cityId);
 }
