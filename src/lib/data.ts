@@ -43,16 +43,50 @@ export function getCityById(id: string): City | undefined {
   return citiesById.get(id);
 }
 
+export function getRegionByCityId(cityId: string): Region | undefined {
+  const city = getCityById(cityId);
+
+  return city ? getRegionById(city.region_id) : undefined;
+}
+
 export function getCitiesByRegion(regionId: string): City[] {
   return cities.filter((city) => city.region_id === regionId);
+}
+
+export function getCitiesWithInstitutionsByRegion(regionId: string): City[] {
+  return getCitiesByRegion(regionId).filter(
+    (city) => getInstitutionsByCity(city.id).length > 0,
+  );
 }
 
 export function getInstitutionById(id: string): Institution | undefined {
   return institutionsById.get(id);
 }
 
+export function getCityByInstitutionId(
+  institutionId: string,
+): City | undefined {
+  const institution = getInstitutionById(institutionId);
+
+  return institution ? getCityById(institution.city_id) : undefined;
+}
+
+export function getRegionByInstitutionId(
+  institutionId: string,
+): Region | undefined {
+  const city = getCityByInstitutionId(institutionId);
+
+  return city ? getRegionById(city.region_id) : undefined;
+}
+
 export function getInstitutionsByCity(cityId: string): Institution[] {
   return institutions.filter((institution) => institution.city_id === cityId);
+}
+
+export function getInstitutionsByRegion(regionId: string): Institution[] {
+  const cityIds = new Set(getCitiesByRegion(regionId).map((city) => city.id));
+
+  return institutions.filter((institution) => cityIds.has(institution.city_id));
 }
 
 export function getArtworkById(id: string): Artwork | undefined {
@@ -61,6 +95,22 @@ export function getArtworkById(id: string): Artwork | undefined {
 
 export function getArtworksByInstitution(institutionId: string): Artwork[] {
   return artworks.filter((artwork) => artwork.institution_id === institutionId);
+}
+
+export function getArtworksByCity(cityId: string): Artwork[] {
+  const institutionIds = new Set(
+    getInstitutionsByCity(cityId).map((institution) => institution.id),
+  );
+
+  return artworks.filter((artwork) => institutionIds.has(artwork.institution_id));
+}
+
+export function getArtworksByRegion(regionId: string): Artwork[] {
+  const institutionIds = new Set(
+    getInstitutionsByRegion(regionId).map((institution) => institution.id),
+  );
+
+  return artworks.filter((artwork) => institutionIds.has(artwork.institution_id));
 }
 
 export function getArtworksByAuthor(authorId: string): Artwork[] {
