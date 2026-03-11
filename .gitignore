@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# generated research artifacts
+/scripts/research/
+/scripts/institution_audit_pre_enrichment.txt
