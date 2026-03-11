@@ -6,8 +6,16 @@
     "city_id": "bologna",
     "description": "Raccolta fondamentale della pittura emiliana e italiana tra Rinascimento e pieno Barocco, con capolavori di Raffaello, Guido Reni e Guercino.",
     "website": "https://pinacotecabologna.beniculturali.it/",
-    "periods": ["cinquecento", "seicento"],
-    "movements": ["rinascimento", "rinascimento-maturo", "manierismo", "barocco"],
+    "periods": [
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo",
+      "manierismo",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -17,8 +25,16 @@
     "city_id": "bologna",
     "description": "Raccolte civiche con percorso centrato su scuola bolognese ed emiliana, con affondi sul Settecento cittadino.",
     "website": "https://www.museibologna.it/arteantica/",
-    "periods": ["quattrocento", "cinquecento", "seicento", "settecento"],
-    "movements": ["rinascimento", "barocco"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -28,8 +44,12 @@
     "city_id": "ferrara",
     "description": "Noto per il Salone dei Mesi, vertice della cultura figurativa estense e dell'officina ferrarese del secondo Quattrocento.",
     "website": "https://www.museiferrara.it/",
-    "periods": ["quattrocento"],
-    "movements": ["rinascimento"],
+    "periods": [
+      "quattrocento"
+    ],
+    "movements": [
+      "rinascimento"
+    ],
     "notes": null
   },
   {
@@ -39,8 +59,16 @@
     "city_id": "modena",
     "description": "Collezione estense con ampia lettura di scuole italiane ed europee dal Quattrocento al Seicento.",
     "website": "https://cultura.gov.it/luogo/galleria-estense",
-    "periods": ["quattrocento", "cinquecento", "seicento"],
-    "movements": ["rinascimento", "manierismo", "barocco"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -50,8 +78,13 @@
     "city_id": "parma",
     "description": "Nodo primario per la pittura parmense del Cinquecento (Correggio e Parmigianino), parte del complesso della Pilotta.",
     "website": "https://complessopilotta.it/",
-    "periods": ["cinquecento"],
-    "movements": ["rinascimento-maturo", "manierismo"],
+    "periods": [
+      "cinquecento"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "manierismo"
+    ],
     "notes": null
   },
   {
@@ -61,8 +94,18 @@
     "city_id": "parma",
     "description": "Itinerario dal tardo Medioevo al XIX secolo con forte peso della pittura sacra e produzione locale.",
     "website": "https://cultura.comune.parma.it/luogo/it-IT/Pinacoteca-Stuard.aspx",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "seicento", "ottocento"],
-    "movements": ["gotico", "rinascimento", "barocco"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -72,8 +115,14 @@
     "city_id": "piacenza",
     "description": "Nucleo centrale di pittura tra Otto e Novecento con focus su collezionismo italiano. Opera-simbolo: Ritratto di signora di Klimt.",
     "website": "https://riccioddi.it/",
-    "periods": ["ottocento", "novecento"],
-    "movements": ["realismo", "novecento-italiano"],
+    "periods": [
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "realismo",
+      "novecento-italiano"
+    ],
     "notes": null
   },
   {
@@ -83,8 +132,18 @@
     "city_id": "piacenza",
     "description": "Pinacoteca dal XIV al XIX secolo con provenienze farnesiane. Pezzo forte: il Tondo di Botticelli.",
     "website": "https://www.palazzofarnese.piacenza.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "settecento"],
-    "movements": ["gotico", "rinascimento", "barocco", "neoclassicismo"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "settecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "neoclassicismo"
+    ],
     "notes": "Datazione del Tondo di Botticelli non univoca nelle fonti."
   },
   {
@@ -94,8 +153,16 @@
     "city_id": "reggio-emilia",
     "description": "Collezione privata aperta al pubblico centrata sull'arte dal 1945 a oggi. Capolavori di Bacon e Twombly.",
     "website": "https://www.collezionemaramotti.org/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["informale", "pop-art", "arte-povera", "arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "informale",
+      "pop-art",
+      "arte-povera",
+      "arte-contemporanea"
+    ],
     "notes": "Accesso su prenotazione con visita accompagnata."
   },
   {
@@ -105,8 +172,12 @@
     "city_id": "udine",
     "description": "Palazzo Patriarcale con affreschi settecenteschi di Giambattista Tiepolo realizzati per il patriarca Dionisio Dolfin.",
     "website": "https://www.musdioc-tiepolo.it/it/homepage",
-    "periods": ["settecento"],
-    "movements": ["barocco"],
+    "periods": [
+      "settecento"
+    ],
+    "movements": [
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -116,8 +187,13 @@
     "city_id": "trieste",
     "description": "Galleria civica con catalogo di pittura e scultura moderna, capolavori del primo Novecento italiano.",
     "website": "https://museorevoltella.it/",
-    "periods": ["novecento"],
-    "movements": ["metafisica", "novecento-italiano"],
+    "periods": [
+      "novecento"
+    ],
+    "movements": [
+      "metafisica",
+      "novecento-italiano"
+    ],
     "notes": null
   },
   {
@@ -127,8 +203,13 @@
     "city_id": "trieste",
     "description": "Casa museo con tele ottocentesche di soggetto storico-letterario e patriottico, raccolte su carta e disegni tiepoleschi.",
     "website": "https://museosartoriotrieste.it/",
-    "periods": ["ottocento", "settecento"],
-    "movements": ["romanticismo"],
+    "periods": [
+      "ottocento",
+      "settecento"
+    ],
+    "movements": [
+      "romanticismo"
+    ],
     "notes": null
   },
   {
@@ -138,8 +219,14 @@
     "city_id": "pordenone",
     "description": "Dipinti veneto-friulani dal Rinascimento all'età moderna in Palazzo Ricchieri.",
     "website": "https://museoarte.comune.pordenone.it/",
-    "periods": ["cinquecento", "seicento"],
-    "movements": ["rinascimento-maturo", "barocco"],
+    "periods": [
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -149,8 +236,15 @@
     "city_id": "genova",
     "description": "Complesso museale civico (Palazzo Rosso, Palazzo Bianco, Palazzo Doria Tursi) con collezioni di pittura europea. Patrimonio UNESCO.",
     "website": "https://www.museidigenova.it/it/musei-di-strada-nuova",
-    "periods": ["cinquecento", "seicento"],
-    "movements": ["rinascimento", "manierismo", "barocco"],
+    "periods": [
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco"
+    ],
     "notes": "Parte del sito UNESCO 'Genova: Le Strade Nuove e il sistema dei Palazzi dei Rolli'."
   },
   {
@@ -160,8 +254,17 @@
     "city_id": "la-spezia",
     "description": "Collezione donata alla città con oltre mille opere, nucleo pittorico dal Medioevo al XVIII secolo.",
     "website": "https://museolia.museilaspezia.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "seicento", "settecento"],
-    "movements": ["rinascimento", "rinascimento-maturo"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo"
+    ],
     "notes": null
   },
   {
@@ -171,8 +274,15 @@
     "city_id": "savona",
     "description": "Tavole tardogotiche, Rinascimento ligure e presenze di scuola lombarda/veneta.",
     "website": "https://musa.savona.it/pinacoteca/",
-    "periods": ["medioevo", "quattrocento", "cinquecento"],
-    "movements": ["gotico", "rinascimento"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento"
+    ],
     "notes": null
   },
   {
@@ -182,8 +292,19 @@
     "city_id": "milano",
     "description": "Capolavori-cardine della pittura italiana tra Rinascimento e Seicento con percorsi di approfondimento strutturati.",
     "website": "https://pinacotecabrera.org/",
-    "periods": ["quattrocento", "cinquecento", "seicento", "ottocento"],
-    "movements": ["rinascimento", "rinascimento-maturo", "manierismo", "barocco", "romanticismo"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo",
+      "manierismo",
+      "barocco",
+      "romanticismo"
+    ],
     "notes": null
   },
   {
@@ -193,8 +314,16 @@
     "city_id": "milano",
     "description": "Opere-chiave tra Rinascimento lombardo-romano e pittura naturalista, incluso il cartone della Scuola di Atene.",
     "website": "https://www.ambrosiana.it/",
-    "periods": ["quattrocento", "cinquecento", "seicento"],
-    "movements": ["rinascimento", "rinascimento-maturo", "naturalismo"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo",
+      "naturalismo"
+    ],
     "notes": null
   },
   {
@@ -204,8 +333,13 @@
     "city_id": "milano",
     "description": "Casa museo con dipinti rinascimentali e devozionali di scuola italiana tra Quattrocento e Cinquecento.",
     "website": "https://museopoldipezzoli.it/",
-    "periods": ["quattrocento", "cinquecento"],
-    "movements": ["rinascimento"],
+    "periods": [
+      "quattrocento",
+      "cinquecento"
+    ],
+    "movements": [
+      "rinascimento"
+    ],
     "notes": null
   },
   {
@@ -215,8 +349,15 @@
     "city_id": "brescia",
     "description": "Percorso dal Rinascimento all'Ottocento con nucleo di maestri del Cinquecento lombardo-veneto.",
     "website": "https://www.bresciamusei.com/musei-e-luoghi/pinacoteca-tosio-martinengo/",
-    "periods": ["cinquecento", "seicento", "ottocento"],
-    "movements": ["rinascimento", "rinascimento-maturo"],
+    "periods": [
+      "cinquecento",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo"
+    ],
     "notes": null
   },
   {
@@ -226,8 +367,21 @@
     "city_id": "bergamo",
     "description": "Museo di riferimento per la pittura dal Gotico all'Ottocento, nucleo forte tra Rinascimento e tradizione lombardo-veneta. Catalogo online strutturato.",
     "website": "https://lacarrara.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "seicento", "settecento", "ottocento"],
-    "movements": ["gotico", "rinascimento", "rinascimento-maturo", "manierismo", "barocco"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "rinascimento-maturo",
+      "manierismo",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -237,8 +391,14 @@
     "city_id": "bergamo",
     "description": "Istituzione centrale per arte moderna e contemporanea in area lombarda, con collezione permanente e nuclei storici.",
     "website": "https://www.gamec.it/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["novecento-italiano", "arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "novecento-italiano",
+      "arte-contemporanea"
+    ],
     "notes": null
   },
   {
@@ -248,8 +408,16 @@
     "city_id": "cremona",
     "description": "Pinacoteca civica di riferimento per l'arte a Cremona, opere tra Rinascimento lombardo e Seicento.",
     "website": "https://musei.comune.cremona.it/",
-    "periods": ["cinquecento", "seicento"],
-    "movements": ["rinascimento", "manierismo", "barocco", "naturalismo"],
+    "periods": [
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco",
+      "naturalismo"
+    ],
     "notes": "Arcimboldo in prestito: verificare stato aggiornato."
   },
   {
@@ -259,8 +427,16 @@
     "city_id": "mantova",
     "description": "Complesso di primaria importanza per la pittura rinascimentale e la cultura di corte, con la Camera degli Sposi di Mantegna. UNESCO.",
     "website": "https://www.palazzoducalemantova.it/",
-    "periods": ["quattrocento", "cinquecento", "seicento"],
-    "movements": ["rinascimento", "manierismo", "barocco"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco"
+    ],
     "notes": "UNESCO (Mantova e Sabbioneta). Distinguere opere mobili vs cicli inamovibili."
   },
   {
@@ -270,8 +446,12 @@
     "city_id": "mantova",
     "description": "Capolavoro della cultura manierista, decorazione ad affresco su committenza gonzaghesca. Giulio Romano.",
     "website": "https://www.centropalazzote.it/",
-    "periods": ["cinquecento"],
-    "movements": ["manierismo"],
+    "periods": [
+      "cinquecento"
+    ],
+    "movements": [
+      "manierismo"
+    ],
     "notes": "Ambienti dipinti: modellare come opere/insiemi complessi."
   },
   {
@@ -281,8 +461,14 @@
     "city_id": "milano",
     "description": "Casa museo FAI del Novecento con architettura razionalista e collezione pittorica legata al collezionismo milanese.",
     "website": "https://fondoambiente.it/luoghi/villa-necchi-campiglio",
-    "periods": ["settecento", "novecento"],
-    "movements": ["vedutismo", "novecento-italiano"],
+    "periods": [
+      "settecento",
+      "novecento"
+    ],
+    "movements": [
+      "vedutismo",
+      "novecento-italiano"
+    ],
     "notes": "Schede FAI parziali; lista completa opere da richiedere."
   },
   {
@@ -292,8 +478,13 @@
     "city_id": "milano",
     "description": "Fondamentale per la pittura italiana del XX secolo. Collezione Boschi/Di Stefano, parte del sistema museale civico.",
     "website": "https://www.casamuseoboschidistefano.it/",
-    "periods": ["novecento"],
-    "movements": ["metafisica", "novecento-italiano"],
+    "periods": [
+      "novecento"
+    ],
+    "movements": [
+      "metafisica",
+      "novecento-italiano"
+    ],
     "notes": "Titoli specifici da verificare su catalogo completo."
   },
   {
@@ -303,8 +494,15 @@
     "city_id": "milano",
     "description": "Museo cardine per la pittura del XX secolo a Milano, arte italiana e avanguardie.",
     "website": "https://www.museodelnovecento.org/",
-    "periods": ["novecento"],
-    "movements": ["futurismo", "novecento-italiano", "spazialismo", "arte-contemporanea"],
+    "periods": [
+      "novecento"
+    ],
+    "movements": [
+      "futurismo",
+      "novecento-italiano",
+      "spazialismo",
+      "arte-contemporanea"
+    ],
     "notes": "Il Quarto Stato di Pellizza da Volpedo è alla GAM di Milano dal 2022."
   },
   {
@@ -314,8 +512,15 @@
     "city_id": "pavia",
     "description": "Nucleo strategico per pittura tra Quattrocento e primo Cinquecento, collezione Malaspina. Tracciabile via ICCD.",
     "website": "https://museicivici.comune.pavia.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento"],
-    "movements": ["gotico-internazionale", "rinascimento"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento"
+    ],
+    "movements": [
+      "gotico-internazionale",
+      "rinascimento"
+    ],
     "notes": "Ritratto d'uomo di Antonello da Messina: storia di furto e recupero documentata."
   },
   {
@@ -325,8 +530,16 @@
     "city_id": "torino",
     "description": "Pinacoteca storica di corte, nodo primario per pittura tra Quattrocento e Seicento, scuole italiane e europee.",
     "website": "https://museireali.beniculturali.it/",
-    "periods": ["quattrocento", "cinquecento", "seicento"],
-    "movements": ["rinascimento", "manierismo", "barocco"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco"
+    ],
     "notes": null
   },
   {
@@ -336,8 +549,17 @@
     "city_id": "torino",
     "description": "Museo civico di riferimento per Ottocento e Novecento, con catalogo online consultabile.",
     "website": "https://www.gamtorino.it/",
-    "periods": ["ottocento", "novecento", "contemporaneo"],
-    "movements": ["realismo", "novecento-italiano", "informale", "arte-contemporanea"],
+    "periods": [
+      "ottocento",
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "realismo",
+      "novecento-italiano",
+      "informale",
+      "arte-contemporanea"
+    ],
     "notes": "Opere in comodato da Fondazione CRT: distinguere proprietà vs comodato."
   },
   {
@@ -347,8 +569,19 @@
     "city_id": "torino",
     "description": "Museo civico con collezioni ampie (arti decorative e pittura) in edificio simbolo della storia torinese.",
     "website": "https://www.palazzomadamatorino.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "seicento", "settecento"],
-    "movements": ["gotico", "rinascimento", "barocco", "vedutismo"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "vedutismo"
+    ],
     "notes": "Schede pubbliche limitate; selezione capolavori richiede normalizzazione."
   },
   {
@@ -358,8 +591,17 @@
     "city_id": "torino",
     "description": "Pinacoteca storica legata all'Accademia, pittura antica e collezioni più recenti.",
     "website": "https://www.pinacotecalbertina.it/",
-    "periods": ["quattrocento", "cinquecento", "seicento", "ottocento"],
-    "movements": ["rinascimento", "barocco", "naturalismo"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco",
+      "naturalismo"
+    ],
     "notes": null
   },
   {
@@ -369,8 +611,17 @@
     "city_id": "torino",
     "description": "Collezione di 25 capolavori europei tra Settecento e primo Novecento nello Scrigno del Lingotto.",
     "website": "https://www.pinacoteca-agnelli.it/",
-    "periods": ["settecento", "ottocento", "novecento"],
-    "movements": ["vedutismo", "impressionismo", "post-impressionismo", "arte-contemporanea"],
+    "periods": [
+      "settecento",
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "vedutismo",
+      "impressionismo",
+      "post-impressionismo",
+      "arte-contemporanea"
+    ],
     "notes": "Booklet ufficiale utile per ingest automatico."
   },
   {
@@ -380,8 +631,14 @@
     "city_id": "rivoli",
     "description": "Museo chiave per la contemporaneità in Italia, pittura su tela e wall painting documentata con schede.",
     "website": "https://www.castellodirivoli.org/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["arte-povera", "arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "arte-povera",
+      "arte-contemporanea"
+    ],
     "notes": "Opere in comodato da CRT."
   },
   {
@@ -391,8 +648,13 @@
     "city_id": "vercelli",
     "description": "Casa museo con forza su Ottocento e primo Novecento, piattaforma digitale con schede opera strutturate.",
     "website": "https://www.museoborgogna.it/",
-    "periods": ["ottocento", "novecento"],
-    "movements": ["realismo"],
+    "periods": [
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "realismo"
+    ],
     "notes": "Gemma fuori dai poli principali. Record strutturati pubblicati."
   },
   {
@@ -402,8 +664,15 @@
     "city_id": "novara",
     "description": "Collezione civica di arte moderna nel Complesso del Broletto, con portale e opere in evidenza.",
     "website": "https://www.galleriagiannoni.it/it/home",
-    "periods": ["ottocento", "novecento"],
-    "movements": ["romanticismo", "realismo", "novecento-italiano"],
+    "periods": [
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "romanticismo",
+      "realismo",
+      "novecento-italiano"
+    ],
     "notes": "Percorsi tematici utili per tassonomie."
   },
   {
@@ -413,8 +682,15 @@
     "city_id": "asti",
     "description": "Collezioni civiche con pinacoteca dell'Ottocento piemontese.",
     "website": "https://www.museidiasti.com/palazzo-mazzetti/",
-    "periods": ["seicento", "settecento", "ottocento"],
-    "movements": ["barocco", "realismo"],
+    "periods": [
+      "seicento",
+      "settecento",
+      "ottocento"
+    ],
+    "movements": [
+      "barocco",
+      "realismo"
+    ],
     "notes": "Alcune opere da verificare su catalogo interno."
   },
   {
@@ -424,8 +700,16 @@
     "city_id": "trento",
     "description": "Circa 471 dipinti, orientato alla conservazione di beni ecclesiastici della diocesi. Collegabile a BeWeB (CEI).",
     "website": "https://www.museodiocesanotridentino.it/",
-    "periods": ["medioevo", "quattrocento", "cinquecento", "seicento"],
-    "movements": ["rinascimento", "barocco"],
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco"
+    ],
     "notes": "Riferimento BeWeB per schede complete."
   },
   {
@@ -435,8 +719,12 @@
     "city_id": "trento",
     "description": "Ciclo dei Mesi in Torre Aquila, tra i più importanti cicli profani del Gotico internazionale nell'Italia settentrionale.",
     "website": "https://www.buonconsiglio.it/",
-    "periods": ["medioevo"],
-    "movements": ["gotico-internazionale"],
+    "periods": [
+      "medioevo"
+    ],
+    "movements": [
+      "gotico-internazionale"
+    ],
     "notes": "Attribuzione a Maestro Venceslao discussa. Modellazione gerarchica ciclo → mese → scena."
   },
   {
@@ -446,8 +734,16 @@
     "city_id": "rovereto",
     "description": "Riferimento per il moderno e contemporaneo in area alpina, archivio digitale con schede normalizzabili.",
     "website": "https://www.mart.tn.it/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["futurismo", "metafisica", "novecento-italiano", "arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "futurismo",
+      "metafisica",
+      "novecento-italiano",
+      "arte-contemporanea"
+    ],
     "notes": "Distinguere proprietà/deposito e stato espositivo."
   },
   {
@@ -457,8 +753,13 @@
     "city_id": "bolzano",
     "description": "Collezione dalla fine degli anni Ottanta, avanguardie italiane e area mitteleuropea.",
     "website": "https://www.museion.it/it/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "arte-contemporanea"
+    ],
     "notes": "Separare opere in collezione vs prestiti/comodati."
   },
   {
@@ -468,8 +769,12 @@
     "city_id": "bolzano",
     "description": "Pittura murale tardomedievale a tema profano: ciclo arturiano, Tristano e Isotta, scene cortesi.",
     "website": "https://www.castelroncolo.it/",
-    "periods": ["medioevo"],
-    "movements": ["gotico"],
+    "periods": [
+      "medioevo"
+    ],
+    "movements": [
+      "gotico"
+    ],
     "notes": "Gemma per pittura murale profana."
   },
   {
@@ -479,8 +784,17 @@
     "city_id": "bressanone",
     "description": "Collezioni dal Medioevo al XX secolo con forte sezione rinascimentale e barocca tirolese.",
     "website": "https://www.hofburg.it/?lang=it",
-    "periods": ["quattrocento", "cinquecento", "seicento", "novecento"],
-    "movements": ["rinascimento", "barocco", "arte-contemporanea"],
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "novecento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco",
+      "arte-contemporanea"
+    ],
     "notes": null
   },
   {
@@ -490,8 +804,828 @@
     "city_id": "chatillon",
     "description": "Polo principale per pittura e arte moderna/contemporanea in Valle d'Aosta, con catalogo opere strutturato.",
     "website": "https://www.castellogamba.vda.it/",
-    "periods": ["novecento", "contemporaneo"],
-    "movements": ["novecento-italiano", "arte-contemporanea"],
+    "periods": [
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "novecento-italiano",
+      "arte-contemporanea"
+    ],
     "notes": null
+  },
+  {
+    "id": "basilica-di-san-domenico",
+    "name": "Basilica di San Domenico",
+    "type": "altro",
+    "city_id": "arezzo",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-santa-croce",
+    "name": "Basilica di Santa Croce",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "gallerie-degli-uffizi",
+    "name": "Gallerie degli Uffizi",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-superiore-di-san-francesco",
+    "name": "Basilica superiore di San Francesco",
+    "type": "altro",
+    "city_id": "assisi",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-degli-scrovegni",
+    "name": "Cappella degli Scrovegni",
+    "type": "altro",
+    "city_id": "padova",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-dellopera-metropolitana-del-duomo",
+    "name": "Museo dell’Opera Metropolitana del Duomo",
+    "type": "altro",
+    "city_id": "siena",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-nazionale-dellumbria",
+    "name": "Galleria Nazionale dell’Umbria",
+    "type": "altro",
+    "city_id": "perugia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "palazzo-pubblico",
+    "name": "Palazzo Pubblico",
+    "type": "altro",
+    "city_id": "siena",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-e-real-bosco-di-capodimonte",
+    "name": "Museo e Real Bosco di Capodimonte",
+    "type": "altro",
+    "city_id": "napoli",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-dellopera-del-duomo",
+    "name": "Museo dell’Opera del Duomo",
+    "type": "altro",
+    "city_id": "siena",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pieve-di-santa-maria",
+    "name": "Pieve di Santa Maria",
+    "type": "altro",
+    "city_id": "arezzo",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-inferiore-di-san-francesco",
+    "name": "Basilica inferiore di San Francesco",
+    "type": "altro",
+    "city_id": "assisi",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-di-arte-sacra",
+    "name": "Museo di Arte Sacra",
+    "type": "altro",
+    "city_id": "massa-marittima",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pinacoteca-nazionale-di-siena",
+    "name": "Pinacoteca Nazionale di Siena",
+    "type": "altro",
+    "city_id": "siena",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pinacoteca-di-brera",
+    "name": "Pinacoteca di Brera",
+    "type": "altro",
+    "city_id": "milano",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-brancacci",
+    "name": "Cappella Brancacci",
+    "type": "altro",
+    "city_id": "chiesa-di-santa-maria-del-carmine",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-santa-maria-novella",
+    "name": "Basilica di Santa Maria Novella",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-nazionale-di-san-marco",
+    "name": "Museo Nazionale di San Marco",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-diocesano",
+    "name": "Museo Diocesano",
+    "type": "altro",
+    "city_id": "cortona",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "duomo-di-prato",
+    "name": "Duomo di Prato",
+    "type": "altro",
+    "city_id": "prato",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "duomo-di-santa-maria-del-fiore",
+    "name": "Duomo di Santa Maria del Fiore",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "chiostro-verde",
+    "name": "Chiostro Verde",
+    "type": "altro",
+    "city_id": "santa-maria-novella",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-nazionale-delle-marche",
+    "name": "Galleria Nazionale delle Marche",
+    "type": "altro",
+    "city_id": "urbino",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-della-madonna-del-parto",
+    "name": "Museo della Madonna del Parto",
+    "type": "altro",
+    "city_id": "monterchi",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-civico",
+    "name": "Museo Civico",
+    "type": "altro",
+    "city_id": "sansepolcro",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "palazzo-ducale",
+    "name": "Palazzo Ducale",
+    "type": "altro",
+    "city_id": "mantova",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "gallerie-dellaccademia",
+    "name": "Gallerie dell’Accademia",
+    "type": "altro",
+    "city_id": "venezia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "chiesa-di-san-zaccaria",
+    "name": "Chiesa di San Zaccaria",
+    "type": "altro",
+    "city_id": "venezia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-regionale-di-palazzo-abatellis",
+    "name": "Galleria Regionale di Palazzo Abatellis",
+    "type": "altro",
+    "city_id": "palermo",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-mandralisca",
+    "name": "Museo Mandralisca",
+    "type": "altro",
+    "city_id": "cefalu",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "collegio-alberoni",
+    "name": "Collegio Alberoni",
+    "type": "altro",
+    "city_id": "piacenza",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-santa-trinita",
+    "name": "Basilica di Santa Trinita",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-di-san-marco",
+    "name": "Museo di San Marco",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-tornabuoni",
+    "name": "Cappella Tornabuoni",
+    "type": "altro",
+    "city_id": "santa-maria-novella",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-palatina",
+    "name": "Galleria Palatina",
+    "type": "altro",
+    "city_id": "palazzo-pitti",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "collegio-del-cambio",
+    "name": "Collegio del Cambio",
+    "type": "altro",
+    "city_id": "perugia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-di-san-brizio",
+    "name": "Cappella di San Brizio",
+    "type": "altro",
+    "city_id": "duomo-di-orvieto",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-della-cattedrale",
+    "name": "Museo della Cattedrale",
+    "type": "altro",
+    "city_id": "ferrara",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-correr",
+    "name": "Museo Correr",
+    "type": "altro",
+    "city_id": "venezia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pinacoteca-civica",
+    "name": "Pinacoteca Civica",
+    "type": "altro",
+    "city_id": "massa-fermana",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-di-castelvecchio",
+    "name": "Museo di Castelvecchio",
+    "type": "altro",
+    "city_id": "verona",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-borghese",
+    "name": "Galleria Borghese",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "libreria-piccolomini",
+    "name": "Libreria Piccolomini",
+    "type": "altro",
+    "city_id": "duomo-di-siena",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-baglioni",
+    "name": "Cappella Baglioni",
+    "type": "altro",
+    "city_id": "santa-maria-maggiore",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "refettorio-di-santa-maria-delle-grazie",
+    "name": "Refettorio di Santa Maria delle Grazie",
+    "type": "altro",
+    "city_id": "milano",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-santa-maria-gloriosa-dei-frari",
+    "name": "Basilica di Santa Maria Gloriosa dei Frari",
+    "type": "altro",
+    "city_id": "venezia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "duomo-di-santa-maria-assunta-e-san-liberale",
+    "name": "Duomo di Santa Maria Assunta e San Liberale",
+    "type": "altro",
+    "city_id": "castelfranco-veneto",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-san-giorgio-maggiore",
+    "name": "Basilica di San Giorgio Maggiore",
+    "type": "altro",
+    "city_id": "venezia",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "monastero-di-san-paolo",
+    "name": "Monastero di San Paolo",
+    "type": "altro",
+    "city_id": "parma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-nazionale-di-parma",
+    "name": "Galleria Nazionale di Parma",
+    "type": "altro",
+    "city_id": "parma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cupola-del-duomo",
+    "name": "Cupola del Duomo",
+    "type": "altro",
+    "city_id": "parma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-civico-villa-colloredo-mels",
+    "name": "Museo Civico Villa Colloredo Mels",
+    "type": "altro",
+    "city_id": "recanati",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-della-santissima-annunziata",
+    "name": "Basilica della Santissima Annunziata",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-del-cenacolo-di-andrea-del-sarto",
+    "name": "Museo del Cenacolo di Andrea del Sarto",
+    "type": "altro",
+    "city_id": "firenze",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cappella-capponi",
+    "name": "Cappella Capponi",
+    "type": "altro",
+    "city_id": "santa-felicita",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pieve-dei-santi-michele-e-francesco",
+    "name": "Pieve dei Santi Michele e Francesco",
+    "type": "altro",
+    "city_id": "carmignano",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pinacoteca-e-museo-civico",
+    "name": "Pinacoteca e Museo Civico",
+    "type": "altro",
+    "city_id": "volterra",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "chiesa-di-san-luigi-dei-francesi",
+    "name": "Chiesa di San Luigi dei Francesi",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-colonna",
+    "name": "Galleria Colonna",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-doria-pamphilj",
+    "name": "Galleria Doria Pamphilj",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-farnese",
+    "name": "Galleria Farnese",
+    "type": "altro",
+    "city_id": "palazzo-farnese",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "pinacoteca-nazionale-di-bologna",
+    "name": "Pinacoteca Nazionale di Bologna",
+    "type": "altro",
+    "city_id": "bologna",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "casino-dellaurora-pallavicini",
+    "name": "Casino dell’Aurora Pallavicini",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "chiesa-di-santa-maria-della-concezione-dei-cappuccini",
+    "name": "Chiesa di Santa Maria della Concezione dei Cappuccini",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-nazionale-darte-antica",
+    "name": "Galleria Nazionale d’Arte Antica",
+    "type": "altro",
+    "city_id": "palazzo-barberini",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "casino-ludovisi",
+    "name": "Casino Ludovisi",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "musei-capitolini",
+    "name": "Musei Capitolini",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "cupola-di-santandrea-della-valle",
+    "name": "Cupola di Sant’Andrea della Valle",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-nazionale-di-palazzo-spinola",
+    "name": "Galleria Nazionale di Palazzo Spinola",
+    "type": "altro",
+    "city_id": "genova",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "basilica-di-santa-maria-maggiore",
+    "name": "Basilica di Santa Maria Maggiore",
+    "type": "altro",
+    "city_id": "bergamo",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "palazzo-barberini",
+    "name": "Palazzo Barberini",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "galleria-corsini",
+    "name": "Galleria Corsini",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "museo-nazionale-dabruzzo",
+    "name": "Museo Nazionale d’Abruzzo",
+    "type": "altro",
+    "city_id": "laquila",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "gallerie-ditalia",
+    "name": "Gallerie d’Italia",
+    "type": "altro",
+    "city_id": "vicenza",
+    "description": "",
+    "website": null,
+    "periods": [],
+    "movements": [],
+    "notes": "Aggiunto automaticamente dal parser di ricerca."
   }
 ]

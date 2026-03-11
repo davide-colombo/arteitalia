@@ -1,30 +1,392 @@
 [
-  { "id": "bologna", "name": "Bologna", "province": "BO", "region_id": "emilia-romagna" },
-  { "id": "ferrara", "name": "Ferrara", "province": "FE", "region_id": "emilia-romagna" },
-  { "id": "modena", "name": "Modena", "province": "MO", "region_id": "emilia-romagna" },
-  { "id": "parma", "name": "Parma", "province": "PR", "region_id": "emilia-romagna" },
-  { "id": "piacenza", "name": "Piacenza", "province": "PC", "region_id": "emilia-romagna" },
-  { "id": "reggio-emilia", "name": "Reggio Emilia", "province": "RE", "region_id": "emilia-romagna" },
-  { "id": "udine", "name": "Udine", "province": "UD", "region_id": "friuli-venezia-giulia" },
-  { "id": "trieste", "name": "Trieste", "province": "TS", "region_id": "friuli-venezia-giulia" },
-  { "id": "pordenone", "name": "Pordenone", "province": "PN", "region_id": "friuli-venezia-giulia" },
-  { "id": "genova", "name": "Genova", "province": "GE", "region_id": "liguria" },
-  { "id": "la-spezia", "name": "La Spezia", "province": "SP", "region_id": "liguria" },
-  { "id": "savona", "name": "Savona", "province": "SV", "region_id": "liguria" },
-  { "id": "milano", "name": "Milano", "province": "MI", "region_id": "lombardia" },
-  { "id": "brescia", "name": "Brescia", "province": "BS", "region_id": "lombardia" },
-  { "id": "bergamo", "name": "Bergamo", "province": "BG", "region_id": "lombardia" },
-  { "id": "cremona", "name": "Cremona", "province": "CR", "region_id": "lombardia" },
-  { "id": "mantova", "name": "Mantova", "province": "MN", "region_id": "lombardia" },
-  { "id": "pavia", "name": "Pavia", "province": "PV", "region_id": "lombardia" },
-  { "id": "torino", "name": "Torino", "province": "TO", "region_id": "piemonte" },
-  { "id": "rivoli", "name": "Rivoli", "province": "TO", "region_id": "piemonte" },
-  { "id": "vercelli", "name": "Vercelli", "province": "VC", "region_id": "piemonte" },
-  { "id": "novara", "name": "Novara", "province": "NO", "region_id": "piemonte" },
-  { "id": "asti", "name": "Asti", "province": "AT", "region_id": "piemonte" },
-  { "id": "trento", "name": "Trento", "province": "TN", "region_id": "trentino-alto-adige" },
-  { "id": "rovereto", "name": "Rovereto", "province": "TN", "region_id": "trentino-alto-adige" },
-  { "id": "bolzano", "name": "Bolzano", "province": "BZ", "region_id": "trentino-alto-adige" },
-  { "id": "bressanone", "name": "Bressanone", "province": "BZ", "region_id": "trentino-alto-adige" },
-  { "id": "chatillon", "name": "Châtillon", "province": "AO", "region_id": "valle-d-aosta" }
+  {
+    "id": "bologna",
+    "name": "Bologna",
+    "province": "BO",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "ferrara",
+    "name": "Ferrara",
+    "province": "FE",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "modena",
+    "name": "Modena",
+    "province": "MO",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "parma",
+    "name": "Parma",
+    "province": "PR",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "piacenza",
+    "name": "Piacenza",
+    "province": "PC",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "reggio-emilia",
+    "name": "Reggio Emilia",
+    "province": "RE",
+    "region_id": "emilia-romagna"
+  },
+  {
+    "id": "udine",
+    "name": "Udine",
+    "province": "UD",
+    "region_id": "friuli-venezia-giulia"
+  },
+  {
+    "id": "trieste",
+    "name": "Trieste",
+    "province": "TS",
+    "region_id": "friuli-venezia-giulia"
+  },
+  {
+    "id": "pordenone",
+    "name": "Pordenone",
+    "province": "PN",
+    "region_id": "friuli-venezia-giulia"
+  },
+  {
+    "id": "genova",
+    "name": "Genova",
+    "province": "GE",
+    "region_id": "liguria"
+  },
+  {
+    "id": "la-spezia",
+    "name": "La Spezia",
+    "province": "SP",
+    "region_id": "liguria"
+  },
+  {
+    "id": "savona",
+    "name": "Savona",
+    "province": "SV",
+    "region_id": "liguria"
+  },
+  {
+    "id": "milano",
+    "name": "Milano",
+    "province": "MI",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "brescia",
+    "name": "Brescia",
+    "province": "BS",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "bergamo",
+    "name": "Bergamo",
+    "province": "BG",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "cremona",
+    "name": "Cremona",
+    "province": "CR",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "mantova",
+    "name": "Mantova",
+    "province": "MN",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "pavia",
+    "name": "Pavia",
+    "province": "PV",
+    "region_id": "lombardia"
+  },
+  {
+    "id": "torino",
+    "name": "Torino",
+    "province": "TO",
+    "region_id": "piemonte"
+  },
+  {
+    "id": "rivoli",
+    "name": "Rivoli",
+    "province": "TO",
+    "region_id": "piemonte"
+  },
+  {
+    "id": "vercelli",
+    "name": "Vercelli",
+    "province": "VC",
+    "region_id": "piemonte"
+  },
+  {
+    "id": "novara",
+    "name": "Novara",
+    "province": "NO",
+    "region_id": "piemonte"
+  },
+  {
+    "id": "asti",
+    "name": "Asti",
+    "province": "AT",
+    "region_id": "piemonte"
+  },
+  {
+    "id": "trento",
+    "name": "Trento",
+    "province": "TN",
+    "region_id": "trentino-alto-adige"
+  },
+  {
+    "id": "rovereto",
+    "name": "Rovereto",
+    "province": "TN",
+    "region_id": "trentino-alto-adige"
+  },
+  {
+    "id": "bolzano",
+    "name": "Bolzano",
+    "province": "BZ",
+    "region_id": "trentino-alto-adige"
+  },
+  {
+    "id": "bressanone",
+    "name": "Bressanone",
+    "province": "BZ",
+    "region_id": "trentino-alto-adige"
+  },
+  {
+    "id": "chatillon",
+    "name": "Châtillon",
+    "province": "AO",
+    "region_id": "valle-d-aosta"
+  },
+  {
+    "id": "arezzo",
+    "name": "Arezzo",
+    "province": "AR",
+    "region_id": "toscana"
+  },
+  {
+    "id": "firenze",
+    "name": "Firenze",
+    "province": "FI",
+    "region_id": "toscana"
+  },
+  {
+    "id": "assisi",
+    "name": "Assisi",
+    "province": "PG",
+    "region_id": "umbria"
+  },
+  {
+    "id": "padova",
+    "name": "Padova",
+    "province": "PD",
+    "region_id": "veneto"
+  },
+  {
+    "id": "siena",
+    "name": "Siena",
+    "province": "SI",
+    "region_id": "toscana"
+  },
+  {
+    "id": "perugia",
+    "name": "Perugia",
+    "province": "PG",
+    "region_id": "umbria"
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "province": "NA",
+    "region_id": "campania"
+  },
+  {
+    "id": "massa-marittima",
+    "name": "Massa Marittima",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "san-casciano-in-val-di-pesa",
+    "name": "San Casciano in Val di Pesa",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "chiesa-di-santa-maria-del-carmine",
+    "name": "Chiesa di Santa Maria del Carmine",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "cortona",
+    "name": "Cortona",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "prato",
+    "name": "Prato",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "santa-maria-novella",
+    "name": "Santa Maria Novella",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "urbino",
+    "name": "Urbino",
+    "province": "PU",
+    "region_id": "marche"
+  },
+  {
+    "id": "monterchi",
+    "name": "Monterchi",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "sansepolcro",
+    "name": "Sansepolcro",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "venezia",
+    "name": "Venezia",
+    "province": "VE",
+    "region_id": "veneto"
+  },
+  {
+    "id": "palermo",
+    "name": "Palermo",
+    "province": "PA",
+    "region_id": "sicilia"
+  },
+  {
+    "id": "cefalu",
+    "name": "Cefalù",
+    "province": "",
+    "region_id": "sicilia"
+  },
+  {
+    "id": "palazzo-pitti",
+    "name": "Palazzo Pitti",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "duomo-di-orvieto",
+    "name": "Duomo di Orvieto",
+    "province": "",
+    "region_id": "umbria"
+  },
+  {
+    "id": "massa-fermana",
+    "name": "Massa Fermana",
+    "province": "",
+    "region_id": "marche"
+  },
+  {
+    "id": "verona",
+    "name": "Verona",
+    "province": "VR",
+    "region_id": "veneto"
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "province": "RM",
+    "region_id": "lazio"
+  },
+  {
+    "id": "duomo-di-siena",
+    "name": "Duomo di Siena",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "santa-maria-maggiore",
+    "name": "Santa Maria Maggiore",
+    "province": "",
+    "region_id": "umbria"
+  },
+  {
+    "id": "castelfranco-veneto",
+    "name": "Castelfranco Veneto",
+    "province": "",
+    "region_id": "veneto"
+  },
+  {
+    "id": "recanati",
+    "name": "Recanati",
+    "province": "",
+    "region_id": "marche"
+  },
+  {
+    "id": "jesi",
+    "name": "Jesi",
+    "province": "",
+    "region_id": "marche"
+  },
+  {
+    "id": "santa-felicita",
+    "name": "Santa Felicita",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "carmignano",
+    "name": "Carmignano",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "volterra",
+    "name": "Volterra",
+    "province": "",
+    "region_id": "toscana"
+  },
+  {
+    "id": "viterbo",
+    "name": "Viterbo",
+    "province": "",
+    "region_id": "lazio"
+  },
+  {
+    "id": "palazzo-farnese",
+    "name": "Palazzo Farnese",
+    "province": "",
+    "region_id": "lazio"
+  },
+  {
+    "id": "palazzo-barberini",
+    "name": "Palazzo Barberini",
+    "province": "",
+    "region_id": "lazio"
+  },
+  {
+    "id": "laquila",
+    "name": "L’Aquila",
+    "province": "",
+    "region_id": "abruzzo"
+  },
+  {
+    "id": "vicenza",
+    "name": "Vicenza",
+    "province": "VI",
+    "region_id": "veneto"
+  }
 ]
