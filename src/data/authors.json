@@ -1487,5 +1487,85 @@
     "movements": [
       "barocco"
     ]
+  },
+  {
+    "id": "giusto-di-gand",
+    "name": "Giusto di Gand",
+    "birth_year": 1430,
+    "death_year": 1480,
+    "bio": "Pittore fiammingo attivo a Urbino presso la corte di Federico da Montefeltro, noto anche come Joos van Wassenhove.",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "domenico-di-bartolo",
+    "name": "Domenico di Bartolo",
+    "birth_year": 1400,
+    "death_year": 1445,
+    "bio": "Pittore senese del primo Rinascimento, legato ai cantieri dello Spedale di Santa Maria della Scala.",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "giovanni-di-paolo",
+    "name": "Giovanni di Paolo",
+    "birth_year": 1403,
+    "death_year": 1482,
+    "bio": "Pittore senese del Quattrocento, celebre per l’invenzione fantastica e la spiritualità visionaria delle sue tavole.",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "beccafumi",
+    "name": "Domenico Beccafumi",
+    "birth_year": 1486,
+    "death_year": 1551,
+    "bio": "Pittore senese del pieno Cinquecento, tra i maggiori interpreti del manierismo toscano.",
+    "movements": [
+      "manierismo"
+    ]
+  },
+  {
+    "id": "bernardino-luini",
+    "name": "Bernardino Luini",
+    "birth_year": 1480,
+    "death_year": 1532,
+    "bio": "Pittore lombardo vicino alla cerchia leonardesca, tra i protagonisti del Rinascimento milanese.",
+    "movements": [
+      "rinascimento-maturo"
+    ]
+  },
+  {
+    "id": "salai",
+    "name": "Salaì",
+    "birth_year": 1480,
+    "death_year": 1524,
+    "bio": "Allievo e collaboratore di Leonardo da Vinci, attivo tra Milano e la Lombardia nei primi decenni del Cinquecento.",
+    "movements": [
+      "rinascimento-maturo"
+    ]
+  },
+  {
+    "id": "giovanni-ambrogio-de-predis",
+    "name": "Giovanni Ambrogio de Predis",
+    "birth_year": 1455,
+    "death_year": 1508,
+    "bio": "Pittore lombardo attivo alla corte sforzesca, vicino al linguaggio di Leonardo e della ritrattistica milanese.",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "hans-holbein-il-giovane",
+    "name": "Hans Holbein il Giovane",
+    "birth_year": 1497,
+    "death_year": 1543,
+    "bio": "Pittore e ritrattista tedesco del Rinascimento, celebre per i dipinti realizzati alla corte di Enrico VIII.",
+    "movements": [
+      "rinascimento-maturo"
+    ]
   }
 ]

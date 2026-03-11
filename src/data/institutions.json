@@ -817,9 +817,9 @@
   {
     "id": "basilica-di-san-domenico",
     "name": "Basilica di San Domenico",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "arezzo",
-    "description": "",
+    "description": "Il Crocifisso della basilica di San Domenico di Bologna è l'opera più famosa di Giunta Pisano ed un'opera chiave della pittura duecentesca italiana. Misura 336x285 cm ed è dipinto a tempera e oro su tavola sagomata. In basso reca la firma \"CVIVS DOCTA MANVS ME PINXIT IVNTA PISANVS\".",
     "website": null,
     "periods": [],
     "movements": [],
@@ -828,10 +828,10 @@
   {
     "id": "basilica-di-santa-croce",
     "name": "Basilica di Santa Croce",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "La basilica di Santa Croce è una chiesa di Firenze, nell'omonima piazza. È una delle più grandi chiese francescane e una delle massime realizzazioni del gotico in Italia. La basilica possiede il rango di basilica minore.",
+    "website": "https://www.santacroceopera.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -839,10 +839,10 @@
   {
     "id": "gallerie-degli-uffizi",
     "name": "Gallerie degli Uffizi",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "Le Gallerie degli Uffizi sono un complesso di musei statali di Firenze, dal 2014 riuniti entro un'unica amministrazione, creando così un nuovo ente dotato di autonomia speciale.",
+    "website": "https://www.uffizi.it/visita",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -850,9 +850,9 @@
   {
     "id": "basilica-superiore-di-san-francesco",
     "name": "Basilica superiore di San Francesco",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "assisi",
-    "description": "",
+    "description": "La basilica superiore di San Francesco d'Assisi è una delle due strutture che compongono la basilica di San Francesco ad Assisi, assieme alla basilica inferiore. Vi si accede dalla piazza superiore di San Francesco d'Assisi.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -861,10 +861,10 @@
   {
     "id": "cappella-degli-scrovegni",
     "name": "Cappella degli Scrovegni",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "padova",
-    "description": "",
-    "website": null,
+    "description": "La cappella degli Scrovegni è una chiesa di Padova, in precedenza cappella privata, divenuta parte dei Musei civici di Padova. Ospita un noto ciclo di affreschi di Giotto dei primi anni del XIV secolo, considerato uno dei capolavori dell'arte occidentale. La navata è lunga 29,88 m, larga 8,41 m e alta 12,65 m; l'abside è costituito da una prima parte a pianta quadrata, profonda 4,49 m e larga 4,31 m, e da una successiva, a forma poligonale a cinque lati, profonda 2,57 m e coperta da cinque unghiature nervate.",
+    "website": "http://www.cappelladegliscrovegni.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -872,7 +872,7 @@
   {
     "id": "museo-dellopera-metropolitana-del-duomo",
     "name": "Museo dell’Opera Metropolitana del Duomo",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "siena",
     "description": "",
     "website": null,
@@ -883,7 +883,7 @@
   {
     "id": "galleria-nazionale-dellumbria",
     "name": "Galleria Nazionale dell’Umbria",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "perugia",
     "description": "",
     "website": null,
@@ -894,10 +894,10 @@
   {
     "id": "palazzo-pubblico",
     "name": "Palazzo Pubblico",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "siena",
-    "description": "",
-    "website": null,
+    "description": "Il Palazzo Pubblico di Siena (detto anche Palazzo Comunale) è un edificio che fu progettato dal 1282, ma fatto costruire approssimativamente tra il 1297 e il 1310 dal Governo dei Nove della Repubblica di Siena, come propria sede. Tale funzione si riflette anche oggi, come sede dell'amministrazione comunale oltre che del Museo Civico. Sorge sulla piazza del Campo ed è affiancato dalla snella Torre del Mangia.",
+    "website": "http://www.comune.siena.it/La-Citta/Cultura/Chiese-e-Monumenti/Palazzo-Pubblico",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -916,7 +916,7 @@
   {
     "id": "museo-dellopera-del-duomo",
     "name": "Museo dell’Opera del Duomo",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "siena",
     "description": "",
     "website": null,
@@ -929,7 +929,7 @@
     "name": "Pieve di Santa Maria",
     "type": "altro",
     "city_id": "arezzo",
-    "description": "",
+    "description": "La pieve di Santa Maria Assunta è una chiesa che si trova in località Partina a Bibbiena. L'antica pieve è attestata dal 1005 nel Regesto di Camaldoli ed era considerata fin dall'alto Medioevo una delle pievi più importanti del Casentino. Già in rovina nel Quattrocento, fu annessa nel 1784 alla pieve di San Biagio del borgo di Partina.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -938,10 +938,10 @@
   {
     "id": "basilica-inferiore-di-san-francesco",
     "name": "Basilica inferiore di San Francesco",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "assisi",
-    "description": "",
-    "website": null,
+    "description": "La basilica inferiore di San Francesco d'Assisi è una delle due strutture che compongono la basilica di San Francesco ad Assisi, assieme con la basilica superiore. Dotata di cripta (in cui si trovano le spoglie del santo e dei suoi più stretti confratelli) e affrescata splendidamente da alcuni dei più grandi artisti del Trecento italiano, vi si accede dalla piazza inferiore di San Francesco, attraverso un portale che immette, a causa della pendenza del colle, nel lato sinistro della navata.",
+    "website": "https://www.sanfrancescoassisi.org/html/ita/shownews.php",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -951,7 +951,7 @@
     "name": "Museo di Arte Sacra",
     "type": "altro",
     "city_id": "massa-marittima",
-    "description": "",
+    "description": "Museo di arte sacra – museo di Barberino Tavarnelle. nella frazione di Tavarnelle Val di Pesa Museo di arte sacra – museo di Certaldo Museo di arte sacra – museo di Massa Marittima Museo di arte sacra – museo di Mesagne Museo di arte sacra – museo di Misterbianco Museo di arte sacra – museo di Mirabella Eclano Museo di arte sacra – museo di Montespertoli Museo d'arte sacra \"A Passo d'Uomo\" – museo di Sabbioneta Museo d'arte sacra – museo di San Gimignano Museo diocesano d'arte sacra – museo di Santa Severina",
     "website": null,
     "periods": [],
     "movements": [],
@@ -960,10 +960,10 @@
   {
     "id": "pinacoteca-nazionale-di-siena",
     "name": "Pinacoteca Nazionale di Siena",
-    "type": "altro",
+    "type": "pinacoteca",
     "city_id": "siena",
-    "description": "",
-    "website": null,
+    "description": "La Pinacoteca nazionale di Siena è il più importante museo statale della città, in cui è presente una fondamentale raccolta di opere di scuola senese dal XIII al XVII secolo. La collezione è stata inaugurata nel 1932 ed espone anche i dipinti prima conservati presso l'Accademia di belle arti di Siena. Dal dicembre 2014 il Ministero per i beni e le attività culturali la gestisce tramite il Polo museale della Toscana, nel dicembre 2019 divenuto Direzione regionale Musei.",
+    "website": "http://pinacotecanazionalesiena.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -971,10 +971,10 @@
   {
     "id": "pinacoteca-di-brera",
     "name": "Pinacoteca di Brera",
-    "type": "altro",
+    "type": "pinacoteca",
     "city_id": "milano",
-    "description": "",
-    "website": null,
+    "description": "La Pinacoteca di Brera è una galleria nazionale d'arte antica e moderna, collocata nell'omonimo palazzo, uno dei complessi più vasti di Milano con oltre 24 000 metri quadri di superficie. Il museo espone una delle più celebri raccolte in Italia di pittura, specializzata in pittura veneta e lombarda, con importanti pezzi di altre scuole. Inoltre propone un percorso espositivo che spazia dalla preistoria all'arte contemporanea, rappresentata da capolavori di artisti del XX secolo.",
+    "website": "https://pinacotecabrera.org",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -982,10 +982,10 @@
   {
     "id": "cappella-brancacci",
     "name": "Cappella Brancacci",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "chiesa-di-santa-maria-del-carmine",
-    "description": "",
-    "website": null,
+    "description": "La cappella Brancacci, situata all'interno della chiesa di Santa Maria del Carmine di Firenze rappresenta uno degli esempi più elevati di pittura del Rinascimento (1424-1428). Essa è frutto della collaborazione di due dei più grandi artisti dell'epoca, Masaccio e Masolino da Panicale, ai quali deve aggiungersi la mano di Filippino Lippi, chiamato a completare l'opera circa cinquant'anni dopo.",
+    "website": "http://museicivicifiorentini.comune.fi.it/en/brancacci",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -993,10 +993,10 @@
   {
     "id": "basilica-di-santa-maria-novella",
     "name": "Basilica di Santa Maria Novella",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "La basilica di Santa Maria Novella è una delle più importanti chiese di Firenze e sorge sull'omonima piazza. Se Santa Croce era ed è un centro antichissimo di cultura francescana e Santo Spirito ospitava l'ordine agostiniano, Santa Maria Novella era per Firenze il punto di riferimento per un altro importante ordine mendicante, i domenicani.",
+    "website": "https://www.smn.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1006,8 +1006,8 @@
     "name": "Museo Nazionale di San Marco",
     "type": "altro",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "Il Museo nazionale di San Marco è un museo statale italiano; ha sede nella parte monumentale di un antico convento domenicano sito in piazza San Marco a Firenze. La fama del museo, la cui architettura è un capolavoro rinascimentale, si deve soprattutto alla presenza di opere di Beato Angelico, presenti in tanti ambienti del convento. Un'ala è dedicata alla scuola di San Marco (Fra' Bartolomeo, Mariotto Albertinelli e i loro allievi), che pure vissero e lavorarono qui, mentre un'altra ospita il lapidario e i resti di edifici demoliti nel periodo del Risanamento di Firenze capitale.",
+    "website": "http://www.polomusealetoscana.beniculturali.it/index.php",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1015,10 +1015,10 @@
   {
     "id": "museo-diocesano",
     "name": "Museo Diocesano",
-    "type": "altro",
+    "type": "museo_diocesano",
     "city_id": "cortona",
-    "description": "",
-    "website": null,
+    "description": "Il Museo diocesano di Cortona si trova in piazza del Duomo 1, nell'ex-chiesa del Gesù e nell'edificio attiguo pertinente all'antico edificio religioso. La raccolta d'arte venne fondata nel 1945 per volere dell'allora vescovo di Cortona Monsignor Giuseppe Franciolini e raccoglie oggetti ed opere d'arte provenienti dalle chiese del territorio e dalle proprietà della diocesi, tra le quali importanti opere di Pietro Lorenzetti, Beato Angelico, Bartolomeo della Gatta, Sassetta e Luca Signorelli, oltre ad arredi sacri di notevole pregio.",
+    "website": "https://www.cortonamia.com/en/museum-diocesano-cortona",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1026,10 +1026,10 @@
   {
     "id": "duomo-di-prato",
     "name": "Duomo di Prato",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "prato",
-    "description": "",
-    "website": null,
+    "description": "La cattedrale di Santo Stefano è il principale luogo di culto cattolico della città di Prato, situato in Piazza del Duomo. Nel luglio 1996 papa Giovanni Paolo II l'ha elevata alla dignità di basilica minore. All'interno si trova il più importante ciclo di affreschi di Filippo Lippi, all'esterno il pulpito costruito da Michelozzo e decorato da Donatello.",
+    "website": "http://www.diocesiprato.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1037,10 +1037,10 @@
   {
     "id": "duomo-di-santa-maria-del-fiore",
     "name": "Duomo di Santa Maria del Fiore",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "La cattedrale metropolitana di Santa Maria del Fiore, conosciuta comunemente come Duomo di Firenze, è la principale chiesa fiorentina, simbolo della città ed uno dei più famosi d'Italia; quando fu completata, nel Quattrocento, era la più grande chiesa al mondo, e può vantare ancora oggi il primato assoluto della più grande cupola in muratura. Essa sorge sulle fondazioni dell'antica cattedrale di Firenze, la chiesa di Santa Reparata, in un punto della città che ha ospitato edifici di culto sin dall'epoca romana. La costruzione del Duomo, ordinata dalla Signoria fiorentina, inizia nel 1296 e termina dal punto di vista strutturale soltanto nel 1436.",
+    "website": "https://www.duomofirenze.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1050,7 +1050,7 @@
     "name": "Chiostro Verde",
     "type": "altro",
     "city_id": "santa-maria-novella",
-    "description": "",
+    "description": "Il Chiostro Verde fa parte del complesso del convento di Santa Maria Novella, appartenuto all'ordine domenicano a Firenze. Oggi fa parte del Museo di Santa Maria Novella, uno dei musei civici della città. Da Chiostro Verde, vero cuore del complesso, si accede al Cappellone degli Spagnoli, al Chiostro dei Morti ed al Chiostro Grande.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1059,10 +1059,10 @@
   {
     "id": "galleria-nazionale-delle-marche",
     "name": "Galleria Nazionale delle Marche",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "urbino",
-    "description": "",
-    "website": null,
+    "description": "La Galleria nazionale delle Marche è un museo statale italiano con sede nel Palazzo Ducale di Urbino. Le sue collezioni derivano in larga parte da opere raccolte nel XIX secolo da chiese e conventi del territorio marchigiano; relativamente scarse sono invece le opere delle collezioni ducali, andate disperse nel corso dei secoli. La sezione più celebre è legata al Rinascimento urbinate, con due opere di Piero della Francesca ed altre degli artisti della corte di Federico da Montefeltro, oltre a un importante nucleo di opere del primo Cinquecento, tra cui lavori di Raffaello, e del Seicento, con i lavori di Federico Barocci.",
+    "website": "https://gndm.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1072,7 +1072,7 @@
     "name": "Museo della Madonna del Parto",
     "type": "altro",
     "city_id": "monterchi",
-    "description": "",
+    "description": "La Madonna del parto è un affresco (260x203 cm) realizzato da Piero della Francesca, databile al 1455-1465 circa, e conservato in un museo appositamente predisposto nel comune di Monterchi, proveniente dalla cappella di Santa Maria di Momentana.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1081,10 +1081,10 @@
   {
     "id": "museo-civico",
     "name": "Museo Civico",
-    "type": "altro",
+    "type": "museo_civico",
     "city_id": "sansepolcro",
-    "description": "",
-    "website": null,
+    "description": "Il Museo civico di Sansepolcro è un importante istituto museale di Sansepolcro, in cui sono conservate alcune delle opere di maggior prestigio di Piero della Francesca. Il museo presenta dieci sale espositive distribuite tra il piano terra e il primo piano; parte integrante del percorso è anche il seminterrato.",
+    "website": "http://www.museocivicosansepolcro.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1092,10 +1092,10 @@
   {
     "id": "palazzo-ducale",
     "name": "Palazzo Ducale",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "mantova",
-    "description": "",
-    "website": null,
+    "description": "Il Palazzo Ducale di Mantova, noto anche come reggia dei Gonzaga, è uno dei principali edifici storici cittadini.Dal 1308 è stata la residenza ufficiale dei signori di Mantova, i Bonacolsi, e quindi successivamente la residenza principale dei Gonzaga, signori, marchesi ed infine duchi della città virgiliana. Ospitava il Gonzaga dominante del tempo, sua moglie, il figlio legittimo primogenito e gli altri figli legittimi sino alla maggiore età nonché gli ospiti importanti. Assunse la denominazione di Palazzo Reale durante la dominazione austriaca a partire dall'epoca di Maria Teresa d'Austria regnante.",
+    "website": "http://www.mantovaducale.beniculturali.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1103,7 +1103,7 @@
   {
     "id": "gallerie-dellaccademia",
     "name": "Gallerie dell’Accademia",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "venezia",
     "description": "",
     "website": null,
@@ -1114,9 +1114,9 @@
   {
     "id": "chiesa-di-san-zaccaria",
     "name": "Chiesa di San Zaccaria",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "venezia",
-    "description": "",
+    "description": "La chiesa di San Zaccaria è un luogo di culto cattolico della città di Venezia, situato nel centro di Venezia, vicino a piazza San Marco ed a Palazzo Ducale, presso il campo che da essa trae nome. La chiesa è dedicata a Zaccaria, padre di Giovanni Battista.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1125,7 +1125,7 @@
   {
     "id": "galleria-regionale-di-palazzo-abatellis",
     "name": "Galleria Regionale di Palazzo Abatellis",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "palermo",
     "description": "",
     "website": null,
@@ -1138,8 +1138,8 @@
     "name": "Museo Mandralisca",
     "type": "altro",
     "city_id": "cefalu",
-    "description": "",
-    "website": null,
+    "description": "Il Museo Mandralisca è l'unico museo della città di Cefalù. La fondazione si deve al barone Enrico Pirajno di Mandralisca, che durante la sua vita raccolse numerosi oggetti d'arte mettendoli quindi nella sua abitazione, dove tuttora si trovano. Nella sede si conserva anche l'archivio del museo e della fondazione, sulla base del quale è possibile ricostruirne in modo dettagliato la storia.",
+    "website": "https://www.fondazionemandralisca.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1149,8 +1149,8 @@
     "name": "Collegio Alberoni",
     "type": "altro",
     "city_id": "piacenza",
-    "description": "",
-    "website": null,
+    "description": "Il Collegio Alberoni o Alberoniano è un vasto complesso situato a Piacenza, nel quartiere di San Lazzaro Alberoni. Fu eretto tra il 1733 e il 1752 su iniziativa del cardinale Giulio Alberoni, dal quale prende il nome. Il complesso ospita al suo interno un seminario, una pinacoteca, la galleria Alberoni, costituita per buona parte da opere raccolte dal cardinale durante la sua vita e che conserva al suo interno un Ecce Homo di Antonello da Messina, un museo di storia naturale, originato dal materiale donato dal botanico e naturalista padre Zaccaria da Piacenza, uno studio di teologia, affiliato alla facoltà di teologia della pontificia università \"San Tommaso d'Aquino\" di Roma e un osservatorio astronomico.",
+    "website": "http://www.collegioalberoni.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1158,10 +1158,10 @@
   {
     "id": "basilica-di-santa-trinita",
     "name": "Basilica di Santa Trinita",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "La basilica di Santa Trìnita è una delle basiliche più importanti nell'evoluzione storico artistica della città di Firenze; secondo l'uso fiorentino, che rispecchia la pronuncia latina al nominativo, ha la caratteristica pronuncia sdrucciola (Trìnita). Si affaccia sull'omonima piazza Santa Trinita e dà il nome anche al vicino ponte Santa Trinita. Ha la dignità di basilica minore.",
+    "website": "http://www.monaci.org/monastero-santa-trinita",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1171,8 +1171,8 @@
     "name": "Museo di San Marco",
     "type": "altro",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "Il Museo nazionale di San Marco è un museo statale italiano; ha sede nella parte monumentale di un antico convento domenicano sito in piazza San Marco a Firenze. La fama del museo, la cui architettura è un capolavoro rinascimentale, si deve soprattutto alla presenza di opere di Beato Angelico, presenti in tanti ambienti del convento. Un'ala è dedicata alla scuola di San Marco (Fra' Bartolomeo, Mariotto Albertinelli e i loro allievi), che pure vissero e lavorarono qui, mentre un'altra ospita il lapidario e i resti di edifici demoliti nel periodo del Risanamento di Firenze capitale.",
+    "website": "http://www.polomusealetoscana.beniculturali.it/index.php",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1180,10 +1180,10 @@
   {
     "id": "cappella-tornabuoni",
     "name": "Cappella Tornabuoni",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "santa-maria-novella",
-    "description": "",
-    "website": null,
+    "description": "La cappella Tornabuoni è la cappella maggiore della basilica di Santa Maria Novella a Firenze. Contiene uno dei più vasti cicli di affreschi di tutta la città, realizzato da Domenico Ghirlandaio e bottega dal 1485 al 1490.",
+    "website": "https://www.smn.it/it/opere/cappella-tornabuoni-o-cappella-maggiore",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1191,10 +1191,10 @@
   {
     "id": "galleria-palatina",
     "name": "Galleria Palatina",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "palazzo-pitti",
-    "description": "",
-    "website": null,
+    "description": "La Galleria Palatina è un museo ospitato in Palazzo Pitti a Firenze, facente parte, insieme al Giardino di Boboli, delle Gallerie degli Uffizi. Ospitata all'interno del complesso architettonico, si trova al piano nobile, articolandosi in ventotto sale che si estendono nell'ala laterale settentrionale posteriore del complesso architettonico e nella parte laterale settentrionale e nella parte centrale posteriore del corpo di fabbrica principale del palazzo. Si tratta della \"quadreria\" dei Granduchi di Toscana: l'allestimento infatti rispetta il gusto dei secoli passati, con i dipinti collocati su più file, selezionati per criteri decorativi, e non per periodo e scuole.",
+    "website": "http://www.polomuseale.firenze.it/musei",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1204,8 +1204,8 @@
     "name": "Collegio del Cambio",
     "type": "altro",
     "city_id": "perugia",
-    "description": "",
-    "website": null,
+    "description": "Il Nobile Collegio del Cambio è una parte del Palazzo dei Priori a Perugia, celebre soprattutto per la Sala delle Udienze affrescata dal Perugino. È ubicato al civico 25 del Corso Vannucci.",
+    "website": "http://www.collegiodelcambio.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1213,9 +1213,9 @@
   {
     "id": "cappella-di-san-brizio",
     "name": "Cappella di San Brizio",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "duomo-di-orvieto",
-    "description": "",
+    "description": "La cappella di San Brizio, o cappella Nova, si trova nel transetto destro del duomo di Orvieto. È celebre per il ciclo di affreschi con Storie degli ultimi giorni, avviato nelle vele da Beato Angelico e Benozzo Gozzoli nel 1447 e completato da Luca Signorelli nel 1499-1502. Per l'originalità spaziale e iconografica e per la singolarità del tema, la cappella costituisce un unicum nell'arte.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1226,7 +1226,7 @@
     "name": "Museo della Cattedrale",
     "type": "altro",
     "city_id": "ferrara",
-    "description": "",
+    "description": "Museo della cattedrale (Ferrara) Grande Museo del Duomo di Milano Museo della cattedrale (Lucca) Museo della cattedrale (Modena) Museo della cattedrale (Toledo) Museo e Tesoro della cattedrale di Bergamo Museo del Duomo (Ravello)",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1237,8 +1237,8 @@
     "name": "Museo Correr",
     "type": "altro",
     "city_id": "venezia",
-    "description": "",
-    "website": null,
+    "description": "Il Museo Correr è uno dei più importanti e rappresentativi musei della città di Venezia. È situato nel sestiere di San Marco, presso piazza San Marco, e fa parte della Fondazione Musei Civici di Venezia. Esso illustra, nelle varie sezioni e nelle variegate e ricche raccolte, l'arte, la civiltà e la storia di Venezia.",
+    "website": "http://correr.visitmuve.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1246,7 +1246,7 @@
   {
     "id": "pinacoteca-civica",
     "name": "Pinacoteca Civica",
-    "type": "altro",
+    "type": "pinacoteca",
     "city_id": "massa-fermana",
     "description": "",
     "website": null,
@@ -1259,8 +1259,8 @@
     "name": "Museo di Castelvecchio",
     "type": "altro",
     "city_id": "verona",
-    "description": "",
-    "website": null,
+    "description": "Il museo di Castelvecchio è uno dei più importanti musei della città di Verona, dedicato principalmente all'arte italiana ed europea. Il museo venne restaurato e allestito con criteri moderni tra il 1958 e il 1974 dal celebre architetto Carlo Scarpa, di cui divenne uno degli interventi più completi e meglio conservati. Esso si trova all'interno del complesso della fortezza scaligera di Castelvecchio, distribuendosi in circa trenta sale e nei seguenti settori: scultura, pittura italiana e straniera, armi antiche, ceramiche, oreficerie, miniature e le antiche campane cittadine.",
+    "website": "http://museodicastelvecchio.comune.verona.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1268,10 +1268,10 @@
   {
     "id": "galleria-borghese",
     "name": "Galleria Borghese",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "La galleria Borghese è un museo statale italiano, con sede nella villa Borghese Pinciana a Roma. Ospita tuttora gran parte della collezione d'arte iniziata da Scipione Borghese, cardinal nipote di papa Paolo V, cui si deve anche la costruzione della villa stessa. Vi sono esposte opere di Gian Lorenzo Bernini, Agnolo Bronzino, Antonio Canova, Caravaggio, Raffaello, Perugino, Lorenzo Lotto, Antonello da Messina, Cranach, Annibale Carracci, Peter Paul Rubens, Bellini, Tiziano.",
+    "website": "http://galleriaborghese.beniculturali.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1281,7 +1281,7 @@
     "name": "Libreria Piccolomini",
     "type": "altro",
     "city_id": "duomo-di-siena",
-    "description": "",
+    "description": "La Libreria Piccolomini è un ambiente monumentale della cattedrale di Siena. Situata lungo la navata sinistra, prima del transetto, fu fatta costruire nel 1492 dall'arcivescovo di Siena, cardinale Francesco Piccolomini Todeschini (poi papa Pio III) per custodire il ricchissimo patrimonio librario raccolto dallo zio papa Pio II. Tra il 1502 e il 1507 circa venne completamente affrescata da Pinturicchio e aiuti, tra cui erano presenti il bolognese Amico Aspertini e il giovane Raffaello Sanzio.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1290,9 +1290,9 @@
   {
     "id": "cappella-baglioni",
     "name": "Cappella Baglioni",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "santa-maria-maggiore",
-    "description": "",
+    "description": "La cappella Baglioni si trova nella collegiata di Santa Maria Maggiore di Spello ed è celebre per la presenza di un ciclo di affreschi di Pinturicchio, databili tra il 1500 circa e il 1501.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1303,8 +1303,8 @@
     "name": "Refettorio di Santa Maria delle Grazie",
     "type": "altro",
     "city_id": "milano",
-    "description": "",
-    "website": null,
+    "description": "La chiesa di Santa Maria delle Grazie è una basilica e santuario situata a Milano, appartenente all'Ordine Domenicano e facente capo alla parrocchia di San Vittore al Corpo. L'architettura della tribuna, edificata fra il 1492 e il 1493 per volere del Duca di Milano Ludovico il Moro come mausoleo per la propria famiglia, costituisce una delle più conosciute realizzazioni del Rinascimento in Lombardia. Fu il secondo sito italiano dopo le incisioni rupestri in Val Camonica a essere classificato come patrimonio dell'umanità dall'UNESCO, insieme con l'affresco del Cenacolo di Leonardo da Vinci che si trova nel refettorio del convento (di proprietà del Comune di Milano).",
+    "website": "https://legraziemilano.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1312,10 +1312,10 @@
   {
     "id": "basilica-di-santa-maria-gloriosa-dei-frari",
     "name": "Basilica di Santa Maria Gloriosa dei Frari",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "venezia",
-    "description": "",
-    "website": null,
+    "description": "La basilica di Santa Maria Gloriosa dei Frari, comunemente detta solo i Frari, è la seconda più grande delle chiese di Venezia e ha ricevuto nel 1926 da papa Pio XI il titolo di basilica minore. È situata nell'omonimo Campo dei Frari, nel sestiere di San Polo, ed è dedicata all'Assunzione di Maria. La pianta è a croce latina, e lo stile è gotico veneziano in cotto e pietra d'Istria.",
+    "website": "http://www.basilicadeifrari.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1323,7 +1323,7 @@
   {
     "id": "duomo-di-santa-maria-assunta-e-san-liberale",
     "name": "Duomo di Santa Maria Assunta e San Liberale",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "castelfranco-veneto",
     "description": "",
     "website": null,
@@ -1334,10 +1334,10 @@
   {
     "id": "basilica-di-san-giorgio-maggiore",
     "name": "Basilica di San Giorgio Maggiore",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "venezia",
-    "description": "",
-    "website": null,
+    "description": "San Giorgio Maggiore (San Zorzi Mazór in veneziano) è una basilica sull'Isola di San Giorgio Maggiore a Venezia, parte dell'omonimo monastero. La chiesa, progettata da Andrea Palladio che realizzò anche il refettorio, si affaccia sul Bacino di San Marco.",
+    "website": "https://www.abbaziasangiorgio.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1347,7 +1347,7 @@
     "name": "Monastero di San Paolo",
     "type": "altro",
     "city_id": "parma",
-    "description": "",
+    "description": "Monastero di San Paolo di Messina Monastero di San Paolo di Parma Monastero di San Paolo eremita in Egitto",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1356,10 +1356,10 @@
   {
     "id": "galleria-nazionale-di-parma",
     "name": "Galleria Nazionale di Parma",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "parma",
-    "description": "",
-    "website": null,
+    "description": "La Galleria nazionale di Parma si trova in piazza della Pilotta 6 a Parma, all'interno del palazzo della Pilotta. Il museo espone, tra le altre, opere di Beato Angelico, Canaletto, Cima da Conegliano, Correggio, El Greco, Guercino, Leonardo da Vinci, Parmigianino e Sebastiano del Piombo.",
+    "website": "https://complessopilotta.it/galleria-nazionale",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1367,7 +1367,7 @@
   {
     "id": "cupola-del-duomo",
     "name": "Cupola del Duomo",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "parma",
     "description": "",
     "website": null,
@@ -1378,10 +1378,10 @@
   {
     "id": "museo-civico-villa-colloredo-mels",
     "name": "Museo Civico Villa Colloredo Mels",
-    "type": "altro",
+    "type": "museo_civico",
     "city_id": "recanati",
-    "description": "",
-    "website": null,
+    "description": "Il Museo civico Villa Colloredo Mels si trova a Recanati.",
+    "website": "http://www.villacolloredomels.it/home",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1389,10 +1389,10 @@
   {
     "id": "basilica-della-santissima-annunziata",
     "name": "Basilica della Santissima Annunziata",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "La basilica della Santissima Annunziata è il principale santuario mariano di Firenze, casa madre dell'ordine dei Servi di Maria. La chiesa è collocata nell'omonima piazza nella parte nord-est del centro cittadino, vicino allo Spedale degli Innocenti ed è stata per secoli al centro della vita religiosa - e non solo - della città (per esempio il 25 marzo, in occasione del Capodanno toscano).",
+    "website": "http://annunziata.xoom.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1402,8 +1402,8 @@
     "name": "Museo del Cenacolo di Andrea del Sarto",
     "type": "altro",
     "city_id": "firenze",
-    "description": "",
-    "website": null,
+    "description": "Il Museo del Cenacolo di Andrea del Sarto si trova a Firenze, accessibile da via di San Salvi. Si tratta del refettorio dell'antico convento annesso alla chiesa di San Salvi. Dal dicembre 2014 il Ministero per i beni e le attività culturali lo gestisce tramite il Polo museale della Toscana, nel dicembre 2019 divenuto Direzione regionale Musei.",
+    "website": "http://www.polomusealetoscana.beniculturali.it/index.php",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1411,9 +1411,9 @@
   {
     "id": "cappella-capponi",
     "name": "Cappella Capponi",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "santa-felicita",
-    "description": "",
+    "description": "La cappella Barbadori, poi Capponi, si trova nella chiesa di Santa Felicita a Firenze, immediatamente alla destra di chi entra dall'ingresso principale. La cappella, oltre che essere un'importante opera del percorso artistico di Filippo Brunelleschi, è famosa per conservare l'Annunciazione e soprattutto la Deposizione, una grande tavola considerata uno dei capolavori di Pontormo e del Manierismo in generale.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1424,8 +1424,8 @@
     "name": "Pieve dei Santi Michele e Francesco",
     "type": "altro",
     "city_id": "carmignano",
-    "description": "",
-    "website": null,
+    "description": "La propositura dei Santi Michele e Francesco si trova nel comune di Carmignano, in provincia di Prato e diocesi di Pistoia.",
+    "website": "http://www.comune.carmignano.po.it/turismo",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1433,10 +1433,10 @@
   {
     "id": "pinacoteca-e-museo-civico",
     "name": "Pinacoteca e Museo Civico",
-    "type": "altro",
+    "type": "pinacoteca",
     "city_id": "volterra",
-    "description": "",
-    "website": null,
+    "description": "La Pinacoteca e museo civico di Volterra ha sede nel palazzo Minucci-Solaini, in via dei Sarti, 1.",
+    "website": "http://www.museidivolterra.com",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1444,10 +1444,10 @@
   {
     "id": "chiesa-di-san-luigi-dei-francesi",
     "name": "Chiesa di San Luigi dei Francesi",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "La chiesa di San Luigi dei Francesi è un luogo di culto cattolico di Roma che affaccia sulla piazza omonima, non distante da piazza Navona, nel rione Sant'Eustachio. È la chiesa nazionale dei francesi di Roma dal 1589.",
+    "website": "http://www.saintlouis-rome.net",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1455,9 +1455,9 @@
   {
     "id": "galleria-colonna",
     "name": "Galleria Colonna",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "roma",
-    "description": "",
+    "description": "La galleria Alberto Sordi (già galleria Colonna) è un edificio di Roma, situato in piazza Colonna, inaugurato il 20 ottobre 1922. È una delle sedi della Presidenza del Consiglio dei ministri. Ha al suo interno una galleria commerciale con quindici negozi.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1466,10 +1466,10 @@
   {
     "id": "galleria-doria-pamphilj",
     "name": "Galleria Doria Pamphilj",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "La Galleria Doria Pamphilj è una grande collezione privata esposta a Roma nel Palazzo Doria Pamphilj. Il palazzo che la ospita è situato tra Via del Corso e Piazza del Collegio Romano.",
+    "website": "https://www.doriapamphilj.it/roma",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1477,10 +1477,10 @@
   {
     "id": "galleria-farnese",
     "name": "Galleria Farnese",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "palazzo-farnese",
-    "description": "",
-    "website": null,
+    "description": "Gli affreschi della Galleria Farnese, un ambiente di Palazzo Farnese a Roma, sono un'opera di Annibale Carracci portata a compimento, in più riprese, tra il 1597 e il 1606-1607. Alla realizzazione degli affreschi contribuirono anche Agostino Carracci, fratello di Annibale, e, successivamente, alcuni allievi dello stesso Annibale, tra i quali il Domenichino.",
+    "website": "https://visite-palazzofarnese.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1488,10 +1488,10 @@
   {
     "id": "pinacoteca-nazionale-di-bologna",
     "name": "Pinacoteca Nazionale di Bologna",
-    "type": "altro",
+    "type": "pinacoteca",
     "city_id": "bologna",
-    "description": "",
-    "website": null,
+    "description": "La Pinacoteca nazionale di Bologna è un museo statale italiano. Ha sede a nel centro storico cittadino, all'interno dell'ex noviziato gesuita, edificio storico che ospita anche l'Accademia di belle arti, e una sede distaccata presso Palazzo Pepoli Campogrande. La pinacoteca offre una vasta panoramica della pittura emiliana dal XIII al XVIII secolo; non mancano tuttavia testimonianze fondamentali di artisti non bolognesi che ebbero contatti con la città.",
+    "website": "https://www.pinacotecabologna.beniculturali.it/it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1501,7 +1501,7 @@
     "name": "Casino dell’Aurora Pallavicini",
     "type": "altro",
     "city_id": "roma",
-    "description": "",
+    "description": "Con Casino dell'Aurora ci si può riferire a due distinti edifici storici siti a Roma: il Casino dell'Aurora di Palazzo Pallavicini Rospigliosi in via XXIV maggio, prende il suo nome da un affresco di Guido Reni del 1614; il Casino dell'Aurora di Villa Ludovisi Boncompagni in via Aurora, prende il suo nome da un affresco del Guercino del 1621.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1510,9 +1510,9 @@
   {
     "id": "chiesa-di-santa-maria-della-concezione-dei-cappuccini",
     "name": "Chiesa di Santa Maria della Concezione dei Cappuccini",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "roma",
-    "description": "",
+    "description": "Chiesa di Santa Maria della Concezione – chiesa di Albino Chiesa di Santa Maria della Concezione a Montecalvario – chiesa di Napoli Chiesa di Santa Maria della Concezione in Campo Marzio – chiesa di Roma, nel rione Campo Marzio Chiesa di Santa Maria della Concezione dei Cappuccini – chiesa di Roma, in via Veneto Chiesa di Santa Maria della Concezione – chiesa di Spoleto",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1521,7 +1521,7 @@
   {
     "id": "galleria-nazionale-darte-antica",
     "name": "Galleria Nazionale d’Arte Antica",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "palazzo-barberini",
     "description": "",
     "website": null,
@@ -1534,7 +1534,7 @@
     "name": "Casino Ludovisi",
     "type": "altro",
     "city_id": "roma",
-    "description": "",
+    "description": "Il Carro dell'Aurora con le allegorie del Giorno e della Notte è una pittura a secco su muro realizzata nel 1621 nel casino Ludovisi a Roma da Guercino con l'ausilio di Agostino Tassi, che invece eseguì ad affresco le quadrature e le finte architetture di cornice. Si tratta di una delle massime espressioni della pittura barocca, nonché uno dei capolavori più riconosciuti del pittore emiliano.",
     "website": null,
     "periods": [],
     "movements": [],
@@ -1545,8 +1545,8 @@
     "name": "Musei Capitolini",
     "type": "altro",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "I Musei Capitolini costituiscono la principale struttura museale civica comunale di Roma, parte del Sistema Musei di Roma Capitale, con una superficie espositiva di 12.977 m². Aperti al pubblico nell'anno 1734, sotto papa Clemente XII, sono considerati il primo museo pubblico al mondo, inteso come luogo dove l'arte fosse fruibile da tutti e non solo dai proprietari. Si parla di \"musei\", al plurale, in quanto nel XVIII secolo alla originaria raccolta di sculture antiche fu aggiunta da papa Benedetto XIV la Pinacoteca Capitolina, costituita da opere illustranti soggetti prevalentemente romani.",
+    "website": "https://www.museicapitolini.org",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1556,8 +1556,8 @@
     "name": "Cupola di Sant’Andrea della Valle",
     "type": "altro",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "La cupola di San Pietro costituisce la copertura della crociera della basilica di San Pietro in Vaticano. È una delle più vaste coperture in muratura mai costruite; presenta un diametro interno di circa 42 metri e porta l'altezza complessiva della basilica, dalla base fino alla sommità della lanterna a oltre 130 metri. Le sue forme, espressione del passaggio dall'architettura rinascimentale a quella barocca, rispecchiano in buona parte il disegno di Michelangelo Buonarroti, che vi lavorò fino all'anno della sua morte, avvenuta nel 1564.",
+    "website": "https://www.basilicasanpietro.va/it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1565,10 +1565,10 @@
   {
     "id": "galleria-nazionale-di-palazzo-spinola",
     "name": "Galleria Nazionale di Palazzo Spinola",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "genova",
-    "description": "",
-    "website": null,
+    "description": "La Galleria Nazionale di Palazzo Spinola è un museo statale collocato all'interno di palazzo Spinola di Pellicceria (detto anche palazzo Francesco Grimaldi), un edificio nobiliare cinquecentesco sito al civico 1 di piazza di Pellicceria, nel cuore del centro storico di Genova. Il 13 luglio 2006 è stato inserito nella lista dei quarantadue palazzi iscritti ai Rolli di Genova, dichiarati dall'UNESCO patrimonio dell'umanità. Splendido esempio di dimora aristocratica fra Sei e Settecento, il museo ospita opere di eccezionale valore come l'Ecce Homo di Antonello da Messina, il Ritratto di Ansaldo Pallavicino di Antoon van Dyck e il Ritratto di Giovanni Carlo Doria a cavallo di Peter Paul Rubens.",
+    "website": "http://www.palazzospinola.beniculturali.it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1576,10 +1576,10 @@
   {
     "id": "basilica-di-santa-maria-maggiore",
     "name": "Basilica di Santa Maria Maggiore",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "bergamo",
-    "description": "",
-    "website": null,
+    "description": "La basilica di Santa Maria Maggiore è una chiesa che si trova a Bergamo Città Alta, in piazza del Duomo. Edificata nella seconda metà del XII secolo, l'esterno conserva le linee architettoniche romanico-lombarde originarie, mentre l'interno è decorato in stile barocco (tra 1600 e 1700). Era in origine la chiesa battesimale della cattedrale di San Vincenzo, sorta accanto al complesso della curia vescovile di Bergamo.",
+    "website": "https://www.fondazionemia.it/it/basilica/storia",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1587,10 +1587,10 @@
   {
     "id": "palazzo-barberini",
     "name": "Palazzo Barberini",
-    "type": "altro",
+    "type": "complesso_monumentale",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "Palazzo Barberini è un palazzo di Roma che ospita parte dell'importante Galleria Nazionale d'Arte Antica e l'Istituto Italiano di Numismatica. Si trova in via delle Quattro Fontane, nel centro storico, a circa 200 metri da piazza Barberini. Nel Settecento è stato modello di ispirazione per il Palazzo Barberini di Potsdam, in Germania.",
+    "website": "http://www.barberinicorsini.org",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1598,10 +1598,10 @@
   {
     "id": "galleria-corsini",
     "name": "Galleria Corsini",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "roma",
-    "description": "",
-    "website": null,
+    "description": "La Galleria nazionale d'arte antica di palazzo Corsini è un museo artistico di Roma, ospitato nel Palazzo Corsini alla Lungara, presso il rione Trastevere. Il museo, parte della raccolta della Galleria nazionale d'arte antica, conserva un nucleo di raffinate opere, per lo più di pittura italiana e fiamminga tra il XVI e il XVII secolo.",
+    "website": "http://www.barberinicorsini.org",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
@@ -1620,12 +1620,48 @@
   {
     "id": "gallerie-ditalia",
     "name": "Gallerie d’Italia",
-    "type": "altro",
+    "type": "galleria",
     "city_id": "vicenza",
-    "description": "",
-    "website": null,
+    "description": "Gallerie d'Italia è il polo museale di proprietà di Intesa Sanpaolo, allestito per rendere fruibile il proprio patrimonio artistico e architettonico, al pari delle collezioni provenienti dalla Fondazione Cariplo di Milano, altro partner del progetto. Hanno sede a Napoli, Milano, Torino e Vicenza. Il direttore delle Gallerie d’Italia è Michele Coppola, Executive Director Arte, Cultura e Beni Storici di Intesa Sanpaolo.",
+    "website": "https://www.gallerieditalia.com/it/homepage",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
+  },
+  {
+    "id": "musei-vaticani",
+    "name": "Musei Vaticani",
+    "type": "altro",
+    "city_id": "roma",
+    "description": "Complesso museale della Città del Vaticano, centrale per la storia dell’arte italiana e universale. Comprende la Cappella Sistina, le Stanze di Raffaello e la Pinacoteca Vaticana.",
+    "website": "https://www.museivaticani.va/",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "rinascimento-maturo",
+      "barocco"
+    ],
+    "notes": "Istituzione della Città del Vaticano inclusa nel catalogo per la sua rilevanza nella storia dell’arte italiana."
+  },
+  {
+    "id": "palazzo-ducale-venezia",
+    "name": "Palazzo Ducale",
+    "type": "complesso_monumentale",
+    "city_id": "venezia",
+    "description": "Sede storica del potere veneziano, conserva cicli decorativi e grandi tele di Veronese, Tintoretto e Tiepolo. È uno dei complessi monumentali più rappresentativi della pittura di stato della Serenissima.",
+    "website": "https://palazzoducale.visitmuve.it/",
+    "periods": [
+      "cinquecento",
+      "settecento"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco"
+    ],
+    "notes": "Istituzione distinta dal Palazzo Ducale di Mantova già presente nel dataset."
   }
 ]

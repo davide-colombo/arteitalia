@@ -12,6 +12,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import ssl
 import sys
 import time
 import unicodedata
@@ -35,19 +36,26 @@ USER_AGENT = (
 API_URL = "https://commons.wikimedia.org/w/api.php"
 REQUEST_DELAY_SECONDS = 1.0
 THUMB_WIDTH = 1600
+SSL_CONTEXT: ssl.SSLContext | None = None
 
 KNOWN_FILENAMES = {
     "camera-giganti-giulio-romano": "File:Camera-dei-giganti-ceiling-mantova.jpg",
     "camera-sposi-mantegna": "File:Andrea Mantegna - Camera picta, la corte 01.jpg",
     "canestra-frutta-caravaggio": "File:Canestra di frutta (Caravaggio).jpg",
+    "cartone-preparatorio-per-la-scuola-di-atene-sanzio": "File:Ambrosiana-Raffaello-Sanzio-La-Scuola-di-Atene-cartone-prepa.jpg",
     "cristo-morto-mantegna": "File:Andrea Mantegna - The Dead Christ.jpg",
     "estasi-santa-cecilia-raffaello": "File:Raphael - The Ecstasy of St Cecilia.jpg",
+    "madonna-col-bambino-madonna-del-padiglione-botticelli": "File:Sandro Botticelli - The Virgin and Child with Three Angels (Madonna del Padiglione) - WGA02836.jpg",
     "giudizio-salomone-tiepolo": "File:Tiepolo - Giudizio di Salomone, 408829.jpg",
     "il-bacio-hayez": "File:Francesco Hayez 008.jpg",
+    "nettuno-offre-a-venezia-le-ricchezze-del-mare-tiepolo": "File:Giambattista Tiepolo - Venezia riceve l'omaggio di Nettuno - 1745-50.jpg",
     "pala-montefeltro-piero": "File:Piero, Pala di Brera 01.jpg",
+    "profeta-isaia-buonarroti": "File:Jesaja (Michelangelo).jpg",
+    "ragazzo-con-canestro-di-frutta-caravaggio": "File:Boy with a Basket of Fruit-Caravaggio (1593).jpg",
     "ritratto-lambertini-crespi": "File:Prospero Lambertini by Giuseppe Maria Crespi.jpg",
     "ritratto-musico-leonardo": "File:Leonardo da Vinci - Portrait of a Musician.jpg",
     "ritratto-signora-klimt": "File:Gustav-Klimt, Portrait of a Lady, 1917, Galleria d'Arte Moderna Ricci Oddi.jpg",
+    "sacra-famiglia-con-santanna-e-san-giovanni-battista-luini": "File:B Luini Sacra Famiglia con S Giovannino S Anna Milano Ambrosiana.jpg",
     "salone-dei-mesi-schifanoia": "File:Palazzo schifanoia, salone dei mesi 01.JPG",
     "san-sebastiano-raffaello-carrara": "File:Raffaello Sanzio - St Sebastian - WGA18601.jpg",
     "scapigliata-leonardo": "File:Leonardo da Vinci - Scapigliata.jpg",
@@ -250,6 +258,25 @@ def throttle() -> None:
     last_request_at = time.monotonic()
 
 
+def get_ssl_context() -> ssl.SSLContext:
+    global SSL_CONTEXT
+    if SSL_CONTEXT is not None:
+        return SSL_CONTEXT
+
+    cafile_candidates = [
+        "/etc/ssl/cert.pem",
+        "/private/etc/ssl/cert.pem",
+        "/opt/homebrew/etc/openssl@3/cert.pem",
+    ]
+    for cafile in cafile_candidates:
+        if Path(cafile).exists():
+            SSL_CONTEXT = ssl.create_default_context(cafile=cafile)
+            return SSL_CONTEXT
+
+    SSL_CONTEXT = ssl.create_default_context()
+    return SSL_CONTEXT
+
+
 def commons_request(params: dict[str, Any]) -> dict[str, Any]:
     throttle()
 
@@ -261,7 +288,11 @@ def commons_request(params: dict[str, Any]) -> dict[str, Any]:
     url = f"{API_URL}?{urllib.parse.urlencode(query_params)}"
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
 
-    with urllib.request.urlopen(request, timeout=60) as response:
+    with urllib.request.urlopen(
+        request,
+        timeout=60,
+        context=get_ssl_context(),
+    ) as response:
         return json.load(response)
 
 

@@ -6047,5 +6047,1733 @@
     "links": [],
     "verified": false,
     "notes": "Titolo convenzionale corrente."
+  },
+  {
+    "id": "ragazzo-con-canestro-di-frutta-caravaggio",
+    "title": "Ragazzo con canestro di frutta",
+    "author_id": "caravaggio",
+    "year": 1593,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "naturalismo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg/1920px-Boy_with_a_Basket_of_Fruit-Caravaggio_%281593%29.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-dei-palafrenieri-caravaggio",
+    "title": "Madonna dei Palafrenieri",
+    "author_id": "caravaggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1605,
+      1606
+    ],
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Caravaggio%2C_madonna_dei_palafrenieri%2C_1605-06%2C_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Caravaggio%2C_madonna_dei_palafrenieri%2C_1605-06%2C_02.jpg/1920px-Caravaggio%2C_madonna_dei_palafrenieri%2C_1605-06%2C_02.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "san-giovanni-battista-caravaggio",
+    "title": "San Giovanni Battista",
+    "author_id": "caravaggio",
+    "year": 1610,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Caravaggio_-_San_Giovanni_Battista%2C_1610%2C_267.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Caravaggio_-_San_Giovanni_Battista%2C_1610%2C_267.jpg/1920px-Caravaggio_-_San_Giovanni_Battista%2C_1610%2C_267.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "davide-con-la-testa-di-golia-caravaggio",
+    "title": "Davide con la testa di Golia",
+    "author_id": "caravaggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1609,
+      1610
+    ],
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Davide_con_la_testa_di_Golia_%28particolare%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Davide_con_la_testa_di_Golia_%28particolare%29.jpg/1920px-Davide_con_la_testa_di_Golia_%28particolare%29.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "dama-con-liocorno-sanzio",
+    "title": "Dama con liocorno",
+    "author_id": "raffaello-sanzio",
+    "year": 1505,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sanzio%2C_Raffaelo_-_Dama_con_Liocorno_-_1506.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sanzio%2C_Raffaelo_-_Dama_con_Liocorno_-_1506.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "deposizione-borghese-sanzio",
+    "title": "Deposizione Borghese",
+    "author_id": "raffaello-sanzio",
+    "year": 1507,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Raffaello%2C_deposizione_borghese%2C_1507.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Raffaello%2C_deposizione_borghese%2C_1507.jpg/1920px-Raffaello%2C_deposizione_borghese%2C_1507.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "danae-correggio",
+    "title": "Danae",
+    "author_id": "correggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1531,
+      1532
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/71-_Antonio_Allegri_il_Correggio%2C_Danae%2C_1531_circa_-FG71.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/71-_Antonio_Allegri_il_Correggio%2C_Danae%2C_1531_circa_-FG71.jpg/1920px-71-_Antonio_Allegri_il_Correggio%2C_Danae%2C_1531_circa_-FG71.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Fabrizio Garrisi"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-col-bambino-tra-i-santi-flaviano-e-onofrio-lotto",
+    "title": "Madonna col Bambino tra i santi Flaviano e Onofrio",
+    "author_id": "lorenzo-lotto",
+    "year": 1508,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-borghese",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lorenzo_Lotto_-_Madonna_and_Child_with_St_Ignatius_of_Antioch_and_St_Onophrius_%28detail%29_-_WGA13664.jpg",
+      "license": "Public domain",
+      "attribution": "Lorenzo Lotto"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "cristo-morto-nel-sepolcro-e-tre-dolenti-mantegna",
+    "title": "Cristo morto nel sepolcro e tre dolenti",
+    "author_id": "andrea-mantegna",
+    "year": 1483,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-di-brera",
+    "medium": "Tempera su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Andrea_mantegna%2C_cristo_morto_nel_sepolcro_e_tre_dolenti%2C_1483_ca._05.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Andrea_mantegna%2C_cristo_morto_nel_sepolcro_e_tre_dolenti%2C_1483_ca._05.jpg/1920px-Andrea_mantegna%2C_cristo_morto_nel_sepolcro_e_tre_dolenti%2C_1483_ca._05.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "cena-in-emmaus-caravaggio",
+    "title": "Cena in Emmaus",
+    "author_id": "caravaggio",
+    "year": 1606,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "pinacoteca-di-brera",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Merisi_Michelangelo%2C_Cena_in_Emmaus%2C_47495.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Merisi_Michelangelo%2C_Cena_in_Emmaus%2C_47495.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "pieta-bellini",
+    "title": "Pietà",
+    "author_id": "giovanni-bellini",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1465,
+      1470
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-di-brera",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Pieta_Bellini.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Pieta_Bellini.jpg/1920px-Pieta_Bellini.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Bellini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "il-ritrovamento-del-corpo-di-san-marco-tintoretto",
+    "title": "Il ritrovamento del corpo di san Marco",
+    "author_id": "tintoretto",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1562,
+      1566
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "pinacoteca-di-brera",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Tintoretto_-_Il_Ritrovamento_del_corpo_di_San_Marco%2C_1562_-_1566%2C_5959.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Tintoretto_-_Il_Ritrovamento_del_corpo_di_San_Marco%2C_1562_-_1566%2C_5959.jpg/1920px-Tintoretto_-_Il_Ritrovamento_del_corpo_di_San_Marco%2C_1562_-_1566%2C_5959.jpg",
+      "license": "Public domain",
+      "attribution": "Jacopo Tintoretto"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "giudizio-universale-buonarroti",
+    "title": "Giudizio Universale",
+    "author_id": "michelangelo-buonarroti",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1536,
+      1541
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Michelangelo_Buonarroti_-_Il_Giudizio_Universale.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/89/Michelangelo_Buonarroti_-_Il_Giudizio_Universale.jpg",
+      "license": "Public domain",
+      "attribution": "Michelangelo"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "creazione-di-adamo-buonarroti",
+    "title": "Creazione di Adamo",
+    "author_id": "michelangelo-buonarroti",
+    "year": 1511,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/The_Creation_of_Adam_perspective_fix.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/The_Creation_of_Adam_perspective_fix.jpg/1920px-The_Creation_of_Adam_perspective_fix.jpg",
+      "license": "Public domain",
+      "attribution": "Michelangelo"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "separazione-della-luce-dalle-tenebre-buonarroti",
+    "title": "Separazione della luce dalle tenebre",
+    "author_id": "michelangelo-buonarroti",
+    "year": 1512,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dividing_Light_from_Darkness.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Dividing_Light_from_Darkness.jpg",
+      "license": "Public domain",
+      "attribution": "Michelangelo"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "sibilla-delfica-buonarroti",
+    "title": "Sibilla Delfica",
+    "author_id": "michelangelo-buonarroti",
+    "year": 1509,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Michelangelo%2C_sibille%2C_delfica_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/52/Michelangelo%2C_sibille%2C_delfica_01.jpg",
+      "license": "Public domain",
+      "attribution": "Michelangelo"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "profeta-isaia-buonarroti",
+    "title": "Profeta Isaia",
+    "author_id": "michelangelo-buonarroti",
+    "year": 1511,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jesaja_%28Michelangelo%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jesaja_%28Michelangelo%29.jpg",
+      "license": "Public domain",
+      "attribution": "Michelangelo"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "scuola-di-atene-sanzio",
+    "title": "Scuola di Atene",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1509,
+      1511
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brogi%2C_Giacomo_%281822-1881%29_-_n._6306a_-_Milano_%28Ambrosiana%29_-_Cartone_della_Scuola%2C_di_Atene_%28particolare%29_-_Raffaello_Sanzio.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Brogi%2C_Giacomo_%281822-1881%29_-_n._6306a_-_Milano_%28Ambrosiana%29_-_Cartone_della_Scuola%2C_di_Atene_%28particolare%29_-_Raffaello_Sanzio.jpg",
+      "license": "Public domain",
+      "attribution": "Giacomo Brogi"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "disputa-del-sacramento-sanzio",
+    "title": "Disputa del Sacramento",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1509,
+      1510
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sanzio%2C_Raffaello_-_Disputa_del_Sacramento_-_1508-1511_-_hi_res.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sanzio%2C_Raffaello_-_Disputa_del_Sacramento_-_1508-1511_-_hi_res.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "parnaso-sanzio",
+    "title": "Parnaso",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1510,
+      1511
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parnaso_%28Raffaello%29%2C_Ennio_Dante_e_Omero.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Parnaso_%28Raffaello%29%2C_Ennio_Dante_e_Omero.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "liberazione-di-san-pietro-sanzio",
+    "title": "Liberazione di san Pietro",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1513,
+      1514
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "musei-vaticani",
+    "medium": "Affresco",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Liberazione_di_san_pietro_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/79/Liberazione_di_san_pietro_01.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "trasfigurazione-sanzio",
+    "title": "Trasfigurazione",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1518,
+      1520
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "musei-vaticani",
+    "medium": "Olio su tavola, trasportato su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Raffaello%2C_trasfigurazione%2C_1516-20%2C_01.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raffaello%2C_trasfigurazione%2C_1516-20%2C_01.JPG/1920px-Raffaello%2C_trasfigurazione%2C_1516-20%2C_01.JPG",
+      "license": "CC BY-SA 3.0",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "la-velata-sanzio",
+    "title": "La Velata",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1515,
+      1516
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-palatina",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Raffaello_sanzio%2C_la_velata%2C_1515_ca.%2C_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Raffaello_sanzio%2C_la_velata%2C_1515_ca.%2C_04.jpg/1920px-Raffaello_sanzio%2C_la_velata%2C_1515_ca.%2C_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-della-seggiola-sanzio",
+    "title": "Madonna della Seggiola",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1513,
+      1514
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-palatina",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Raffaello_Sanzio_-_Madonna_della_Seggiola_%28Sedia%29_-_WGA18816.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Raffaello_Sanzio_-_Madonna_della_Seggiola_%28Sedia%29_-_WGA18816.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "la-gravida-sanzio",
+    "title": "La Gravida",
+    "author_id": "raffaello-sanzio",
+    "year": 1506,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-palatina",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Raffaello%2C_la_gravida%2C_1506-07_ca.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Raffaello%2C_la_gravida%2C_1506-07_ca.jpg/1920px-Raffaello%2C_la_gravida%2C_1506-07_ca.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-dellimpannata-sanzio",
+    "title": "Madonna dell'Impannata",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1513,
+      1514
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-palatina",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Da_raffaello%2C_madonna_dell%27impannata_01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Da_raffaello%2C_madonna_dell%27impannata_01.jpg/1920px-Da_raffaello%2C_madonna_dell%27impannata_01.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "santa-maria-maddalena-vecellio",
+    "title": "Santa Maria Maddalena",
+    "author_id": "tiziano-vecellio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1531,
+      1533
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-palatina",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tiziano_Vecellio%2C_bottega_%E2%80%93_Santa_Maria_Maddalena_penitente_dalla_Collezione_P._Candiani.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tiziano_Vecellio%2C_bottega_%E2%80%93_Santa_Maria_Maddalena_penitente_dalla_Collezione_P._Candiani.jpg",
+      "license": "Public domain",
+      "attribution": "Workshop of Titian"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "la-flagellazione-di-cristo-caravaggio",
+    "title": "La Flagellazione di Cristo",
+    "author_id": "caravaggio",
+    "year": 1607,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-e-real-bosco-di-capodimonte",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Caravaggio_-_La_Flagellazione_di_Cristo.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Caravaggio_-_La_Flagellazione_di_Cristo.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "danae-vecellio",
+    "title": "Danae",
+    "author_id": "tiziano-vecellio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1544,
+      1546
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-e-real-bosco-di-capodimonte",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tiziano_Vecellio%2C_gen._Tizian%2C_Kunsthistorisches_Museum_Wien_-_Danae_-_GG_90_-_Kunsthistorisches_Museum.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tiziano_Vecellio%2C_gen._Tizian%2C_Kunsthistorisches_Museum_Wien_-_Danae_-_GG_90_-_Kunsthistorisches_Museum.jpg",
+      "license": "Public domain",
+      "attribution": "Titian"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "ritratto-di-papa-paolo-iii-con-i-nipoti-alessandro-e-ottavio-farnese-vecellio",
+    "title": "Ritratto di papa Paolo III con i nipoti Alessandro e Ottavio Farnese",
+    "author_id": "tiziano-vecellio",
+    "year": 1546,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-e-real-bosco-di-capodimonte",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tiziano%2C_ritratto_di_paolo_III_con_i_nipoti%2C_1545-46%2C_Q129%2C_02.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tiziano%2C_ritratto_di_paolo_III_con_i_nipoti%2C_1545-46%2C_Q129%2C_02.JPG/1920px-Tiziano%2C_ritratto_di_paolo_III_con_i_nipoti%2C_1545-46%2C_Q129%2C_02.JPG",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "ercole-al-bivio-carracci",
+    "title": "Ercole al bivio",
+    "author_id": "annibale-carracci",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1596,
+      1597
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "barocco",
+    "institution_id": "museo-e-real-bosco-di-capodimonte",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Annibale_Carracci_-_The_Choice_of_Heracles_-_WGA4416.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Annibale_Carracci_-_The_Choice_of_Heracles_-_WGA4416.jpg/1920px-Annibale_Carracci_-_The_Choice_of_Heracles_-_WGA4416.jpg",
+      "license": "Public domain",
+      "attribution": "Annibale Carracci"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "polittico-guidalotti-angelico",
+    "title": "Polittico Guidalotti",
+    "author_id": "beato-angelico",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1447,
+      1449
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-dellumbria",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Beato_angelico%2C_polittico_guidalotti%2C_1447-48%2C_da_s._domenico_a_perugia%2C_00.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Beato_angelico%2C_polittico_guidalotti%2C_1447-48%2C_da_s._domenico_a_perugia%2C_00.jpg/1920px-Beato_angelico%2C_polittico_guidalotti%2C_1447-48%2C_da_s._domenico_a_perugia%2C_00.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "polittico-di-santantonio-francesca",
+    "title": "Polittico di Sant'Antonio",
+    "author_id": "piero-della-francesca",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1460,
+      1470
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-dellumbria",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Piero%2C_Polittico_di_Sant%27Antonio_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/03/Piero%2C_Polittico_di_Sant%27Antonio_04.jpg",
+      "license": "Public domain",
+      "attribution": "Piero della Francesca"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "adorazione-dei-magi-perugino",
+    "title": "Adorazione dei Magi",
+    "author_id": "pietro-perugino",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1475,
+      1476
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-dellumbria",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Perugino%2C_adorazione_dei_magi_di_perugia%2C_02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Perugino%2C_adorazione_dei_magi_di_perugia%2C_02.jpg",
+      "license": "Public domain",
+      "attribution": "Pietro Perugino"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "la-muta-sanzio",
+    "title": "La Muta",
+    "author_id": "raffaello-sanzio",
+    "year": 1507,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-delle-marche",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/La_Muta_di_Raffaello_Sanzio%2C_1507%2C_1.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/La_Muta_di_Raffaello_Sanzio%2C_1507%2C_1.JPG/1920px-La_Muta_di_Raffaello_Sanzio%2C_1507%2C_1.JPG",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-di-senigallia-francesca",
+    "title": "Madonna di Senigallia",
+    "author_id": "piero-della-francesca",
+    "year": 1474,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-delle-marche",
+    "medium": "Olio e tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Piero_della_Francesca%2C_Madonna_di_Senigallia_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Piero_della_Francesca%2C_Madonna_di_Senigallia_04.jpg/1920px-Piero_della_Francesca%2C_Madonna_di_Senigallia_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Piero della Francesca"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "resurrezione-di-cristo-vecellio",
+    "title": "Resurrezione di Cristo",
+    "author_id": "tiziano-vecellio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1543,
+      1544
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-nazionale-delle-marche",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Tiziano_Vecellio%2C_Resurrezione_di_Cristo_%281542-1544%29_03.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Tiziano_Vecellio%2C_Resurrezione_di_Cristo_%281542-1544%29_03.jpg/1920px-Tiziano_Vecellio%2C_Resurrezione_di_Cristo_%281542-1544%29_03.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Mongolo1984"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "comunione-degli-apostoli-gand",
+    "title": "Comunione degli Apostoli",
+    "author_id": "giusto-di-gand",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1473,
+      1474
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "galleria-nazionale-delle-marche",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Giusto_di_Gand%2C_La_comunione_degli_apostoli%2C_1474.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Giusto_di_Gand%2C_La_comunione_degli_apostoli%2C_1474.jpg/1920px-Giusto_di_Gand%2C_La_comunione_degli_apostoli%2C_1474.jpg",
+      "license": "CC0",
+      "attribution": "Fabrizio Garrisi"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-dei-francescani-buoninsegna",
+    "title": "Madonna dei Francescani",
+    "author_id": "duccio-di-buoninsegna",
+    "year": 1290,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "medioevo",
+    "movement_id": "gotico",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Tempera e oro su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Duccio_di_buoninsegna%2C_madonna_dei_francescani_02.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Duccio_di_buoninsegna%2C_madonna_dei_francescani_02.JPG",
+      "license": "Public domain",
+      "attribution": "Duccio di Buoninsegna"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-dellumilta-bartolo",
+    "title": "Madonna dell'Umiltà",
+    "author_id": "domenico-di-bartolo",
+    "year": 1433,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Domenico_di_Bartolo%2C_Madonna_dell%27Umilt%C3%A0_e_angeli%2C_1433_-FG01.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Domenico_di_Bartolo%2C_Madonna_dell%27Umilt%C3%A0_e_angeli%2C_1433_-FG01.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Fabrizio Garrisi"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "giudizio-universale-paolo",
+    "title": "Giudizio Universale",
+    "author_id": "giovanni-di-paolo",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1460,
+      1465
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Giovanni_di_Paolo_%E2%80%94_Giudizio_Universale.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Giovanni_di_Paolo_%E2%80%94_Giudizio_Universale.jpg/1920px-Giovanni_di_Paolo_%E2%80%94_Giudizio_Universale.jpg",
+      "license": "CC0",
+      "attribution": "Gsimonov"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "assunzione-della-vergine-paolo",
+    "title": "Assunzione della Vergine",
+    "author_id": "giovanni-di-paolo",
+    "year": 1455,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bagno_di_Romagna_-_Basilica_di_Santa_Maria_Assunta_-_Assunzione_della_Vergine_con_i_Santi_Tommaso%2C_Benedetto%2C_Giovanni_Battista%2C_Pietro%2C_Paolo%2C_Agnese_e_Romualdo_%281467%29_-_Neri_di_Bicci_-_2025-09-18_00-45-58_001.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bagno_di_Romagna_-_Basilica_di_Santa_Maria_Assunta_-_Assunzione_della_Vergine_con_i_Santi_Tommaso%2C_Benedetto%2C_Giovanni_Battista%2C_Pietro%2C_Paolo%2C_Agnese_e_Romualdo_%281467%29_-_Neri_di_Bicci_-_2025-09-18_00-45-58_001.jpg/1920px-thumbnail.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Terragio67"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "san-michele-arcangelo-che-scaccia-gli-angeli-ribelli-beccafumi",
+    "title": "San Michele Arcangelo che scaccia gli angeli ribelli",
+    "author_id": "beccafumi",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1524,
+      1526
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Domenico_becafumi%2C_San_Michele_Arcangelo_che_scaccia_gli_angeli_ribelli%2C_1526-35%2C_03.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Domenico_becafumi%2C_San_Michele_Arcangelo_che_scaccia_gli_angeli_ribelli%2C_1526-35%2C_03.jpg/1920px-Domenico_becafumi%2C_San_Michele_Arcangelo_che_scaccia_gli_angeli_ribelli%2C_1526-35%2C_03.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "nascita-della-vergine-beccafumi",
+    "title": "Nascita della Vergine",
+    "author_id": "beccafumi",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1540,
+      1543
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "incoronazione-della-vergine-beccafumi",
+    "title": "Incoronazione della Vergine",
+    "author_id": "beccafumi",
+    "year": 1545,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "pinacoteca-nazionale-di-siena",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Beccafumi%2C_incoronazione_della_vergine_e_santi%2C_1540_ca%2C_02.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Beccafumi%2C_incoronazione_della_vergine_e_santi%2C_1540_ca%2C_02.JPG/1920px-Beccafumi%2C_incoronazione_della_vergine_e_santi%2C_1540_ca%2C_02.JPG",
+      "license": "Public domain",
+      "attribution": "Domenico Beccafumi"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "apoteosi-di-venezia-veronese",
+    "title": "Apoteosi di Venezia",
+    "author_id": "paolo-veronese",
+    "year": 1585,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "palazzo-ducale-venezia",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Paolo_veronese%2C_apoteosi_di_venezia%2C_01.JPG",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Paolo_veronese%2C_apoteosi_di_venezia%2C_01.JPG/1920px-Paolo_veronese%2C_apoteosi_di_venezia%2C_01.JPG",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "giunone-offre-a-venezia-il-corno-dogale-il-serto-e-le-ricchezze-veronese",
+    "title": "Giunone offre a Venezia il corno dogale, il serto e le ricchezze",
+    "author_id": "paolo-veronese",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1553,
+      1554
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "palazzo-ducale-venezia",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "ratto-deuropa-veronese",
+    "title": "Ratto d'Europa",
+    "author_id": "paolo-veronese",
+    "year": 1580,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "palazzo-ducale-venezia",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Porwanie_Europy.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Porwanie_Europy.jpg",
+      "license": "Public domain",
+      "attribution": "Paolo Veronese"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "nozze-di-bacco-e-arianna-tintoretto",
+    "title": "Nozze di Bacco e Arianna",
+    "author_id": "tintoretto",
+    "year": 1578,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "palazzo-ducale-venezia",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "nettuno-offre-a-venezia-le-ricchezze-del-mare-tiepolo",
+    "title": "Nettuno offre a Venezia le ricchezze del mare",
+    "author_id": "giambattista-tiepolo",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1748,
+      1750
+    ],
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "palazzo-ducale-venezia",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Giambattista_Tiepolo_-_Venezia_riceve_l%27omaggio_di_Nettuno_-_1745-50.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Giambattista_Tiepolo_-_Venezia_riceve_l%27omaggio_di_Nettuno_-_1745-50.jpg/1920px-Giambattista_Tiepolo_-_Venezia_riceve_l%27omaggio_di_Nettuno_-_1745-50.jpg",
+      "license": "Public domain",
+      "attribution": "Didier Descouens"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "sacra-famiglia-con-una-santa-mantegna",
+    "title": "Sacra Famiglia con una santa",
+    "author_id": "andrea-mantegna",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1495,
+      1505
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "museo-di-castelvecchio",
+    "medium": "Tempera su tela",
+    "dimensions": "76 x 55,5 cm",
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Andrea_mantegna%2C_sacra_famiglia_con_una_santa_%28verona%2C_castelvecchio%29_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Andrea_mantegna%2C_sacra_famiglia_con_una_santa_%28verona%2C_castelvecchio%29_04.jpg/1920px-Andrea_mantegna%2C_sacra_famiglia_con_una_santa_%28verona%2C_castelvecchio%29_04.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": "Attribuzione tradizionale ad Andrea Mantegna."
+  },
+  {
+    "id": "madonna-allattante-tintoretto",
+    "title": "Madonna allattante",
+    "author_id": "tintoretto",
+    "year": 1575,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-di-castelvecchio",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Jacopo_Tintoretto_Madonna_allattante.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Jacopo_Tintoretto_Madonna_allattante.jpg/1920px-Jacopo_Tintoretto_Madonna_allattante.jpg",
+      "license": "Public domain",
+      "attribution": "Jacopo Tintoretto"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "trasporto-dellarca-dellalleanza-tintoretto",
+    "title": "Trasporto dell'Arca dell'Alleanza",
+    "author_id": "tintoretto",
+    "year": 1577,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-di-castelvecchio",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jacopo_Tintoretto_Trasporto_dell%27arca_dell%27alleanza.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jacopo_Tintoretto_Trasporto_dell%27arca_dell%27alleanza.jpg/1920px-Jacopo_Tintoretto_Trasporto_dell%27arca_dell%27alleanza.jpg",
+      "license": "Public domain",
+      "attribution": "Jacopo Tintoretto"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "banchetto-di-baldassarre-tintoretto",
+    "title": "Banchetto di Baldassarre",
+    "author_id": "tintoretto",
+    "year": 1545,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-di-castelvecchio",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "placeholder",
+      "url": null,
+      "thumbnail": null,
+      "license": null,
+      "attribution": null
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "cartone-preparatorio-per-la-scuola-di-atene-sanzio",
+    "title": "Cartone preparatorio per la Scuola di Atene",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1508,
+      1510
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Carboncino, biacca e punta metallica su carta",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ambrosiana-Raffaello-Sanzio-La-Scuola-di-Atene-cartone-prepa.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ambrosiana-Raffaello-Sanzio-La-Scuola-di-Atene-cartone-prepa.jpg/1920px-Ambrosiana-Raffaello-Sanzio-La-Scuola-di-Atene-cartone-prepa.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-col-bambino-madonna-del-padiglione-botticelli",
+    "title": "Madonna col Bambino (Madonna del Padiglione)",
+    "author_id": "sandro-botticelli",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1493,
+      1494
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sandro_Botticelli_-_The_Virgin_and_Child_with_Three_Angels_%28Madonna_del_Padiglione%29_-_WGA02836.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Sandro_Botticelli_-_The_Virgin_and_Child_with_Three_Angels_%28Madonna_del_Padiglione%29_-_WGA02836.jpg",
+      "license": "Public domain",
+      "attribution": "Sandro Botticelli"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "sacra-famiglia-con-santanna-e-san-giovanni-battista-luini",
+    "title": "Sacra Famiglia con sant'Anna e san Giovanni Battista",
+    "author_id": "bernardino-luini",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1525,
+      1530
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/B_Luini_Sacra_Famiglia_con_S_Giovannino_S_Anna_Milano_Ambrosiana.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/95/B_Luini_Sacra_Famiglia_con_S_Giovannino_S_Anna_Milano_Ambrosiana.jpg",
+      "license": "Public domain",
+      "attribution": "Bernardino Luini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "san-giovanni-battista-salai",
+    "title": "San Giovanni Battista",
+    "author_id": "salai",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1510,
+      1520
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Caprotti_-_Saint_John_the_Baptist%2C_c._1520.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caprotti_-_Saint_John_the_Baptist%2C_c._1520.jpg/1920px-Caprotti_-_Saint_John_the_Baptist%2C_c._1520.jpg",
+      "license": "Public domain",
+      "attribution": "Salaì"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "adorazione-dei-magi-vecellio",
+    "title": "Adorazione dei Magi",
+    "author_id": "tiziano-vecellio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1540,
+      1545
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tiziano_Vecellio_%E2%80%93_Adorazione_dei_Magi_%E2%80%93_Google_Art_Project.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tiziano_Vecellio_%E2%80%93_Adorazione_dei_Magi_%E2%80%93_Google_Art_Project.jpg/1920px-Tiziano_Vecellio_%E2%80%93_Adorazione_dei_Magi_%E2%80%93_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "attribution": "Titian"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "ritratto-di-dama-predis",
+    "title": "Ritratto di dama",
+    "author_id": "giovanni-ambrogio-de-predis",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1490,
+      1495
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-ambrosiana",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Predis%2C_Giovanni_Ambrogio_de_-_Ritratto_di_dama_-_Ambrosiana.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Predis%2C_Giovanni_Ambrogio_de_-_Ritratto_di_dama_-_Ambrosiana.jpg/1920px-Predis%2C_Giovanni_Ambrogio_de_-_Ritratto_di_dama_-_Ambrosiana.jpg",
+      "license": "Public domain",
+      "attribution": "Giovanni Ambrogio de Predis"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "annunciazione-lippi",
+    "title": "Annunciazione",
+    "author_id": "filippo-lippi",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1440,
+      1445
+    ],
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "palazzo-barberini",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Filippo_lippi%2C_annunciazione_martelli%2C_1440%2C_03.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Filippo_lippi%2C_annunciazione_martelli%2C_1440%2C_03.jpg/1920px-Filippo_lippi%2C_annunciazione_martelli%2C_1440%2C_03.jpg",
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "madonna-di-tarquinia-lippi",
+    "title": "Madonna di Tarquinia",
+    "author_id": "filippo-lippi",
+    "year": 1437,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "palazzo-barberini",
+    "medium": "Tempera su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lippi_Madonna_di_tarquinia.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lippi_Madonna_di_tarquinia.jpg",
+      "license": "Public domain",
+      "attribution": "Filippo Lippi (ca. 1400–1469)"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "la-fornarina-sanzio",
+    "title": "La Fornarina",
+    "author_id": "raffaello-sanzio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1518,
+      1519
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "palazzo-barberini",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg/1920px-Raffaello_Sanzio_-_La_Fornarina_%28ca._1519-1520%29.jpg",
+      "license": "Public domain",
+      "attribution": "Raphael"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "giuditta-e-oloferne-caravaggio",
+    "title": "Giuditta e Oloferne",
+    "author_id": "caravaggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1598,
+      1599
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "naturalismo",
+    "institution_id": "palazzo-barberini",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg/1920px-Caravaggio_-_Giuditta_e_Oloferne_%28ca._1599%29.jpg",
+      "license": "Public domain",
+      "attribution": "Caravaggio"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "battesimo-di-cristo-greco",
+    "title": "Battesimo di Cristo",
+    "author_id": "el-greco",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1567,
+      1570
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "palazzo-barberini",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/El_greco%2C_battesimo_di_cristo%2C_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/El_greco%2C_battesimo_di_cristo%2C_04.jpg/1920px-El_greco%2C_battesimo_di_cristo%2C_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "adorazione-dei-pastori-greco",
+    "title": "Adorazione dei pastori",
+    "author_id": "el-greco",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1570,
+      1572
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "palazzo-barberini",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/El_greco%2C_adorazione_dei_pastori%2C_04.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/El_greco%2C_adorazione_dei_pastori%2C_04.jpg/1920px-El_greco%2C_adorazione_dei_pastori%2C_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
+  },
+  {
+    "id": "ritratto-di-enrico-viii-giovane",
+    "title": "Ritratto di Enrico VIII",
+    "author_id": "hans-holbein-il-giovane",
+    "year": null,
+    "year_approximate": false,
+    "year_range": [
+      1540,
+      1542
+    ],
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "palazzo-barberini",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "wikimedia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Hans_holbein_il_giovane%2C_ritratto_di_enrico_VIII_d%27inghilterra%2C_1537_ca._02.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hans_holbein_il_giovane%2C_ritratto_di_enrico_VIII_d%27inghilterra%2C_1537_ca._02.jpg/1920px-Hans_holbein_il_giovane%2C_ritratto_di_enrico_VIII_d%27inghilterra%2C_1537_ca._02.jpg",
+      "license": "CC BY-SA 4.0",
+      "attribution": "Francesco Bini"
+    },
+    "links": [],
+    "verified": false,
+    "notes": null
   }
 ]
