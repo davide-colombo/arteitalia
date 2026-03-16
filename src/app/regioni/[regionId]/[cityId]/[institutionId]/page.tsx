@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { ArtworkGrid } from "@/components/ArtworkGrid";
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { InstitutionTypeBadge } from "@/components/InstitutionTypeBadge";
+import { ShareButton } from "@/components/ShareButton";
 import {
   getArtworksByInstitution,
   getCityById,
@@ -96,6 +97,10 @@ export default async function InstitutionPage({
         <p className="max-w-4xl leading-7 text-text-secondary">
           {institution.description}
         </p>
+        <ShareButton
+          title={institution.name}
+          description={`${institution.name}, ${city.name}`}
+        />
         <p className="text-sm text-text-secondary">
           {formatCount(artworks.length, "opera", "opere")} censite in catalogo
         </p>

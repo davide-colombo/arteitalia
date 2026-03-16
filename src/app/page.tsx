@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { ArtworkImage } from "@/components/ArtworkImage";
+import { ShareButton } from "@/components/ShareButton";
 import {
   artworks,
   authors,
@@ -176,6 +177,12 @@ export default function HomePage() {
               tecnologia possa riavvicinare i giovani italiani alla propria
               storia.
             </p>
+          </div>
+          <div className="flex justify-center pt-2">
+            <ShareButton
+              title="ArtèItalia"
+              description="Il patrimonio pittorico italiano, un'opera alla volta."
+            />
           </div>
         </div>
       </section>

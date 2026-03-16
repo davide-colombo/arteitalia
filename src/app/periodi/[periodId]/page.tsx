@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { ArtworkGrid } from "@/components/ArtworkGrid";
 import { Breadcrumb } from "@/components/Breadcrumb";
+import { ShareButton } from "@/components/ShareButton";
 import { notFound } from "next/navigation";
 
 import {
@@ -56,6 +57,10 @@ export default async function PeriodPage({ params }: PeriodPageProps) {
         <p className="text-base text-text-secondary sm:text-lg">
           {period.start_year}–{period.end_year}
         </p>
+        <ShareButton
+          title={period.name}
+          description={`${period.name} — ArtèItalia`}
+        />
       </section>
       <ArtworkGrid
         artworks={artworks}
