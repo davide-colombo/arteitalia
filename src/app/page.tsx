@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 import { ArtworkImage } from "@/components/ArtworkImage";
-import { ShareButton } from "@/components/ShareButton";
+import { ShareBarBottom } from "@/components/ShareBarBottom";
 import {
   artworks,
   authors,
@@ -178,12 +178,11 @@ export default function HomePage() {
               storia.
             </p>
           </div>
-          <div className="flex justify-center pt-2">
-            <ShareButton
-              title="ArtèItalia"
-              description="Il patrimonio pittorico italiano, un'opera alla volta."
-            />
-          </div>
+          <ShareBarBottom
+            title="ArtèItalia"
+            description="Il patrimonio pittorico italiano, un'opera alla volta."
+            callToAction="ArtèItalia è un progetto indipendente. Se pensi che possa interessare a qualcuno, condividilo."
+          />
         </div>
       </section>
 

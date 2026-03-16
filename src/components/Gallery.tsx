@@ -5,6 +5,8 @@ import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useEffect } from "react";
 
 import { ArtworkImage } from "@/components/ArtworkImage";
+import { ShareBarBottom } from "@/components/ShareBarBottom";
+import { ShareButtonCompact } from "@/components/ShareButtonCompact";
 import {
   getAuthorById,
   getCityByInstitutionId,
@@ -53,6 +55,9 @@ export function Gallery({
   const description = currentArtwork.description.trim();
   const notes = currentArtwork.notes?.trim();
   const contextParam = searchParams.get("context");
+  const shareDescription = `"${currentArtwork.title}" di ${
+    author?.name ?? "Autore sconosciuto"
+  }, ${formatYear(currentArtwork)}`;
 
   function buildArtworkHref(targetArtworkId: string) {
     const targetPath = pathname.replace(
@@ -240,7 +245,7 @@ export function Gallery({
           <h1 className="font-serif text-3xl leading-tight sm:text-4xl lg:text-5xl">
             {currentArtwork.title}
           </h1>
-          <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-base text-text-secondary">
+          <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-base text-text-secondary">
             {author ? (
               <Link
                 href={`/autori/${author.id}`}
@@ -259,6 +264,12 @@ export function Gallery({
                 <span>{currentArtwork.medium}</span>
               </>
             ) : null}
+            <div className="ml-auto">
+              <ShareButtonCompact
+                title={currentArtwork.title}
+                description={shareDescription}
+              />
+            </div>
           </div>
           {institution && city && region ? (
             <p className="text-base text-text-secondary">
@@ -362,6 +373,12 @@ export function Gallery({
             </ul>
           </section>
         ) : null}
+
+        <ShareBarBottom
+          title={currentArtwork.title}
+          description={shareDescription}
+          callToAction="Conosci qualcuno a cui piacerebbe quest'opera? Condividila."
+        />
       </section>
     </section>
   );

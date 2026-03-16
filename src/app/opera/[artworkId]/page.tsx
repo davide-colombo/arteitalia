@@ -4,7 +4,6 @@ import { notFound } from "next/navigation";
 
 import { Breadcrumb } from "@/components/Breadcrumb";
 import { Gallery } from "@/components/Gallery";
-import { ShareButton } from "@/components/ShareButton";
 import {
   artworks,
   getArtworkById,
@@ -19,7 +18,6 @@ import {
   sortArtworksByTitle,
 } from "@/lib/data";
 import type { ArtworkContext } from "@/lib/data";
-import { formatYear } from "@/lib/format";
 
 export const dynamicParams = false;
 
@@ -182,14 +180,9 @@ export default async function ArtworkPage({
     regionName: region.name,
   });
 
-  const shareDescription = `"${artwork.title}" di ${
-    author?.name ?? "Autore sconosciuto"
-  }, ${formatYear(artwork)}`;
-
   return (
     <section className="space-y-8">
       <Breadcrumb segments={breadcrumbSegments} />
-      <ShareButton title={artwork.title} description={shareDescription} />
       <Suspense fallback={null}>
         <Gallery
           currentArtwork={artwork}

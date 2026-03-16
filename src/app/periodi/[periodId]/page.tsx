@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { ArtworkGrid } from "@/components/ArtworkGrid";
 import { Breadcrumb } from "@/components/Breadcrumb";
-import { ShareButton } from "@/components/ShareButton";
+import { ShareBarBottom } from "@/components/ShareBarBottom";
+import { ShareButtonCompact } from "@/components/ShareButtonCompact";
 import { notFound } from "next/navigation";
 
 import {
@@ -51,22 +52,29 @@ export default async function PeriodPage({ params }: PeriodPageProps) {
         ]}
       />
       <section className="space-y-3 rounded-3xl border border-border bg-bg-secondary p-6 sm:p-8">
-        <h1 className="font-serif text-4xl leading-tight sm:text-5xl">
-          {period.name}
-        </h1>
+        <div className="flex flex-wrap items-center gap-3">
+          <h1 className="font-serif text-4xl leading-tight sm:text-5xl">
+            {period.name}
+          </h1>
+          <ShareButtonCompact
+            title={period.name}
+            description={`${period.name} — ArtèItalia`}
+          />
+        </div>
         <p className="text-base text-text-secondary sm:text-lg">
           {period.start_year}–{period.end_year}
         </p>
-        <ShareButton
-          title={period.name}
-          description={`${period.name} — ArtèItalia`}
-        />
       </section>
       <ArtworkGrid
         artworks={artworks}
         context={`period:${period.id}`}
         showPeriodFilter={false}
         emptyLabel="Nessuna opera disponibile per questo periodo."
+      />
+      <ShareBarBottom
+        title={period.name}
+        description={`${period.name} — ArtèItalia`}
+        callToAction="Hai trovato interessante questa sezione? Condividila."
       />
     </section>
   );

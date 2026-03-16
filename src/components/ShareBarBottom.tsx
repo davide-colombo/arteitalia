@@ -2,9 +2,11 @@
 
 import { useEffect, useRef, useState } from "react";
 
-interface ShareButtonProps {
+interface ShareBarBottomProps {
   title: string;
   description?: string;
+  callToAction: string;
+  id?: string;
 }
 
 function LinkIcon() {
@@ -82,11 +84,9 @@ function ShareIcon() {
       className="h-4 w-4"
       aria-hidden="true"
     >
-      <circle cx="18" cy="5" r="2.5" />
-      <circle cx="6" cy="12" r="2.5" />
-      <circle cx="18" cy="19" r="2.5" />
-      <path d="m8.2 11 7.6-4.3" />
-      <path d="m8.2 13 7.6 4.3" />
+      <path d="M12 3v10" />
+      <path d="m8 7 4-4 4 4" />
+      <path d="M6 11.5v6A1.5 1.5 0 0 0 7.5 19h9a1.5 1.5 0 0 0 1.5-1.5v-6" />
     </svg>
   );
 }
@@ -104,10 +104,15 @@ function secondaryButtonClassName() {
 }
 
 function primaryButtonClassName() {
-  return `${baseButtonClassName()} border-accent bg-accent text-[#0A0A0A] hover:bg-accent-hover hover:border-accent-hover`;
+  return `${baseButtonClassName()} border-accent bg-accent text-[#0A0A0A] hover:border-accent-hover hover:bg-accent-hover`;
 }
 
-export function ShareButton({ title, description }: ShareButtonProps) {
+export function ShareBarBottom({
+  title,
+  description,
+  callToAction,
+  id = "condividi",
+}: ShareBarBottomProps) {
   const [url, setUrl] = useState("");
   const [canNativeShare, setCanNativeShare] = useState(false);
   const [copied, setCopied] = useState(false);
@@ -182,62 +187,64 @@ export function ShareButton({ title, description }: ShareButtonProps) {
   }
 
   return (
-    <div className="space-y-2">
-      <p className="text-xs uppercase tracking-[0.18em] text-text-secondary">
-        Condividi
-      </p>
-      <div className="flex flex-wrap items-center gap-2">
-        {canNativeShare ? (
+    <section id={id} className="border-t border-border py-10">
+      <div className="mx-auto flex max-w-3xl flex-col items-center gap-5 text-center">
+        <p className="text-base leading-relaxed text-text-secondary sm:text-lg">
+          {callToAction}
+        </p>
+        <div className="flex flex-wrap items-center justify-center gap-2">
+          {canNativeShare ? (
+            <button
+              type="button"
+              onClick={handleNativeShare}
+              className={primaryButtonClassName()}
+              aria-label="Condividi con il menu nativo"
+            >
+              <ShareIcon />
+              <ActionLabel>Condividi</ActionLabel>
+            </button>
+          ) : null}
+
           <button
             type="button"
-            onClick={handleNativeShare}
-            className={primaryButtonClassName()}
-            aria-label="Condividi con il menu nativo"
+            onClick={handleCopy}
+            className={secondaryButtonClassName()}
+            aria-label={copied ? "Link copiato" : "Copia il link"}
+            disabled={!isReady}
           >
-            <ShareIcon />
-            <ActionLabel>Condividi</ActionLabel>
+            {copied ? <CheckIcon /> : <LinkIcon />}
+            <ActionLabel>{copied ? "Copiato" : "Copia link"}</ActionLabel>
           </button>
-        ) : null}
 
-        <button
-          type="button"
-          onClick={handleCopy}
-          className={secondaryButtonClassName()}
-          aria-label={copied ? "Link copiato" : "Copia il link"}
-          disabled={!isReady}
-        >
-          {copied ? <CheckIcon /> : <LinkIcon />}
-          <ActionLabel>{copied ? "Copiato" : "Copia link"}</ActionLabel>
-        </button>
+          <a
+            href={isReady ? `https://wa.me/?text=${whatsappText}` : "#"}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`${secondaryButtonClassName()} ${disabledLinkClassName}`}
+            aria-label="Condividi su WhatsApp"
+            aria-disabled={!isReady}
+          >
+            <WhatsAppIcon />
+            <ActionLabel>WhatsApp</ActionLabel>
+          </a>
 
-        <a
-          href={isReady ? `https://wa.me/?text=${whatsappText}` : "#"}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`${secondaryButtonClassName()} ${disabledLinkClassName}`}
-          aria-label="Condividi su WhatsApp"
-          aria-disabled={!isReady}
-        >
-          <WhatsAppIcon />
-          <ActionLabel>WhatsApp</ActionLabel>
-        </a>
-
-        <a
-          href={
-            isReady
-              ? `https://twitter.com/intent/tweet?text=${twitterText}&url=${encodedUrl}`
-              : "#"
-          }
-          target="_blank"
-          rel="noopener noreferrer"
-          className={`${secondaryButtonClassName()} ${disabledLinkClassName}`}
-          aria-label="Condividi su X"
-          aria-disabled={!isReady}
-        >
-          <XIcon />
-          <ActionLabel>X</ActionLabel>
-        </a>
+          <a
+            href={
+              isReady
+                ? `https://twitter.com/intent/tweet?text=${twitterText}&url=${encodedUrl}`
+                : "#"
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+            className={`${secondaryButtonClassName()} ${disabledLinkClassName}`}
+            aria-label="Condividi su X"
+            aria-disabled={!isReady}
+          >
+            <XIcon />
+            <ActionLabel>X</ActionLabel>
+          </a>
+        </div>
       </div>
-    </div>
+    </section>
   );
 }
