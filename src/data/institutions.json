@@ -4,7 +4,7 @@
     "name": "Pinacoteca Nazionale di Bologna",
     "type": "pinacoteca",
     "city_id": "bologna",
-    "description": "Raccolta fondamentale della pittura emiliana e italiana tra Rinascimento e pieno Barocco, con capolavori di Raffaello, Guido Reni e Guercino.",
+    "description": "La Pinacoteca nazionale di Bologna è un museo statale italiano. Ha sede a nel centro storico cittadino, all'interno dell'ex noviziato gesuita, edificio storico che ospita anche l'Accademia di belle arti, e una sede distaccata presso Palazzo Pepoli Campogrande. La pinacoteca offre una vasta panoramica della pittura emiliana dal XIII al XVIII secolo; non mancano tuttavia testimonianze fondamentali di artisti non bolognesi che ebbero contatti con la città.",
     "website": "https://pinacotecabologna.beniculturali.it/",
     "periods": [
       "cinquecento",
@@ -76,7 +76,7 @@
     "name": "Galleria Nazionale di Parma",
     "type": "pinacoteca",
     "city_id": "parma",
-    "description": "Nodo primario per la pittura parmense del Cinquecento (Correggio e Parmigianino), parte del complesso della Pilotta.",
+    "description": "La Galleria nazionale di Parma si trova in piazza della Pilotta 6 a Parma, all'interno del palazzo della Pilotta. Il museo espone, tra le altre, opere di Beato Angelico, Canaletto, Cima da Conegliano, Correggio, El Greco, Guercino, Leonardo da Vinci, Parmigianino e Sebastiano del Piombo.",
     "website": "https://complessopilotta.it/",
     "periods": [
       "cinquecento"
@@ -1343,17 +1343,6 @@
     "notes": "Aggiunto automaticamente dal parser di ricerca."
   },
   {
-    "id": "galleria-nazionale-di-parma",
-    "name": "Galleria Nazionale di Parma",
-    "type": "galleria",
-    "city_id": "parma",
-    "description": "La Galleria nazionale di Parma si trova in piazza della Pilotta 6 a Parma, all'interno del palazzo della Pilotta. Il museo espone, tra le altre, opere di Beato Angelico, Canaletto, Cima da Conegliano, Correggio, El Greco, Guercino, Leonardo da Vinci, Parmigianino e Sebastiano del Piombo.",
-    "website": "https://complessopilotta.it/galleria-nazionale",
-    "periods": [],
-    "movements": [],
-    "notes": "Aggiunto automaticamente dal parser di ricerca."
-  },
-  {
     "id": "cupola-del-duomo",
     "name": "Cupola del Duomo",
     "type": "complesso_monumentale",
@@ -1470,17 +1459,6 @@
     "city_id": "palazzo-farnese",
     "description": "Gli affreschi della Galleria Farnese, un ambiente di Palazzo Farnese a Roma, sono un'opera di Annibale Carracci portata a compimento, in più riprese, tra il 1597 e il 1606-1607. Alla realizzazione degli affreschi contribuirono anche Agostino Carracci, fratello di Annibale, e, successivamente, alcuni allievi dello stesso Annibale, tra i quali il Domenichino.",
     "website": "https://visite-palazzofarnese.it",
-    "periods": [],
-    "movements": [],
-    "notes": "Aggiunto automaticamente dal parser di ricerca."
-  },
-  {
-    "id": "pinacoteca-nazionale-di-bologna",
-    "name": "Pinacoteca Nazionale di Bologna",
-    "type": "pinacoteca",
-    "city_id": "bologna",
-    "description": "La Pinacoteca nazionale di Bologna è un museo statale italiano. Ha sede a nel centro storico cittadino, all'interno dell'ex noviziato gesuita, edificio storico che ospita anche l'Accademia di belle arti, e una sede distaccata presso Palazzo Pepoli Campogrande. La pinacoteca offre una vasta panoramica della pittura emiliana dal XIII al XVIII secolo; non mancano tuttavia testimonianze fondamentali di artisti non bolognesi che ebbero contatti con la città.",
-    "website": "https://www.pinacotecabologna.beniculturali.it/it",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
