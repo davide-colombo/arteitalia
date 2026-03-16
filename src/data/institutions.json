@@ -290,7 +290,7 @@
     "name": "Pinacoteca di Brera",
     "type": "pinacoteca",
     "city_id": "milano",
-    "description": "Capolavori-cardine della pittura italiana tra Rinascimento e Seicento con percorsi di approfondimento strutturati.",
+    "description": "La Pinacoteca di Brera è una galleria nazionale d'arte antica e moderna, collocata nell'omonimo palazzo, uno dei complessi più vasti di Milano con oltre 24 000 metri quadri di superficie. Il museo espone una delle più celebri raccolte in Italia di pittura, specializzata in pittura veneta e lombarda, con importanti pezzi di altre scuole. Inoltre propone un percorso espositivo che spazia dalla preistoria all'arte contemporanea, rappresentata da capolavori di artisti del XX secolo.",
     "website": "https://pinacotecabrera.org/",
     "periods": [
       "quattrocento",
@@ -964,17 +964,6 @@
     "city_id": "siena",
     "description": "La Pinacoteca nazionale di Siena è il più importante museo statale della città, in cui è presente una fondamentale raccolta di opere di scuola senese dal XIII al XVII secolo. La collezione è stata inaugurata nel 1932 ed espone anche i dipinti prima conservati presso l'Accademia di belle arti di Siena. Dal dicembre 2014 il Ministero per i beni e le attività culturali la gestisce tramite il Polo museale della Toscana, nel dicembre 2019 divenuto Direzione regionale Musei.",
     "website": "http://pinacotecanazionalesiena.it",
-    "periods": [],
-    "movements": [],
-    "notes": "Aggiunto automaticamente dal parser di ricerca."
-  },
-  {
-    "id": "pinacoteca-di-brera",
-    "name": "Pinacoteca di Brera",
-    "type": "pinacoteca",
-    "city_id": "milano",
-    "description": "La Pinacoteca di Brera è una galleria nazionale d'arte antica e moderna, collocata nell'omonimo palazzo, uno dei complessi più vasti di Milano con oltre 24 000 metri quadri di superficie. Il museo espone una delle più celebri raccolte in Italia di pittura, specializzata in pittura veneta e lombarda, con importanti pezzi di altre scuole. Inoltre propone un percorso espositivo che spazia dalla preistoria all'arte contemporanea, rappresentata da capolavori di artisti del XX secolo.",
-    "website": "https://pinacotecabrera.org",
     "periods": [],
     "movements": [],
     "notes": "Aggiunto automaticamente dal parser di ricerca."
