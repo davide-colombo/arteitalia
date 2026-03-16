@@ -40,6 +40,16 @@ export function ShareButtonCompact({
     setCanNativeShare(typeof navigator.share === "function");
   }, []);
 
+  function scrollToBottomSection() {
+    if (typeof document === "undefined") {
+      return;
+    }
+
+    document
+      .getElementById(bottomSectionId)
+      ?.scrollIntoView({ behavior: "smooth" });
+  }
+
   async function handleClick() {
     if (typeof window === "undefined") {
       return;
@@ -56,15 +66,13 @@ export function ShareButtonCompact({
           text: description,
           url: window.location.href,
         });
+        return;
       } catch {
-        // Ignore aborted share actions.
+        scrollToBottomSection();
       }
-
-      return;
     }
 
-    const bottomSection = document.getElementById(bottomSectionId);
-    bottomSection?.scrollIntoView({ behavior: "smooth", block: "start" });
+    scrollToBottomSection();
   }
 
   return (
