@@ -116,13 +116,16 @@ export default function HomePage() {
             href="/opera/sposalizio-vergine-raffaello"
             className="group flex w-full max-w-md flex-col gap-5 rounded-[2rem] border border-accent/60 bg-bg-secondary/70 p-6 shadow-[0_0_0_1px_rgba(196,162,101,0.18),0_0_42px_rgba(196,162,101,0.08)] transition-colors hover:border-accent"
           >
-            <ArtworkImage
-              image={featuredArtwork.image}
-              alt={featuredArtwork.title}
-              className="aspect-[3/4] w-full"
-              fit="cover"
-              priority
-            />
+            <div className="aspect-[3/4] w-full overflow-hidden rounded-2xl border border-border bg-bg-secondary">
+              <img
+                src="/images/hero.jpg"
+                alt={featuredArtwork.title}
+                loading="eager"
+                decoding="sync"
+                fetchPriority="high"
+                className="h-full w-full object-cover"
+              />
+            </div>
             <div className="space-y-2 text-left">
               <h2 className="font-serif text-3xl leading-tight text-text-primary">
                 {featuredArtwork.title}

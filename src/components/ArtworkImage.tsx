@@ -80,7 +80,20 @@ export function ArtworkImage({
       className={`relative overflow-hidden rounded-2xl border border-border bg-bg-secondary ${className}`}
     >
       {!isLoaded && (
-        <div className="absolute inset-0 animate-pulse bg-gradient-to-br from-bg-secondary via-border/30 to-bg-secondary" />
+        <div className="absolute inset-0 overflow-hidden bg-bg-secondary">
+          <div
+            className="absolute inset-0"
+            style={{
+              background:
+                "linear-gradient(90deg, transparent 0%, rgba(196,162,101,0.08) 20%, rgba(196,162,101,0.15) 50%, rgba(196,162,101,0.08) 80%, transparent 100%)",
+              backgroundSize: "200% 100%",
+              animation: "shimmer 1.8s ease-in-out infinite",
+            }}
+          />
+          <p className="absolute inset-0 flex items-center justify-center text-sm text-text-secondary/60">
+            Caricamento in corso…
+          </p>
+        </div>
       )}
       <img
         src={currentSrc ?? rawSrc}
@@ -96,4 +109,20 @@ export function ArtworkImage({
       />
     </div>
   );
+}
+
+// Shimmer keyframes injected via style tag
+if (typeof document !== "undefined") {
+  const styleId = "artworkimage-shimmer";
+  if (!document.getElementById(styleId)) {
+    const style = document.createElement("style");
+    style.id = styleId;
+    style.textContent = `
+      @keyframes shimmer {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+      }
+    `;
+    document.head.appendChild(style);
+  }
 }
