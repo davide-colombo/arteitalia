@@ -102,7 +102,6 @@ export default function RootLayout({
                 <p>Il patrimonio pittorico italiano, un&apos;opera alla volta.</p>
               </div>
               <div className="flex flex-col items-start gap-1 sm:items-end sm:text-right">
-                <p>Questo sito non è affiliato con alcuna istituzione.</p>
                 <a
                   href="https://github.com/davide-colombo/arteitalia"
                   target="_blank"
@@ -111,6 +110,7 @@ export default function RootLayout({
                 >
                   Repository GitHub
                 </a>
+                <p>Questo sito non è affiliato con alcuna istituzione.</p>
               </div>
             </div>
           </footer>

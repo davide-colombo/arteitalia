@@ -152,7 +152,7 @@ export default function HomePage() {
         </a>
       </section>
 
-      <section id="scopri" className="mx-auto max-w-3xl px-4 py-4 text-center md:px-8 lg:px-16">
+      <section id="scopri" className="mx-auto max-w-4xl px-4 py-4 text-center md:px-8 lg:px-16">
         <div className="space-y-5">
           <h2 className="font-serif text-3xl text-text-primary">
             Un progetto personale
