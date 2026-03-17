@@ -15,7 +15,7 @@ import {
 interface ShareBarBottomProps {
   title: string;
   description?: string;
-  callToAction: string;
+  callToAction?: string;
   id?: string;
 }
 
@@ -90,9 +90,11 @@ export function ShareBarBottom({
   return (
     <section id={id} className="border-t border-border py-10">
       <div className="mx-auto flex max-w-3xl flex-col items-center gap-5 text-center">
-        <p className="text-base leading-relaxed text-text-secondary sm:text-lg">
-          {callToAction}
-        </p>
+        {callToAction && (
+          <p className="text-base leading-relaxed text-text-secondary sm:text-lg">
+            {callToAction}
+          </p>
+        )}
         <div className="flex flex-wrap items-center justify-center gap-2">
           <a
             href={isReady ? `https://wa.me/?text=${whatsappText}` : "#"}

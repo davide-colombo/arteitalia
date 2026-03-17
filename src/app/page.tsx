@@ -155,33 +155,39 @@ export default function HomePage() {
       <section id="scopri" className="mx-auto max-w-4xl px-4 py-4 text-center md:px-8 lg:px-16">
         <div className="space-y-5">
           <h2 className="font-serif text-3xl text-text-primary">
-            Un progetto personale
+            Un catalogo dell&apos;arte pittorica italiana.
           </h2>
           <div className="space-y-4 text-base leading-relaxed text-text-secondary">
             <p>
-              Questo sito nasce dalla passione di un ragazzo italiano di ventotto
-              anni che ha riscoperto la bellezza dell&apos;arte del proprio paese.
-              Ho studiato storia dell&apos;arte al liceo, ma il mio approccio allo
-              studio era mnemonico — e col tempo ho perso il contatto con quel
-              patrimonio. Un giorno, visitando l&apos;Accademia Carrara di Bergamo,
-              mi sono fermato davanti ai Tarocchi: l&apos;Appeso, la Morte, il Sole,
-              la Luna. Ho capito che quelle immagini parlavano di noi, della
-              condizione umana, con una profondità che meritava uno strumento
-              moderno per essere esplorata.
+              L&apos;Italia custodisce un patrimonio pittorico distribuito in
+              centinaia di musei, dalla Val d&apos;Aosta alla Sicilia. Nonostante
+              questo, manca uno strumento digitale che lo renda navigabile in modo
+              strutturato: per regione, città, museo, autore, periodo storico,
+              corrente artistica.
             </p>
             <p>
-              ArtèItalia è quel tentativo: un catalogo digitale dell&apos;arte
-              pittorica italiana, organizzato per renderla accessibile a chi,
-              come me, vuole capire davvero quello che guarda. Non è un progetto
-              istituzionale — è il lavoro di una persona che crede che la
-              tecnologia possa riavvicinare i giovani italiani alla propria
-              storia.
+              ArtèItalia è quello strumento. Raccoglie le opere della pittura
+              italiana e le rende esplorabili: puoi partire da una regione e
+              arrivare al museo, oppure da un autore e attraversare i secoli.
+              Ogni istituzione ha il proprio collegamento, ogni opera la propria
+              scheda.
             </p>
           </div>
+        </div>
+        <div className="mt-12 space-y-5">
+          <h3 className="font-serif text-2xl text-text-primary">
+            Un progetto indipendente
+          </h3>
+          <p className="text-base leading-relaxed text-text-secondary">
+            ArtèItalia è gratuito, senza pubblicità e senza tracciamento. Nasce
+            dal lavoro di una sola persona, fuori da qualsiasi contesto
+            istituzionale. Se pensi che possa essere utile a qualcuno,
+            condividilo.
+          </p>
           <ShareBarBottom
             title="ArtèItalia"
             description="Il patrimonio pittorico italiano, un'opera alla volta."
-            callToAction="ArtèItalia è un progetto indipendente. Se pensi che possa interessare a qualcuno, condividilo."
+            callToAction=""
           />
         </div>
       </section>
