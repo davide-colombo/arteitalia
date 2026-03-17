@@ -150,7 +150,7 @@ export function Gallery({
                 alt={currentArtwork.title}
                 className="aspect-[3/4] max-h-[70vh] w-full"
                 fit="contain"
-                label="Immagine non disponibile"
+                label="Galleria in allestimento"
               />
             </div>
             <div className="flex items-center justify-center gap-3">
@@ -212,7 +212,7 @@ export function Gallery({
               alt={currentArtwork.title}
               className="aspect-[3/4] max-h-[70vh] w-full"
               fit="contain"
-              label="Immagine non disponibile"
+              label="Galleria in allestimento"
             />
             {canNavigate ? (
               <>

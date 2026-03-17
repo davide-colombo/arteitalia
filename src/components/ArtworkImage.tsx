@@ -50,16 +50,28 @@ export function ArtworkImage({
   priority = false,
 }: ArtworkImageProps) {
   const rawSrc = image.thumbnail ?? image.url;
-  const src = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
+  const optimizedSrc = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
+  const [currentSrc, setCurrentSrc] = useState<string | null>(optimizedSrc);
   const [isLoaded, setIsLoaded] = useState(false);
   const [hasError, setHasError] = useState(false);
 
   useEffect(() => {
+    const newOptimized = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
+    setCurrentSrc(newOptimized);
     setIsLoaded(false);
     setHasError(false);
-  }, [src]);
+  }, [rawSrc]);
 
-  if (!src || hasError) {
+  function handleError() {
+    if (currentSrc && rawSrc && currentSrc !== rawSrc) {
+      setCurrentSrc(rawSrc);
+      setIsLoaded(false);
+    } else {
+      setHasError(true);
+    }
+  }
+
+  if (!rawSrc || hasError) {
     return <Placeholder className={className} label={label} />;
   }
 
@@ -71,13 +83,13 @@ export function ArtworkImage({
         <div className="absolute inset-0 animate-pulse bg-gradient-to-br from-bg-secondary via-border/30 to-bg-secondary" />
       )}
       <img
-        src={src}
+        src={currentSrc ?? rawSrc}
         alt={alt}
         loading={priority ? "eager" : loading}
         decoding={priority ? "sync" : "async"}
         fetchPriority={priority ? "high" : undefined}
         onLoad={() => setIsLoaded(true)}
-        onError={() => setHasError(true)}
+        onError={handleError}
         className={`h-full w-full transition-opacity duration-500 ${
           fit === "contain" ? "object-contain" : "object-cover"
         } ${isLoaded ? "opacity-100" : "opacity-0"}`}
