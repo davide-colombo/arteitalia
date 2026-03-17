@@ -121,8 +121,7 @@ export default function HomePage() {
               alt={featuredArtwork.title}
               className="aspect-[3/4] w-full"
               fit="cover"
-              label="Immagine non disponibile"
-              loading="eager"
+              priority
             />
             <div className="space-y-2 text-left">
               <h2 className="font-serif text-3xl leading-tight text-text-primary">
@@ -153,7 +152,7 @@ export default function HomePage() {
         </a>
       </section>
 
-      <section id="scopri" className="mx-auto max-w-4xl px-4 py-4 text-center md:px-8 lg:px-16">
+      <section id="scopri" className="mx-auto max-w-4xl scroll-mt-24 px-4 py-16 text-center md:px-8 lg:px-16">
         <div className="space-y-5">
           <h2 className="font-serif text-3xl text-text-primary">
             Un catalogo dell&apos;arte pittorica italiana.
@@ -181,7 +180,7 @@ export default function HomePage() {
             </p>
           </div>
         </div>
-        <div className="mt-12 space-y-5">
+        <div className="mt-20 space-y-5">
           <h3 className="font-serif text-2xl text-text-primary">
             Un progetto indipendente
           </h3>

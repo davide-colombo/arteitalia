@@ -11,6 +11,7 @@ type ArtworkImageProps = {
   fit?: "contain" | "cover";
   label?: string;
   loading?: "eager" | "lazy";
+  priority?: boolean;
 };
 
 function Placeholder({
@@ -34,8 +35,9 @@ export function ArtworkImage({
   alt,
   className = "",
   fit = "cover",
-  label = "Immagine non disponibile",
+  label = "Galleria in allestimento",
   loading = "lazy",
+  priority = false,
 }: ArtworkImageProps) {
   const src = image.thumbnail ?? image.url;
   const [isLoaded, setIsLoaded] = useState(false);
@@ -55,15 +57,14 @@ export function ArtworkImage({
       className={`relative overflow-hidden rounded-2xl border border-border bg-bg-secondary ${className}`}
     >
       {!isLoaded && (
-        <div className="absolute inset-0 flex items-center justify-center text-center text-sm text-text-secondary">
-          <span>{label}</span>
-        </div>
+        <div className="absolute inset-0 animate-pulse bg-gradient-to-br from-bg-secondary via-border/30 to-bg-secondary" />
       )}
       <img
         src={src}
         alt={alt}
-        loading={loading}
-        decoding="async"
+        loading={priority ? "eager" : loading}
+        decoding={priority ? "sync" : "async"}
+        fetchPriority={priority ? "high" : undefined}
         onLoad={() => setIsLoaded(true)}
         onError={() => setHasError(true)}
         className={`h-full w-full transition-opacity duration-500 ${
