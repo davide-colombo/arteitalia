@@ -43,3 +43,4 @@ next-env.d.ts
 # generated research artifacts
 /scripts/research/
 /scripts/institution_audit_pre_enrichment.txt
+/src/scripts/validate-data.ts
