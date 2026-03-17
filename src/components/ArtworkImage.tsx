@@ -14,6 +14,16 @@ type ArtworkImageProps = {
   priority?: boolean;
 };
 
+function getOptimizedSrc(originalSrc: string, width: number): string {
+  const wikimediaPattern =
+    /^https:\/\/upload\.wikimedia\.org\/wikipedia\/commons\/([a-f0-9]\/[a-f0-9]{2}\/[^/]+)$/;
+  const match = originalSrc.match(wikimediaPattern);
+  if (!match) return originalSrc;
+  const pathAndFile = match[1];
+  const filename = pathAndFile.split("/").pop();
+  return `https://upload.wikimedia.org/wikipedia/commons/thumb/${pathAndFile}/${width}px-${filename}`;
+}
+
 function Placeholder({
   className,
   label,
@@ -39,7 +49,8 @@ export function ArtworkImage({
   loading = "lazy",
   priority = false,
 }: ArtworkImageProps) {
-  const src = image.thumbnail ?? image.url;
+  const rawSrc = image.thumbnail ?? image.url;
+  const src = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
   const [isLoaded, setIsLoaded] = useState(false);
   const [hasError, setHasError] = useState(false);
 
