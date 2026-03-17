@@ -101,8 +101,8 @@ export default function HomePage() {
 
   return (
     <div className="-mx-4 -mt-8 space-y-24 md:-mx-8 lg:-mx-16">
-      <section className="relative flex min-h-screen items-center justify-center bg-gradient-to-b from-[#0A0A0A] to-[#111111] px-4 py-16 md:px-8 lg:px-16">
-        <div className="mx-auto flex max-w-4xl flex-col items-center gap-8 text-center">
+      <section className="flex min-h-screen flex-col items-center bg-gradient-to-b from-[#0A0A0A] to-[#111111] px-4 py-16 md:px-8 lg:px-16">
+        <div className="mx-auto flex flex-1 max-w-4xl flex-col items-center justify-center gap-8 text-center">
           <div className="space-y-4">
             <h1 className="font-serif text-5xl leading-none text-text-primary md:text-7xl lg:text-8xl">
               ArtèItalia
@@ -122,6 +122,7 @@ export default function HomePage() {
               className="aspect-[3/4] w-full"
               fit="cover"
               label="Immagine non disponibile"
+              loading="eager"
             />
             <div className="space-y-2 text-left">
               <h2 className="font-serif text-3xl leading-tight text-text-primary">
@@ -136,7 +137,7 @@ export default function HomePage() {
 
         <a
           href="#scopri"
-          className="absolute bottom-8 flex flex-col items-center gap-2 text-sm text-text-secondary transition-colors hover:text-accent"
+          className="flex flex-col items-center gap-2 pb-8 text-sm text-text-secondary transition-colors hover:text-accent"
         >
           <span>Scopri</span>
           <svg

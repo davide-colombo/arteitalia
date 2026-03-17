@@ -52,8 +52,13 @@ export function ArtworkImage({
 
   return (
     <div
-      className={`overflow-hidden rounded-2xl border border-border bg-bg-secondary ${className}`}
+      className={`relative overflow-hidden rounded-2xl border border-border bg-bg-secondary ${className}`}
     >
+      {!isLoaded && (
+        <div className="absolute inset-0 flex items-center justify-center text-center text-sm text-text-secondary">
+          <span>{label}</span>
+        </div>
+      )}
       <img
         src={src}
         alt={alt}
