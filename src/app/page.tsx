@@ -159,18 +159,24 @@ export default function HomePage() {
           </h2>
           <div className="space-y-4 text-base leading-relaxed text-text-secondary">
             <p>
-              L&apos;Italia custodisce un patrimonio pittorico distribuito in
-              centinaia di musei, dalla Val d&apos;Aosta alla Sicilia. Nonostante
-              questo, manca uno strumento digitale che lo renda navigabile in modo
-              strutturato: per regione, città, museo, autore, periodo storico,
-              corrente artistica.
+              L&apos;Italia custodisce un{" "}
+              <strong className="text-accent font-semibold">
+                patrimonio pittorico
+              </strong>{" "}
+              distribuito in centinaia di musei, dalla Val d&apos;Aosta alla
+              Sicilia. Nonostante questo, manca uno strumento digitale che lo
+              renda navigabile in modo strutturato: per regione, città, museo,
+              autore, periodo storico, corrente artistica.
             </p>
             <p>
-              ArtèItalia è quello strumento. Raccoglie le opere della pittura
-              italiana e le rende esplorabili: puoi partire da una regione e
-              arrivare al museo, oppure da un autore e attraversare i secoli.
-              Ogni istituzione ha il proprio collegamento, ogni opera la propria
-              scheda.
+              ArtèItalia è{" "}
+              <strong className="text-accent font-semibold">
+                quello strumento
+              </strong>
+              . Raccoglie le opere della pittura italiana e le rende
+              esplorabili: puoi partire da una regione e arrivare al museo,
+              oppure da un autore e attraversare i secoli. Ogni istituzione ha
+              il proprio collegamento, ogni opera la propria scheda.
             </p>
           </div>
         </div>
@@ -179,8 +185,11 @@ export default function HomePage() {
             Un progetto indipendente
           </h3>
           <p className="text-base leading-relaxed text-text-secondary">
-            ArtèItalia è gratuito, senza pubblicità e senza tracciamento. Nasce
-            dal lavoro di una sola persona, fuori da qualsiasi contesto
+            ArtèItalia è{" "}
+            <strong className="text-accent font-semibold">
+              gratuito, senza pubblicità e senza tracciamento
+            </strong>
+            . Nasce dal lavoro di una sola persona, fuori da qualsiasi contesto
             istituzionale. Se pensi che possa essere utile a qualcuno,
             condividilo.
           </p>
