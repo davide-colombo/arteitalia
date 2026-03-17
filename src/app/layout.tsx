@@ -90,14 +90,28 @@ export default function RootLayout({
               </div>
             </div>
           </header>
-          <main className="flex-1">
-            <div className="mx-auto max-w-7xl px-4 py-8 md:px-8 lg:px-16">
+          <main className="flex flex-1 flex-col">
+            <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 py-8 md:px-8 lg:px-16">
               {children}
             </div>
           </main>
           <footer className="border-t border-border bg-bg-secondary">
-            <div className="mx-auto max-w-7xl px-4 py-8 text-center text-sm text-text-secondary md:px-8 lg:px-16">
-              ArtèItalia — Un progetto personale di Davide Colombo
+            <div className="mx-auto flex max-w-7xl flex-col items-start gap-4 px-4 py-8 text-sm text-text-secondary sm:flex-row sm:items-center sm:justify-between md:px-8 lg:px-16">
+              <div>
+                <p className="font-serif text-base text-text-primary">ArtèItalia</p>
+                <p>Il patrimonio pittorico italiano, un&apos;opera alla volta.</p>
+              </div>
+              <div className="flex flex-col items-start gap-1 sm:items-end sm:text-right">
+                <p>Questo sito non è affiliato con alcuna istituzione.</p>
+                <a
+                  href="https://github.com/davide-colombo/arteitalia"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="text-accent transition-colors hover:text-accent-hover"
+                >
+                  Repository GitHub
+                </a>
+              </div>
             </div>
           </footer>
         </div>

@@ -7,6 +7,7 @@ import { useEffect } from "react";
 import { ArtworkImage } from "@/components/ArtworkImage";
 import { ShareBarBottom } from "@/components/ShareBarBottom";
 import { ShareButtonCompact } from "@/components/ShareButtonCompact";
+import { ChevronLeftIcon, ChevronRightIcon } from "@/components/ShareIcons";
 import {
   getAuthorById,
   getCityByInstitutionId,
@@ -160,7 +161,7 @@ export function Gallery({
                 className="rounded-full border border-border bg-bg-primary px-4 py-2 text-lg transition-colors hover:border-accent hover:text-accent disabled:cursor-not-allowed disabled:opacity-40"
                 aria-label="Opera precedente"
               >
-                ◀
+                <ChevronLeftIcon className="h-5 w-5" />
               </button>
               <button
                 type="button"
@@ -169,7 +170,7 @@ export function Gallery({
                 className="rounded-full border border-border bg-bg-primary px-4 py-2 text-lg transition-colors hover:border-accent hover:text-accent disabled:cursor-not-allowed disabled:opacity-40"
                 aria-label="Opera successiva"
               >
-                ▶
+                <ChevronRightIcon className="h-5 w-5" />
               </button>
             </div>
             <p className="text-center text-sm text-text-secondary">
@@ -221,7 +222,7 @@ export function Gallery({
                   className="absolute left-3 top-1/2 -translate-y-1/2 rounded-full border border-border bg-bg-primary/90 px-3 py-2 text-lg transition-colors hover:border-accent hover:text-accent"
                   aria-label="Opera precedente"
                 >
-                  ◀
+                  <ChevronLeftIcon className="h-5 w-5" />
                 </button>
                 <button
                   type="button"
@@ -229,7 +230,7 @@ export function Gallery({
                   className="absolute right-3 top-1/2 -translate-y-1/2 rounded-full border border-border bg-bg-primary/90 px-3 py-2 text-lg transition-colors hover:border-accent hover:text-accent"
                   aria-label="Opera successiva"
                 >
-                  ▶
+                  <ChevronRightIcon className="h-5 w-5" />
                 </button>
               </>
             ) : null}
