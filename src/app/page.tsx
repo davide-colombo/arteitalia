@@ -196,17 +196,19 @@ export default function HomePage() {
             istituzionale. Se pensi che possa essere utile a qualcuno,
             condividilo.
           </p>
-          <div className="flex justify-center">
+          <div className="flex justify-center md:hidden">
             <ShareButtonCompact
               title="ArtèItalia"
               description="Il patrimonio pittorico italiano, un'opera alla volta."
             />
           </div>
-          <ShareBarBottom
-            title="ArtèItalia"
-            description="Il patrimonio pittorico italiano, un'opera alla volta."
-            callToAction=""
-          />
+          <div className="hidden md:block">
+            <ShareBarBottom
+              title="ArtèItalia"
+              description="Il patrimonio pittorico italiano, un'opera alla volta."
+              callToAction=""
+            />
+          </div>
         </div>
       </section>
 
