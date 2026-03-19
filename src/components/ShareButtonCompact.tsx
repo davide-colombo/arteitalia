@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 
 import {
   CheckIcon,
@@ -29,8 +29,12 @@ export function ShareButtonCompact({
 }: ShareButtonCompactProps) {
   const wrapperRef = useRef<HTMLDivElement | null>(null);
   const copyResetTimeoutRef = useRef<number | null>(null);
-  const [canNativeShare] = useState(
-    () => typeof navigator !== "undefined" && typeof navigator.share === "function",
+  const canNativeShare = useSyncExternalStore(
+    () => () => {},
+    () =>
+      typeof navigator !== "undefined" &&
+      typeof navigator.share === "function",
+    () => false,
   );
   const [isOpen, setIsOpen] = useState(false);
   const [copied, setCopied] = useState(false);

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 
 import {
   CheckIcon,
@@ -32,8 +32,10 @@ export function ShareBarBottom({
   callToAction,
   id = "condividi",
 }: ShareBarBottomProps) {
-  const [url] = useState(() =>
-    typeof window === "undefined" ? "" : window.location.href,
+  const url = useSyncExternalStore(
+    () => () => {},
+    () => window.location.href,
+    () => "",
   );
   const [copied, setCopied] = useState(false);
   const copyResetTimeoutRef = useRef<number | null>(null);
