@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 import type { ArtworkImage as ArtworkImageType } from "@/types/schema";
 
@@ -50,17 +50,47 @@ export function ArtworkImage({
   priority = false,
 }: ArtworkImageProps) {
   const rawSrc = image.thumbnail ?? image.url;
-  const optimizedSrc = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
-  const [currentSrc, setCurrentSrc] = useState<string | null>(optimizedSrc);
+
+  if (!rawSrc) {
+    return <Placeholder className={className} label={label} />;
+  }
+
+  return (
+    <ArtworkImageContent
+      key={rawSrc}
+      rawSrc={rawSrc}
+      alt={alt}
+      className={className}
+      fit={fit}
+      label={label}
+      loading={loading}
+      priority={priority}
+    />
+  );
+}
+
+function ArtworkImageContent({
+  rawSrc,
+  alt,
+  className,
+  fit,
+  label,
+  loading,
+  priority,
+}: {
+  rawSrc: string;
+  alt: string;
+  className: string;
+  fit: "contain" | "cover";
+  label: string;
+  loading: "eager" | "lazy";
+  priority: boolean;
+}) {
+  const [currentSrc, setCurrentSrc] = useState<string | null>(
+    getOptimizedSrc(rawSrc, 800),
+  );
   const [isLoaded, setIsLoaded] = useState(false);
   const [hasError, setHasError] = useState(false);
-
-  useEffect(() => {
-    const newOptimized = rawSrc ? getOptimizedSrc(rawSrc, 800) : null;
-    setCurrentSrc(newOptimized);
-    setIsLoaded(false);
-    setHasError(false);
-  }, [rawSrc]);
 
   function handleError() {
     if (currentSrc && rawSrc && currentSrc !== rawSrc) {
@@ -71,7 +101,7 @@ export function ArtworkImage({
     }
   }
 
-  if (!rawSrc || hasError) {
+  if (hasError) {
     return <Placeholder className={className} label={label} />;
   }
 

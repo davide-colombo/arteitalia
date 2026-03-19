@@ -1,0 +1,64 @@
+[
+  {
+    "id": "trionfo-della-morte-abatellis",
+    "title": "Trionfo della Morte",
+    "author_id": "maestro-del-trionfo-della-morte",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1440-1450",
+    "period_id": "quattrocento",
+    "movement_id": "gotico",
+    "institution_id": "galleria-regionale-di-palazzo-abatellis",
+    "medium": "Affresco staccato",
+    "dimensions": "600 × 642 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Regione Siciliana - Beni inamovibili",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/info/beniinamovibili/PaTrionfo.html"
+      },
+      {
+        "label": "Guida breve Palazzo Abatellis - Regione Siciliana",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/musei/guidabrevePalazzoAbatellis.pdf"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale dei Beni inamovibili riporta in testata 'Metà sec. XIV', ma nel testo storico-critico data l'affresco 'intorno al 1440-1450'; la guida breve regionale lo colloca anch'essa a metà del XV secolo. Il batch adotta quindi la cronologia piu coerente e internamente consistente, mantenendo l'attribuzione prudente al Maestro del Trionfo della Morte."
+  },
+  {
+    "id": "martirio-san-lorenzo-novelli",
+    "title": "Martirio di san Lorenzo",
+    "author_id": "pietro-novelli",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-regionale-di-palazzo-abatellis",
+    "medium": "Olio su tela",
+    "dimensions": "174 × 145,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Magazzini siciliani - schede e immagini della Galleria Regionale della Sicilia di Palazzo Abatellis",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/info/news/eventi/magazziniAbatellis.html"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale regionale di 'Magazzini siciliani' documenta il dipinto come opera delle collezioni della Galleria Regionale della Sicilia di Palazzo Abatellis, con inv. 416. La pagina e una scheda di collezione regionale, non una sola notizia di mostra."
+  }
+]

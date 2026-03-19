@@ -29,21 +29,14 @@ function shareButtonClassName() {
 
 export function ShareBarBottom({
   title,
-  description: _description,
   callToAction,
   id = "condividi",
 }: ShareBarBottomProps) {
-  const [url, setUrl] = useState("");
+  const [url] = useState(() =>
+    typeof window === "undefined" ? "" : window.location.href,
+  );
   const [copied, setCopied] = useState(false);
   const copyResetTimeoutRef = useRef<number | null>(null);
-
-  useEffect(() => {
-    if (typeof window === "undefined") {
-      return;
-    }
-
-    setUrl(window.location.href);
-  }, []);
 
   useEffect(() => {
     return () => {

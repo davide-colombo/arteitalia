@@ -2902,33 +2902,6 @@
     "notes": "Opera a soggetto mitologico-allegorico."
   },
   {
-    "id": "camera-degli-sposi-mantegna",
-    "title": "Camera degli Sposi",
-    "author_id": "andrea-mantegna",
-    "year": null,
-    "year_approximate": false,
-    "year_range": [
-      1465,
-      1474
-    ],
-    "period_id": "quattrocento",
-    "movement_id": "rinascimento",
-    "institution_id": "palazzo-ducale",
-    "medium": "Affresco",
-    "dimensions": null,
-    "description": "",
-    "image": {
-      "source": "wikimedia",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Andrea_mantegna%2C_camera_degli_sposi%2C_1465-74%2C_parete_nord%2C_detta_della_corte_03.jpg",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Andrea_mantegna%2C_camera_degli_sposi%2C_1465-74%2C_parete_nord%2C_detta_della_corte_03.jpg/1920px-Andrea_mantegna%2C_camera_degli_sposi%2C_1465-74%2C_parete_nord%2C_detta_della_corte_03.jpg",
-      "license": "CC BY 3.0",
-      "attribution": "Sailko"
-    },
-    "links": [],
-    "verified": false,
-    "notes": "Ciclo decorativo della Camera picta; misure delle singole pareti non standardizzate qui."
-  },
-  {
     "id": "san-giorgio-mantegna",
     "title": "San Giorgio",
     "author_id": "andrea-mantegna",
@@ -4167,7 +4140,7 @@
     ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento-maturo",
-    "institution_id": "palazzo-ducale",
+    "institution_id": "palazzo-ducale-venezia",
     "medium": "Olio su tela",
     "dimensions": "980 × 2210 cm ca.",
     "description": "",
@@ -7679,5 +7652,1046 @@
     "links": [],
     "verified": false,
     "notes": null
+  },
+  {
+    "id": "polittico-lorenzo-veneziano",
+    "title": "Polittico",
+    "author_id": "lorenzo-veneziano",
+    "year": 1380,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "medioevo",
+    "movement_id": "gotico",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Tempera e oro su tavola",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il percorso accessibile del museo lo indica come opera medievale di Lorenzo Veneziano, datata intorno al 1380."
+  },
+  {
+    "id": "cristo-adultera-finoglio",
+    "title": "Cristo e l'adultera",
+    "author_id": "paolo-finoglio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Olio su tela",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Comunicazione MiC sul Museo Castromediano",
+        "url": "https://cultura.gov.it/comunicato/risposta-scritta-all-interrogazione-n-4-04317-del-sen-maurizio-buccarella-lecce-museo-provinciale-1"
+      },
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Dipinto indicato tra gli highlights del Castromediano da fonti istituzionali e dal percorso accessibile del museo."
+  },
+  {
+    "id": "ritratto-fanciullo-toma",
+    "title": "Ritratto di fanciullo",
+    "author_id": "gioacchino-toma",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "ottocento",
+    "movement_id": "realismo",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Olio su tela",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Scelto dal museo e da Eurisko APS per il modellino tattile del percorso accessibile."
+  },
+  {
+    "id": "annunciazione-negroni",
+    "title": "Annunciazione",
+    "author_id": "pietro-negroni",
+    "year": 1554,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tavola",
+    "dimensions": "119 × 244 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pietro_Negroni_-_The_Annunciation.jpg",
+      "thumbnail": null,
+      "license": "Public domain",
+      "attribution": "Pietro Negroni"
+    },
+    "links": [
+      {
+        "label": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Pietro_Negroni_-_The_Annunciation.jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "Titolo, data, tecnica e misure ricavati dalla scheda strutturata del file su Wikimedia Commons; non emerge una scheda catalografica MiC facilmente reperibile per questa opera."
+  },
+  {
+    "id": "san-marco-preti",
+    "title": "San Marco evangelista",
+    "author_id": "mattia-preti",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1675-1699",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tela",
+    "dimensions": "101 × 141 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mattia_preti%2C_san_marco_evangelista%2C_1675-95_ca._01.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800109772"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC attribuisce l'opera a Mattia Preti e propone una datazione compresa tra 1675 e 1699."
+  },
+  {
+    "id": "apoteosi-monarchia-spagnola-giaquinto",
+    "title": "Apoteosi della monarchia spagnola",
+    "author_id": "corrado-giaquinto",
+    "year": 1751,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tela",
+    "dimensions": "50 × 74,5 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Corrado_giaquinto%2C_allegoria%2C_1751_ca._01.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/1800109789"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC titola l'opera 'Apoteosi della monarchia spagnola. allegoria'; il file Commons usa il titolo abbreviato 'Allegoria'."
+  },
+  {
+    "id": "trionfo-della-morte-abatellis",
+    "title": "Trionfo della Morte",
+    "author_id": "maestro-del-trionfo-della-morte",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1440-1450",
+    "period_id": "quattrocento",
+    "movement_id": "gotico",
+    "institution_id": "galleria-regionale-di-palazzo-abatellis",
+    "medium": "Affresco staccato",
+    "dimensions": "600 × 642 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Regione Siciliana - Beni inamovibili",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/info/beniinamovibili/PaTrionfo.html"
+      },
+      {
+        "label": "Guida breve Palazzo Abatellis - Regione Siciliana",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/musei/guidabrevePalazzoAbatellis.pdf"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale dei Beni inamovibili riporta in testata 'Metà sec. XIV', ma nel testo storico-critico data l'affresco 'intorno al 1440-1450'; la guida breve regionale lo colloca anch'essa a metà del XV secolo. Il batch adotta quindi la cronologia piu coerente e internamente consistente, mantenendo l'attribuzione prudente al Maestro del Trionfo della Morte."
+  },
+  {
+    "id": "martirio-san-lorenzo-novelli",
+    "title": "Martirio di san Lorenzo",
+    "author_id": "pietro-novelli",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-regionale-di-palazzo-abatellis",
+    "medium": "Olio su tela",
+    "dimensions": "174 × 145,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Magazzini siciliani - schede e immagini della Galleria Regionale della Sicilia di Palazzo Abatellis",
+        "url": "https://www2.regione.sicilia.it/beniculturali/dirbenicult/info/news/eventi/magazziniAbatellis.html"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale regionale di 'Magazzini siciliani' documenta il dipinto come opera delle collezioni della Galleria Regionale della Sicilia di Palazzo Abatellis, con inv. 416. La pagina e una scheda di collezione regionale, non una sola notizia di mostra."
+  },
+  {
+    "id": "cleopatra-morente-guercino",
+    "title": "Cleopatra morente",
+    "author_id": "guercino",
+    "year": 1648,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "musei-strada-nuova",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/197751-cleopatra-morente"
+      },
+      {
+        "label": "Scheda complesso - Musei di Strada Nuova",
+        "url": "https://catalogo.museidigenova.it/musei/musei-di-strada-nuova"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda civica cataloga l'opera con inventario PR 16 e collocazione Palazzo Rosso. Nel modello Onda 1 l'opera viene assegnata al nodo canonico gia esistente 'musei-strada-nuova', che rappresenta il complesso unitario formato da Palazzo Rosso, Palazzo Bianco e Palazzo Doria-Tursi."
+  },
+  {
+    "id": "madonna-col-bambino-van-cleve",
+    "title": "Madonna col Bambino",
+    "author_id": "joos-van-cleve",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1518-1522",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "palazzo-bianco-genova",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/196957-madonna-col-bambino?i=55"
+      },
+      {
+        "label": "Scheda sede - Palazzo Bianco",
+        "url": "https://www.museidigenova.it/it/storia-del-palazzo"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda del catalogo civico registra inventario PB 108 e localizzazione 'Musei di Strada Nuova - Palazzo Bianco'; il batch separa quindi la sede Palazzo Bianco dal nodo complessivo dei Musei di Strada Nuova."
+  },
+  {
+    "id": "gia-venere-marte-rubens",
+    "title": "Già Venere e Marte / allegoria dell'intemperanza",
+    "author_id": "peter-paul-rubens",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1632-1635",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "palazzo-bianco-genova",
+    "medium": "Olio su tavole di rovere",
+    "dimensions": "133 × 142 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/196902-gia-venere-e-marte-allegoria-dellintemperanza"
+      },
+      {
+        "label": "Scheda sede - Palazzo Bianco",
+        "url": "https://www.museidigenova.it/it/storia-del-palazzo"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale usa come SGTT 'Gia Venere e Marte / allegoria dell'intemperanza' e localizza l'opera a Palazzo Bianco; il catalogo civico offre anche la forma breve 'Venere e Marte' come titolo alternativo."
+  },
+  {
+    "id": "aquila-asburgica-carlo-v",
+    "title": "Dipinto murale raffigurante l'aquila asburgica di Carlo V",
+    "author_id": "ambito-molisano",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1634-1680",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-castello-pandone",
+    "medium": "Intonaco dipinto a tempera",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1400054475"
+      },
+      {
+        "label": "Museo nazionale di Castello Pandone - Ministero della Cultura",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina istituzionale MiC del museo presenta in galleria il titolo breve 'Dipinto murale raffigurante l'aquila asburgica di Carlo V'; la scheda catalografica MiC usa il titolo esteso 'Aquila Asburgica di Carlo V/ stemma dei Savelli/ putti che sostengono insegne religiose e militari' e la datazione 1634-1680."
+  },
+  {
+    "id": "madonna-bambino-san-nicola-da-tolentino-rossi",
+    "title": "Madonna con Bambino e san Nicola da Tolentino",
+    "author_id": "nicola-maria-rossi",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-castello-pandone",
+    "medium": null,
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Museo nazionale di Castello Pandone - Ministero della Cultura",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone"
+      },
+      {
+        "label": "Museo nazionale di Castello Pandone - Direzione regionale musei nazionali Molise",
+        "url": "https://www.musei.molise.beniculturali.it/musei?mid=214&nome=museo-nazionale-di-castello-pandone"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina istituzionale corrente del museo indica l'opera, proveniente dalla chiesa di Sant'Agostino di Venafro, tra i dipinti settecenteschi che spiccano per qualita nel percorso del Museo Nazionale del Molise ospitato nel Castello Pandone. La datazione puntuale non e esplicitata nella pagina MiC, quindi il record resta senza anno specifico."
+  },
+  {
+    "id": "trittico-di-beffi-sabino",
+    "title": "Trittico di Beffi",
+    "author_id": "leonardo-di-sabino-da-teramo",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1410-1420",
+    "period_id": "quattrocento",
+    "movement_id": "gotico",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Tempera su tavola con fondo oro",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Il Quattrocento - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-opere/il-quattrocento/"
+      },
+      {
+        "label": "Virtual tour MiC del Museo Nazionale d'Abruzzo",
+        "url": "https://cultura.gov.it/evento/il-museo-nazionale-d-abruzzo-a-l-aquila-in-virtual-tour"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina ufficiale del MuNDA presenta l'opera con il titolo esteso 'Madonna in trono con il Bambino e scene della vita di Gesu e della Vergine (Trittico di Beffi)' e la attribuisce a Leonardo di Sabino da Teramo con datazione 1410-1420."
+  },
+  {
+    "id": "sacra-parentela-cola-dellamatrice",
+    "title": "La famiglia di Gesù incontra la famiglia del Battista (La sacra parentela)",
+    "author_id": "cola-dellamatrice",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1520-1529",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Le indagini diagnostiche e il restauro della Sacra parentela - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-indagini-diagnostiche-e-il-restauro-della-sacra-parentela-di-cola-dellamatrice/"
+      },
+      {
+        "label": "Nuove acquisizioni - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/nuove-acquisizioni/"
+      }
+    ],
+    "verified": false,
+    "notes": "Le fonti ufficiali del MuNDA indicano l'opera come acquisita dal museo tra la fine del 2022 e il 2023 ed esposta nel percorso di visita dal luglio 2024; il sito la attribuisce a Nicolò Filotesio detto Cola dell'Amatrice e la data al terzo decennio del XVI secolo."
+  },
+  {
+    "id": "maddalena-meditazione-teschio-ribera",
+    "title": "La Maddalena in meditazione del teschio",
+    "author_id": "jusepe-de-ribera",
+    "year": 1630,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Olio su tela",
+    "dimensions": "101,5 × 76 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Opere - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-opere/"
+      },
+      {
+        "label": "Opere temporaneamente non esposte - MuNDA",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/wp-content/uploads/2023/11/Opere-temporaneamente-non-esposte-6.11.2023.pdf"
+      }
+    ],
+    "verified": false,
+    "notes": "La lista ufficiale delle opere temporaneamente non esposte del 6 novembre 2023 registra il dipinto con datazione '1630 ca.', tecnica e misure; la pagina corrente 'Le opere' del MuNDA lo include invece nel percorso del Seicento. Il batch mantiene il legame istituzionale certo con il museo e segnala la discrepanza temporale sull'esposizione."
+  },
+  {
+    "id": "madonna-bambino-santi-giovanni-battista-evangelista-maestro-tempere-francescane",
+    "title": "Madonna con Bambino tra i Santi Giovanni Battista e Evangelista",
+    "author_id": "maestro-delle-tempere-francescane",
+    "year": 1350,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "medioevo",
+    "movement_id": "gotico",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Dipinto su tavola",
+    "dimensions": "138 × 149 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/madonna-con-bambino-tra-i-santi-giovanni-battista-e-evangelista/"
+      },
+      {
+        "label": "Sezione Arte del Territorio - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/arte-del-territorio/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il sito ufficiale dei Musei nazionali di Matera presenta l'opera come trittico della sezione Arte del Territorio, datato alla meta del XIV secolo e attribuito al Maestro delle tempere francescane. Non ho rintracciato una scheda oggettuale del Catalogo Generale con localizzazione esplicita a Palazzo Lanfranchi."
+  },
+  {
+    "id": "san-francesco-in-preghiera-ribera",
+    "title": "San Francesco in preghiera",
+    "author_id": "jusepe-de-ribera",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1610-1629",
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Olio su tela",
+    "dimensions": "117 × 93 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/san-francesco-in-preghiera/"
+      },
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1700033184"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda del museo usa la forma 'Giuseppe Ribera', mentre il Catalogo Generale registra l'opera come attribuita a 'De Ribera Jusepe detto Spagnoletto'. Il batch adotta l'identita storico-artistica standard dell'autore e conserva nel note la natura attributiva del dato."
+  },
+  {
+    "id": "lucania-61-levi",
+    "title": "Lucania '61",
+    "author_id": "carlo-levi",
+    "year": 1961,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "novecento",
+    "movement_id": "realismo",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Olio su tela, sei pannelli assemblati",
+    "dimensions": "321 × 1865 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/lucania-61/"
+      },
+      {
+        "label": "Museo Nazionale di Matera - Sezione Arte Contemporanea",
+        "url": "https://luoghidelcontemporaneo.cultura.gov.it/esplora/museo-nazionale-di-matera-sezione-arte-contemporanea/"
+      },
+      {
+        "label": "Scheda luogo MiC - Palazzo Lanfranchi",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-matera-palazzo-lanfranchi"
+      }
+    ],
+    "verified": false,
+    "notes": "Il grande telero e presentato sia nella scheda oggettuale del sito ufficiale dei Musei nazionali di Matera sia nelle pagine istituzionali MiC dedicate alla sezione contemporanea e alla sede di Palazzo Lanfranchi."
+  },
+  {
+    "id": "san-pietro-cavaro",
+    "title": "San Pietro",
+    "author_id": "pietro-cavaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1500-1599",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-nazionale-reggio-calabria",
+    "medium": "Tempera su tavola",
+    "dimensions": "76,5 × 175 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800022908"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC localizza l'opera al Museo Nazionale di Reggio Calabria in Piazza De Nava. Non emerge una riproduzione affidabile su Wikimedia Commons."
+  },
+  {
+    "id": "caduta-simon-mago-cannizzaro",
+    "title": "Caduta di Simon Mago",
+    "author_id": "vincenzo-cannizzaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1763-1765",
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-reggio-calabria",
+    "medium": "Olio su tela",
+    "dimensions": "88,5 × 143,5 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vincenzo_cannizzaro%2C_caduta_di_simon_mago%2C_1760_ca.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800022934"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC data genericamente il dipinto al Settecento, ma propone un'esecuzione durante il soggiorno romano di Vincenzo Cannizzaro (1763-1765), da cui il year_range adottato."
+  },
+  {
+    "id": "polittico-san-gregorio-antonello",
+    "title": "Polittico di San Gregorio",
+    "author_id": "antonello-da-messina",
+    "year": 1473,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": null,
+    "dimensions": "170 × 203 cm complessivi",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/polittico-di-s-gregorio/"
+      },
+      {
+        "label": "Scheda museo - Regione Siciliana",
+        "url": "https://parchiarcheologici.regione.sicilia.it/en/museo-interdisciplinare-di-messina/il-museo/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale del museo usa il titolo abbreviato 'Polittico di S. Gregorio' e specifica come sottotitolo 'Madonna col Bambino o del Rosario tra i Santi Gregorio e Benedetto - Angelo Annunciante e Annunciata'. Il batch normalizza il titolo in forma piu leggibile mantenendo i dati oggettuali della scheda."
+  },
+  {
+    "id": "nativita-caravaggio-messina",
+    "title": "Natività",
+    "author_id": "caravaggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1608-1609",
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": "Olio su tela",
+    "dimensions": "314 × 211 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/nativita-adorazione-dei-pastori/"
+      },
+      {
+        "label": "Archivio Caravaggio - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/collezione/caravaggio/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda oggettuale ufficiale del museo e intestata 'Nativita' e riporta 'Adorazione dei pastori' come sottotitolo e soggetto. Il batch allinea quindi il titolo principale alla scheda primaria del museo, mantenendo autore, datazione 1608-1609 e soggetto documentati dalla stessa fonte."
+  },
+  {
+    "id": "resurrezione-di-lazzaro-caravaggio",
+    "title": "Resurrezione di Lazzaro",
+    "author_id": "caravaggio",
+    "year": 1609,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": "Olio su tela",
+    "dimensions": "380 × 275 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/resurrezione-di-lazzaro/"
+      },
+      {
+        "label": "Archivio Caravaggio - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/collezione/caravaggio/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale localizza il dipinto nella Sala Caravaggio del museo e ne documenta la provenienza dalla chiesa messinese dei Santi Pietro e Paolo dei Pisani dei Padri Crociferi."
+  },
+  {
+    "id": "san-pietro-martire-bellini",
+    "title": "San Pietro martire",
+    "author_id": "giovanni-bellini",
+    "year": 1488,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Tempera su tavola",
+    "dimensions": "194 × 84 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Giovanni_bellini%2C_san_pietro_martire%2C_da_monopoli%2C_01.jpg",
+      "thumbnail": null,
+      "license": "Public domain",
+      "attribution": "Giovanni Bellini"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=92"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo colloca l'opera alla fine del nono decennio del XV secolo."
+  },
+  {
+    "id": "san-rocco-appestati-tintoretto",
+    "title": "San Rocco e gli appestati",
+    "author_id": "tintoretto",
+    "year": 1592,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "320 × 195 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=96"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo considera verosimile la datazione al 1592."
+  },
+  {
+    "id": "incontro-rachele-giacobbe-de-rosa",
+    "title": "Incontro di Rachele e Giacobbe",
+    "author_id": "pacecco-de-rosa",
+    "year": 1640,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "126 × 182 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=111"
+      }
+    ],
+    "verified": false,
+    "notes": ""
+  },
+  {
+    "id": "trionfo-giuseppe-giaquinto",
+    "title": "Trionfo di Giuseppe",
+    "author_id": "corrado-giaquinto",
+    "year": 1753,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "83 × 98 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=148"
+      }
+    ],
+    "verified": false,
+    "notes": "Bozzetto per il ciclo di Aranjuez, datato dal museo al 1753."
+  },
+  {
+    "id": "in-corte-assise-netti",
+    "title": "In Corte d'Assise",
+    "author_id": "francesco-netti",
+    "year": 1882,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "ottocento",
+    "movement_id": "realismo",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "95,5 × 181,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=756"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo riporta la firma e la data 1882."
+  },
+  {
+    "id": "retablo-annunciazione-mates",
+    "title": "Retablo dell'Annunciazione",
+    "author_id": "joan-mates",
+    "year": 1410,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "gotico-internazionale",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "260,9 × 238,1 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/18/Retablo%20dell%27Annunciazione"
+      },
+      {
+        "label": "Esplora la collezione - Musei Nazionali di Cagliari",
+        "url": "https://museinazionalicagliari.cultura.gov.it/__descrizione-categoria/esplora-la-collezione/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il sito attuale dei Musei Nazionali di Cagliari presenta il retablo di Joan Mates come il punto di avvio cronologico dei retabli della raccolta; la scheda storica del museo lo data al 1410 circa e lo dice proveniente da San Francesco di Stampace."
+  },
+  {
+    "id": "crocefissione-cavaro",
+    "title": "Crocefissione",
+    "author_id": "lorenzo-cavaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1507-1508",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "61,8 × 56,8 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorenzo_Cavaro%2C_Calvario_%28Retablo_di_Giorgino%29.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Alessandra Imbellone"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/26/Crocefissione"
+      },
+      {
+        "label": "File Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Cavaro,_Calvario_(Retablo_di_Giorgino).jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica usa il titolo 'Crocefissione' e data 1507; il sito attuale dei Musei Nazionali di Cagliari richiama la stessa opera come 'Calvario' datato 1508. Il batch usa quindi un year_range per evitare falsa precisione."
+  },
+  {
+    "id": "retablo-sant-eligio-maestro-di-sanluri",
+    "title": "Retablo di Sant'Eligio",
+    "author_id": "maestro-di-sanluri",
+    "year": 1510,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "gotico",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "447,2 × 333,8 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maestro_di_sanluri%2C_retablo_di_sant%27eligio%2C_1510_ca._01_da_san_pietro_a_sanluri.jpg",
+      "thumbnail": null,
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/40/Retablo%20di%20S.%20Eligio"
+      },
+      {
+        "label": "File Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Maestro_di_sanluri,_retablo_di_sant%27eligio,_1510_ca._01_da_san_pietro_a_sanluri.jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica del museo indica 'Inizi XVI secolo'; il sito MiC del 2023 sintetizza il retablo come opera del 1510 circa. Provenienza storica: Sanluri, chiesa di San Pietro, con originaria collocazione nella chiesa di Santa Maria di Gesu."
+  },
+  {
+    "id": "presepe-fondo-di-rovina-santi",
+    "title": "Presepe su fondo di rovina",
+    "author_id": "giovan-gioseffo-santi",
+    "year": 1685,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Olio su tela",
+    "dimensions": "77 × 64,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/51/Presepe%20su%20fondo%20di%20rovina"
+      },
+      {
+        "label": "Art Bonus - Quattro dipinti su tela di Giovan Gioseffo Santi 1685",
+        "url": "https://artbonus.gov.it/2518-quattro-dipinti-su-tela-di-giovan-gioseffo-santi-1685.html"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica del museo collega il dipinto alla serie di quattro tele arrivate a Cagliari con il corredo di Padre Maestro Gavino Felice Boy; la scheda Art Bonus 2023 conferma il gruppo come nucleo di quattro dipinti di Giovan Gioseffo Santi databili al 1685 circa."
   }
 ]

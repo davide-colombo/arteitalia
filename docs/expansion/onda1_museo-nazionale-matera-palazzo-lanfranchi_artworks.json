@@ -1,0 +1,105 @@
+[
+  {
+    "id": "madonna-bambino-santi-giovanni-battista-evangelista-maestro-tempere-francescane",
+    "title": "Madonna con Bambino tra i Santi Giovanni Battista e Evangelista",
+    "author_id": "maestro-delle-tempere-francescane",
+    "year": 1350,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "medioevo",
+    "movement_id": "gotico",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Dipinto su tavola",
+    "dimensions": "138 × 149 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/madonna-con-bambino-tra-i-santi-giovanni-battista-e-evangelista/"
+      },
+      {
+        "label": "Sezione Arte del Territorio - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/arte-del-territorio/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il sito ufficiale dei Musei nazionali di Matera presenta l'opera come trittico della sezione Arte del Territorio, datato alla meta del XIV secolo e attribuito al Maestro delle tempere francescane. Non ho rintracciato una scheda oggettuale del Catalogo Generale con localizzazione esplicita a Palazzo Lanfranchi."
+  },
+  {
+    "id": "san-francesco-in-preghiera-ribera",
+    "title": "San Francesco in preghiera",
+    "author_id": "jusepe-de-ribera",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1610-1629",
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Olio su tela",
+    "dimensions": "117 × 93 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/san-francesco-in-preghiera/"
+      },
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1700033184"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda del museo usa la forma 'Giuseppe Ribera', mentre il Catalogo Generale registra l'opera come attribuita a 'De Ribera Jusepe detto Spagnoletto'. Il batch adotta l'identita storico-artistica standard dell'autore e conserva nel note la natura attributiva del dato."
+  },
+  {
+    "id": "lucania-61-levi",
+    "title": "Lucania '61",
+    "author_id": "carlo-levi",
+    "year": 1961,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "novecento",
+    "movement_id": "realismo",
+    "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "medium": "Olio su tela, sei pannelli assemblati",
+    "dimensions": "321 × 1865 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Musei nazionali di Matera",
+        "url": "https://www.museonazionaledimatera.it/collezione/lucania-61/"
+      },
+      {
+        "label": "Museo Nazionale di Matera - Sezione Arte Contemporanea",
+        "url": "https://luoghidelcontemporaneo.cultura.gov.it/esplora/museo-nazionale-di-matera-sezione-arte-contemporanea/"
+      },
+      {
+        "label": "Scheda luogo MiC - Palazzo Lanfranchi",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-matera-palazzo-lanfranchi"
+      }
+    ],
+    "verified": false,
+    "notes": "Il grande telero e presentato sia nella scheda oggettuale del sito ufficiale dei Musei nazionali di Matera sia nelle pagine istituzionali MiC dedicate alla sezione contemporanea e alla sede di Palazzo Lanfranchi."
+  }
+]

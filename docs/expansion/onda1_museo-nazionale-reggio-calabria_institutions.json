@@ -1,0 +1,19 @@
+[
+  {
+    "id": "museo-nazionale-reggio-calabria",
+    "name": "Museo Nazionale di Reggio Calabria",
+    "type": "museo",
+    "city_id": "reggio-calabria",
+    "description": "Museo statale di Palazzo Piacentini, oggi dedicato soprattutto alla Magna Grecia ma nato anche dall'unione delle raccolte civiche e statali di Reggio; le schede MiC documentano ancora un nucleo di dipinti della storica pinacoteca del museo.",
+    "website": "https://museoarcheologicoreggiocalabria.cultura.gov.it/",
+    "periods": [
+      "cinquecento",
+      "settecento"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco"
+    ],
+    "notes": "La voce Wikipedia del MArRC ricorda che la pinacoteca civica fu trasferita altrove dopo il 2008; per questo batch sono stati selezionati i dipinti che il Catalogo MiC colloca ancora al Museo Nazionale di Piazza De Nava."
+  }
+]

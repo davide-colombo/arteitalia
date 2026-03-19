@@ -1,0 +1,23 @@
+[
+  {
+    "id": "museo-nazionale-castello-pandone",
+    "name": "Museo nazionale di Castello Pandone",
+    "type": "museo",
+    "city_id": "venafro",
+    "description": "Luogo della cultura statale di Venafro nel Castello Pandone. La pagina ufficiale MiC lo denomina oggi Museo nazionale di Castello Pandone e precisa che in una sua ala e ospitato il Museo Nazionale del Molise, con un percorso di pittura dal VII secolo all'eta moderna.",
+    "website": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone",
+    "periods": [
+      "medioevo",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco"
+    ],
+    "notes": "Batch 1.6 modellato sulla sede fisica reale di Venafro, non su Campobasso: la stessa pagina MiC indica Campobasso come sede della direzione regionale e dei contatti amministrativi, mentre la posizione del museo e via Colle, Venafro."
+  }
+]

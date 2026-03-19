@@ -1,0 +1,101 @@
+[
+  {
+    "id": "trittico-di-beffi-sabino",
+    "title": "Trittico di Beffi",
+    "author_id": "leonardo-di-sabino-da-teramo",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1410-1420",
+    "period_id": "quattrocento",
+    "movement_id": "gotico",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Tempera su tavola con fondo oro",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Il Quattrocento - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-opere/il-quattrocento/"
+      },
+      {
+        "label": "Virtual tour MiC del Museo Nazionale d'Abruzzo",
+        "url": "https://cultura.gov.it/evento/il-museo-nazionale-d-abruzzo-a-l-aquila-in-virtual-tour"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina ufficiale del MuNDA presenta l'opera con il titolo esteso 'Madonna in trono con il Bambino e scene della vita di Gesu e della Vergine (Trittico di Beffi)' e la attribuisce a Leonardo di Sabino da Teramo con datazione 1410-1420."
+  },
+  {
+    "id": "sacra-parentela-cola-dellamatrice",
+    "title": "La famiglia di Gesù incontra la famiglia del Battista (La sacra parentela)",
+    "author_id": "cola-dellamatrice",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1520-1529",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Le indagini diagnostiche e il restauro della Sacra parentela - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-indagini-diagnostiche-e-il-restauro-della-sacra-parentela-di-cola-dellamatrice/"
+      },
+      {
+        "label": "Nuove acquisizioni - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/nuove-acquisizioni/"
+      }
+    ],
+    "verified": false,
+    "notes": "Le fonti ufficiali del MuNDA indicano l'opera come acquisita dal museo tra la fine del 2022 e il 2023 ed esposta nel percorso di visita dal luglio 2024; il sito la attribuisce a Nicolò Filotesio detto Cola dell'Amatrice e la data al terzo decennio del XVI secolo."
+  },
+  {
+    "id": "maddalena-meditazione-teschio-ribera",
+    "title": "La Maddalena in meditazione del teschio",
+    "author_id": "jusepe-de-ribera",
+    "year": 1630,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-nazionale-dabruzzo",
+    "medium": "Olio su tela",
+    "dimensions": "101,5 × 76 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Opere - Museo Nazionale d'Abruzzo",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/le-opere/"
+      },
+      {
+        "label": "Opere temporaneamente non esposte - MuNDA",
+        "url": "https://museonazionaledabruzzo.cultura.gov.it/wp-content/uploads/2023/11/Opere-temporaneamente-non-esposte-6.11.2023.pdf"
+      }
+    ],
+    "verified": false,
+    "notes": "La lista ufficiale delle opere temporaneamente non esposte del 6 novembre 2023 registra il dipinto con datazione '1630 ca.', tecnica e misure; la pagina corrente 'Le opere' del MuNDA lo include invece nel percorso del Seicento. Il batch mantiene il legame istituzionale certo con il museo e segnala la discrepanza temporale sull'esposizione."
+  }
+]

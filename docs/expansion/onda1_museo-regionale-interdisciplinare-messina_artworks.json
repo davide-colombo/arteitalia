@@ -1,0 +1,101 @@
+[
+  {
+    "id": "polittico-san-gregorio-antonello",
+    "title": "Polittico di San Gregorio",
+    "author_id": "antonello-da-messina",
+    "year": 1473,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": null,
+    "dimensions": "170 × 203 cm complessivi",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/polittico-di-s-gregorio/"
+      },
+      {
+        "label": "Scheda museo - Regione Siciliana",
+        "url": "https://parchiarcheologici.regione.sicilia.it/en/museo-interdisciplinare-di-messina/il-museo/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale del museo usa il titolo abbreviato 'Polittico di S. Gregorio' e specifica come sottotitolo 'Madonna col Bambino o del Rosario tra i Santi Gregorio e Benedetto - Angelo Annunciante e Annunciata'. Il batch normalizza il titolo in forma piu leggibile mantenendo i dati oggettuali della scheda."
+  },
+  {
+    "id": "nativita-caravaggio-messina",
+    "title": "Natività",
+    "author_id": "caravaggio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1608-1609",
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": "Olio su tela",
+    "dimensions": "314 × 211 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/nativita-adorazione-dei-pastori/"
+      },
+      {
+        "label": "Archivio Caravaggio - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/collezione/caravaggio/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda oggettuale ufficiale del museo e intestata 'Nativita' e riporta 'Adorazione dei pastori' come sottotitolo e soggetto. Il batch allinea quindi il titolo principale alla scheda primaria del museo, mantenendo autore, datazione 1608-1609 e soggetto documentati dalla stessa fonte."
+  },
+  {
+    "id": "resurrezione-di-lazzaro-caravaggio",
+    "title": "Resurrezione di Lazzaro",
+    "author_id": "caravaggio",
+    "year": 1609,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "naturalismo",
+    "institution_id": "museo-regionale-interdisciplinare-messina",
+    "medium": "Olio su tela",
+    "dimensions": "380 × 275 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/opera/resurrezione-di-lazzaro/"
+      },
+      {
+        "label": "Archivio Caravaggio - Museo regionale Accascina Messina",
+        "url": "https://museo.messina.it/collezione/caravaggio/"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale localizza il dipinto nella Sala Caravaggio del museo e ne documenta la provenienza dalla chiesa messinese dei Santi Pietro e Paolo dei Pisani dei Padri Crociferi."
+  }
+]

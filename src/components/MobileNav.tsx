@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
 
@@ -10,17 +9,8 @@ type MobileNavProps = {
 };
 
 export function MobileNav({ items }: MobileNavProps) {
-  const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
-  const [isMounted, setIsMounted] = useState(false);
-
-  useEffect(() => {
-    setIsMounted(true);
-  }, []);
-
-  useEffect(() => {
-    setIsOpen(false);
-  }, [pathname]);
+  const canPortal = typeof document !== "undefined";
 
   useEffect(() => {
     document.body.style.overflow = isOpen ? "hidden" : "";
@@ -70,7 +60,7 @@ export function MobileNav({ items }: MobileNavProps) {
         </svg>
       </button>
 
-      {isOpen && isMounted
+      {isOpen && canPortal
         ? createPortal(
             <div
               className="fixed inset-0 z-50 bg-bg-primary md:hidden"

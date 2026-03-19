@@ -1,0 +1,26 @@
+[
+  {
+    "id": "galleria-nazionale-cosenza",
+    "name": "Galleria Nazionale di Cosenza",
+    "type": "galleria",
+    "city_id": "cosenza",
+    "description": "Galleria statale ospitata a Palazzo Arnone, con collezioni di pittura dal Cinquecento al Novecento e nuclei dedicati agli artisti calabresi, alla raccolta ex Banca Carime e all'arte contemporanea.",
+    "website": "https://musei.calabria.beniculturali.it/",
+    "periods": [
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento",
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco",
+      "realismo",
+      "futurismo",
+      "arte-contemporanea"
+    ],
+    "notes": null
+  }
+]

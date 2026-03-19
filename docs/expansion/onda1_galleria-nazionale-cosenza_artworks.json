@@ -1,0 +1,89 @@
+[
+  {
+    "id": "annunciazione-negroni",
+    "title": "Annunciazione",
+    "author_id": "pietro-negroni",
+    "year": 1554,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tavola",
+    "dimensions": "119 × 244 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pietro_Negroni_-_The_Annunciation.jpg",
+      "thumbnail": null,
+      "license": "Public domain",
+      "attribution": "Pietro Negroni"
+    },
+    "links": [
+      {
+        "label": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Pietro_Negroni_-_The_Annunciation.jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "Titolo, data, tecnica e misure ricavati dalla scheda strutturata del file su Wikimedia Commons; non emerge una scheda catalografica MiC facilmente reperibile per questa opera."
+  },
+  {
+    "id": "san-marco-preti",
+    "title": "San Marco evangelista",
+    "author_id": "mattia-preti",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1675-1699",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tela",
+    "dimensions": "101 × 141 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mattia_preti%2C_san_marco_evangelista%2C_1675-95_ca._01.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800109772"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC attribuisce l'opera a Mattia Preti e propone una datazione compresa tra 1675 e 1699."
+  },
+  {
+    "id": "apoteosi-monarchia-spagnola-giaquinto",
+    "title": "Apoteosi della monarchia spagnola",
+    "author_id": "corrado-giaquinto",
+    "year": 1751,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "galleria-nazionale-cosenza",
+    "medium": "Olio su tela",
+    "dimensions": "50 × 74,5 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Corrado_giaquinto%2C_allegoria%2C_1751_ca._01.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty/1800109789"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC titola l'opera 'Apoteosi della monarchia spagnola. allegoria'; il file Commons usa il titolo abbreviato 'Allegoria'."
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "retablo-annunciazione-mates",
+    "title": "Retablo dell'Annunciazione",
+    "author_id": "joan-mates",
+    "year": 1410,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "gotico-internazionale",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "260,9 × 238,1 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/18/Retablo%20dell%27Annunciazione"
+      },
+      {
+        "label": "Esplora la collezione - Musei Nazionali di Cagliari",
+        "url": "https://museinazionalicagliari.cultura.gov.it/__descrizione-categoria/esplora-la-collezione/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il sito attuale dei Musei Nazionali di Cagliari presenta il retablo di Joan Mates come il punto di avvio cronologico dei retabli della raccolta; la scheda storica del museo lo data al 1410 circa e lo dice proveniente da San Francesco di Stampace."
+  },
+  {
+    "id": "crocefissione-cavaro",
+    "title": "Crocefissione",
+    "author_id": "lorenzo-cavaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1507-1508",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "61,8 × 56,8 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorenzo_Cavaro%2C_Calvario_%28Retablo_di_Giorgino%29.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Alessandra Imbellone"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/26/Crocefissione"
+      },
+      {
+        "label": "File Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Lorenzo_Cavaro,_Calvario_(Retablo_di_Giorgino).jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica usa il titolo 'Crocefissione' e data 1507; il sito attuale dei Musei Nazionali di Cagliari richiama la stessa opera come 'Calvario' datato 1508. Il batch usa quindi un year_range per evitare falsa precisione."
+  },
+  {
+    "id": "retablo-sant-eligio-maestro-di-sanluri",
+    "title": "Retablo di Sant'Eligio",
+    "author_id": "maestro-di-sanluri",
+    "year": 1510,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "gotico",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Tempera su tavola",
+    "dimensions": "447,2 × 333,8 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maestro_di_sanluri%2C_retablo_di_sant%27eligio%2C_1510_ca._01_da_san_pietro_a_sanluri.jpg",
+      "thumbnail": null,
+      "license": "CC BY 3.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/40/Retablo%20di%20S.%20Eligio"
+      },
+      {
+        "label": "File Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Maestro_di_sanluri,_retablo_di_sant%27eligio,_1510_ca._01_da_san_pietro_a_sanluri.jpg"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica del museo indica 'Inizi XVI secolo'; il sito MiC del 2023 sintetizza il retablo come opera del 1510 circa. Provenienza storica: Sanluri, chiesa di San Pietro, con originaria collocazione nella chiesa di Santa Maria di Gesu."
+  },
+  {
+    "id": "presepe-fondo-di-rovina-santi",
+    "title": "Presepe su fondo di rovina",
+    "author_id": "giovan-gioseffo-santi",
+    "year": 1685,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-nazionale-cagliari",
+    "medium": "Olio su tela",
+    "dimensions": "77 × 64,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Nazionale di Cagliari",
+        "url": "http://www.pinacoteca.cagliari.beniculturali.it/index.php?it/99/ricerca-avanzata/51/Presepe%20su%20fondo%20di%20rovina"
+      },
+      {
+        "label": "Art Bonus - Quattro dipinti su tela di Giovan Gioseffo Santi 1685",
+        "url": "https://artbonus.gov.it/2518-quattro-dipinti-su-tela-di-giovan-gioseffo-santi-1685.html"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda storica del museo collega il dipinto alla serie di quattro tele arrivate a Cagliari con il corredo di Padre Maestro Gavino Felice Boy; la scheda Art Bonus 2023 conferma il gruppo come nucleo di quattro dipinti di Giovan Gioseffo Santi databili al 1685 circa."
+  }
+]

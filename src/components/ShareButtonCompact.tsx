@@ -26,28 +26,14 @@ function iconButtonClassName() {
 export function ShareButtonCompact({
   title,
   description,
-  bottomSectionId: _bottomSectionId = "condividi",
 }: ShareButtonCompactProps) {
   const wrapperRef = useRef<HTMLDivElement | null>(null);
   const copyResetTimeoutRef = useRef<number | null>(null);
-  const [canNativeShare, setCanNativeShare] = useState(false);
+  const [canNativeShare] = useState(
+    () => typeof navigator !== "undefined" && typeof navigator.share === "function",
+  );
   const [isOpen, setIsOpen] = useState(false);
   const [copied, setCopied] = useState(false);
-
-  useEffect(() => {
-    if (typeof navigator === "undefined") {
-      return;
-    }
-
-    setCanNativeShare(typeof navigator.share === "function");
-  }, []);
-
-  useEffect(() => {
-    if (canNativeShare) {
-      setIsOpen(false);
-      setCopied(false);
-    }
-  }, [canNativeShare]);
 
   useEffect(() => {
     if (!isOpen || typeof document === "undefined") {
@@ -224,6 +210,8 @@ export function ShareButtonCompact({
 
   function handleMainButtonClick() {
     if (canNativeShare) {
+      setCopied(false);
+      setIsOpen(false);
       void handleNativeShare();
       return;
     }

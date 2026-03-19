@@ -1,0 +1,51 @@
+[
+  {
+    "id": "joan-mates",
+    "name": "Joan Mates",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Catalano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico-internazionale"
+    ]
+  },
+  {
+    "id": "lorenzo-cavaro",
+    "name": "Lorenzo Cavaro",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "maestro-di-sanluri",
+    "name": "Maestro di Sanluri",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico",
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "giovan-gioseffo-santi",
+    "name": "Giovan Gioseffo Santi",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "museo-regionale-interdisciplinare-messina",
+    "name": "Museo regionale interdisciplinare di Messina",
+    "type": "museo",
+    "city_id": "messina",
+    "description": "Museo della Regione Siciliana a Messina, noto anche come MuMe e oggi intitolato a Maria Accascina. Conserva raccolte dall'eta medievale al primo Novecento ed e particolarmente identificato dai nuclei di Antonello da Messina e Caravaggio.",
+    "website": "https://museo.messina.it/",
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "manierismo",
+      "barocco",
+      "naturalismo",
+      "neoclassicismo",
+      "realismo"
+    ],
+    "notes": "Naming canonico scelto per stabilita e leggibilita: le fonti correnti della Regione Siciliana usano la forma formale 'Museo regionale interdisciplinare di Messina', mentre il sito pubblico e la comunicazione ordinaria usano anche 'MuMe', 'Museo regionale Accascina Messina' e talvolta la forma storica piu breve 'Museo Regionale di Messina'. Il batch modella una sola istituzione canonica e tratta gli altri come alias descrittivi."
+  }
+]

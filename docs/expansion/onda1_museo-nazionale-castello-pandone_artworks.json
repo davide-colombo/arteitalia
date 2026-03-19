@@ -1,0 +1,68 @@
+[
+  {
+    "id": "aquila-asburgica-carlo-v",
+    "title": "Dipinto murale raffigurante l'aquila asburgica di Carlo V",
+    "author_id": "ambito-molisano",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1634-1680",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-castello-pandone",
+    "medium": "Intonaco dipinto a tempera",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1400054475"
+      },
+      {
+        "label": "Museo nazionale di Castello Pandone - Ministero della Cultura",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina istituzionale MiC del museo presenta in galleria il titolo breve 'Dipinto murale raffigurante l'aquila asburgica di Carlo V'; la scheda catalografica MiC usa il titolo esteso 'Aquila Asburgica di Carlo V/ stemma dei Savelli/ putti che sostengono insegne religiose e militari' e la datazione 1634-1680."
+  },
+  {
+    "id": "madonna-bambino-san-nicola-da-tolentino-rossi",
+    "title": "Madonna con Bambino e san Nicola da Tolentino",
+    "author_id": "nicola-maria-rossi",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-castello-pandone",
+    "medium": null,
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Museo nazionale di Castello Pandone - Ministero della Cultura",
+        "url": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone"
+      },
+      {
+        "label": "Museo nazionale di Castello Pandone - Direzione regionale musei nazionali Molise",
+        "url": "https://www.musei.molise.beniculturali.it/musei?mid=214&nome=museo-nazionale-di-castello-pandone"
+      }
+    ],
+    "verified": false,
+    "notes": "La pagina istituzionale corrente del museo indica l'opera, proveniente dalla chiesa di Sant'Agostino di Venafro, tra i dipinti settecenteschi che spiccano per qualita nel percorso del Museo Nazionale del Molise ospitato nel Castello Pandone. La datazione puntuale non e esplicitata nella pagina MiC, quindi il record resta senza anno specifico."
+  }
+]

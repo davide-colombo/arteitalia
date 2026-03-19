@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pinacoteca-nazionale-cagliari",
+    "name": "Pinacoteca Nazionale di Cagliari",
+    "type": "pinacoteca",
+    "city_id": "cagliari",
+    "description": "Pinacoteca dei Musei Nazionali di Cagliari nella Cittadella dei Musei, con una raccolta pittorica dal XV al XX secolo il cui nucleo fondamentale e costituito dai retabli di scuola catalana e locale provenienti soprattutto da San Francesco di Stampace.",
+    "website": "https://museinazionalicagliari.cultura.gov.it/",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "gotico-internazionale",
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "arte-contemporanea"
+    ],
+    "notes": null
+  }
+]

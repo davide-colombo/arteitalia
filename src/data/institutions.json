@@ -1079,17 +1079,6 @@
     "notes": "Aggiunto automaticamente dal parser di ricerca."
   },
   {
-    "id": "palazzo-ducale",
-    "name": "Palazzo Ducale",
-    "type": "complesso_monumentale",
-    "city_id": "mantova",
-    "description": "Il Palazzo Ducale di Mantova, noto anche come reggia dei Gonzaga, è uno dei principali edifici storici cittadini.Dal 1308 è stata la residenza ufficiale dei signori di Mantova, i Bonacolsi, e quindi successivamente la residenza principale dei Gonzaga, signori, marchesi ed infine duchi della città virgiliana. Ospitava il Gonzaga dominante del tempo, sua moglie, il figlio legittimo primogenito e gli altri figli legittimi sino alla maggiore età nonché gli ospiti importanti. Assunse la denominazione di Palazzo Reale durante la dominazione austriaca a partire dall'epoca di Maria Teresa d'Austria regnante.",
-    "website": "http://www.mantovaducale.beniculturali.it",
-    "periods": [],
-    "movements": [],
-    "notes": "Aggiunto automaticamente dal parser di ricerca."
-  },
-  {
     "id": "gallerie-dellaccademia",
     "name": "Gallerie dell’Accademia",
     "type": "galleria",
@@ -1630,5 +1619,201 @@
       "barocco"
     ],
     "notes": "Istituzione distinta dal Palazzo Ducale di Mantova già presente nel dataset."
+  },
+  {
+    "id": "museo-castromediano-lecce",
+    "name": "Museo Sigismondo Castromediano",
+    "type": "museo",
+    "city_id": "lecce",
+    "description": "Museo pubblico di Lecce dedicato ai paesaggi culturali del Salento, con sezioni archeologiche e una pinacoteca che attraversa Medioevo, Barocco e arte dell'Ottocento e Novecento.",
+    "website": "https://cultura.gov.it/luogo/museo-sigismondo-castromediano",
+    "periods": [
+      "medioevo",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "gotico",
+      "barocco",
+      "realismo"
+    ],
+    "notes": null
+  },
+  {
+    "id": "galleria-nazionale-cosenza",
+    "name": "Galleria Nazionale di Cosenza",
+    "type": "galleria",
+    "city_id": "cosenza",
+    "description": "Galleria statale ospitata a Palazzo Arnone, con collezioni di pittura dal Cinquecento al Novecento e nuclei dedicati agli artisti calabresi, alla raccolta ex Banca Carime e all'arte contemporanea.",
+    "website": "https://musei.calabria.beniculturali.it/",
+    "periods": [
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento",
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco",
+      "realismo",
+      "futurismo",
+      "arte-contemporanea"
+    ],
+    "notes": null
+  },
+  {
+    "id": "palazzo-bianco-genova",
+    "name": "Palazzo Bianco",
+    "type": "palazzo",
+    "city_id": "genova",
+    "description": "Palazzo-museo del sistema civico dei Musei di Strada Nuova. Le schede del catalogo ufficiale distinguono la sede Palazzo Bianco dal complesso unitario Musei di Strada Nuova e vi localizzano collezioni di pittura italiana, fiamminga e spagnola tra Quattrocento e Seicento.",
+    "website": "https://www.museidigenova.it/it/storia-del-palazzo",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco"
+    ],
+    "notes": "Naming canonico scelto per evitare collisioni semantiche con il nodo gia esistente 'musei-strada-nuova'. Nel catalogo civico il complesso e descritto come insieme di tre palazzi, mentre le schede oggettuali delle opere selezionate riportano esplicitamente la localizzazione a Palazzo Bianco."
+  },
+  {
+    "id": "museo-nazionale-castello-pandone",
+    "name": "Museo nazionale di Castello Pandone",
+    "type": "museo",
+    "city_id": "venafro",
+    "description": "Luogo della cultura statale di Venafro nel Castello Pandone. La pagina ufficiale MiC lo denomina oggi Museo nazionale di Castello Pandone e precisa che in una sua ala e ospitato il Museo Nazionale del Molise, con un percorso di pittura dal VII secolo all'eta moderna.",
+    "website": "https://cultura.gov.it/luogo/museo-nazionale-di-castello-pandone",
+    "periods": [
+      "medioevo",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco"
+    ],
+    "notes": "Batch 1.6 modellato sulla sede fisica reale di Venafro, non su Campobasso: la stessa pagina MiC indica Campobasso come sede della direzione regionale e dei contatti amministrativi, mentre la posizione del museo e via Colle, Venafro."
+  },
+  {
+    "id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "name": "Museo nazionale di Matera - Palazzo Lanfranchi",
+    "type": "museo",
+    "city_id": "matera",
+    "description": "Sede di Palazzo Lanfranchi del Museo nazionale di Matera. La pagina MiC del luogo spiega che qui ha avuto sede dal 2003 il Museo Nazionale d'Arte Medievale e Moderna della Basilicata e che oggi il percorso si articola nelle sezioni Arte del Territorio, Collezionismo e Arte Contemporanea.",
+    "website": "https://cultura.gov.it/luogo/museo-nazionale-di-matera-palazzo-lanfranchi",
+    "periods": [
+      "medioevo",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "naturalismo",
+      "realismo",
+      "arte-contemporanea"
+    ],
+    "notes": "Naming canonico scelto per evitare duplicazione semantica: la scheda luogo MiC titola oggi la sede come 'Musei nazionali di Matera - Palazzo Lanfranchi', mentre il blocco posizione della stessa pagina e la pagina regionale lucana usano il singolare 'Museo nazionale di Matera - Palazzo Lanfranchi'. La sede coincide con lo storico Museo Nazionale d'Arte Medievale e Moderna della Basilicata, confluito nel 2019 nel nuovo Museo nazionale di Matera."
+  },
+  {
+    "id": "museo-nazionale-reggio-calabria",
+    "name": "Museo Nazionale di Reggio Calabria",
+    "type": "museo",
+    "city_id": "reggio-calabria",
+    "description": "Museo statale di Palazzo Piacentini, oggi dedicato soprattutto alla Magna Grecia ma nato anche dall'unione delle raccolte civiche e statali di Reggio; le schede MiC documentano ancora un nucleo di dipinti della storica pinacoteca del museo.",
+    "website": "https://museoarcheologicoreggiocalabria.cultura.gov.it/",
+    "periods": [
+      "cinquecento",
+      "settecento"
+    ],
+    "movements": [
+      "rinascimento-maturo",
+      "barocco"
+    ],
+    "notes": "La voce Wikipedia del MArRC ricorda che la pinacoteca civica fu trasferita altrove dopo il 2008; per questo batch sono stati selezionati i dipinti che il Catalogo MiC colloca ancora al Museo Nazionale di Piazza De Nava."
+  },
+  {
+    "id": "museo-regionale-interdisciplinare-messina",
+    "name": "Museo regionale interdisciplinare di Messina",
+    "type": "museo",
+    "city_id": "messina",
+    "description": "Museo della Regione Siciliana a Messina, noto anche come MuMe e oggi intitolato a Maria Accascina. Conserva raccolte dall'eta medievale al primo Novecento ed e particolarmente identificato dai nuclei di Antonello da Messina e Caravaggio.",
+    "website": "https://museo.messina.it/",
+    "periods": [
+      "medioevo",
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "manierismo",
+      "barocco",
+      "naturalismo",
+      "neoclassicismo",
+      "realismo"
+    ],
+    "notes": "Naming canonico scelto per stabilita e leggibilita: le fonti correnti della Regione Siciliana usano la forma formale 'Museo regionale interdisciplinare di Messina', mentre il sito pubblico e la comunicazione ordinaria usano anche 'MuMe', 'Museo regionale Accascina Messina' e talvolta la forma storica piu breve 'Museo Regionale di Messina'. Il batch modella una sola istituzione canonica e tratta gli altri come alias descrittivi."
+  },
+  {
+    "id": "pinacoteca-metropolitana-bari",
+    "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\" di Bari",
+    "type": "pinacoteca",
+    "city_id": "bari",
+    "description": "Pinacoteca metropolitana affacciata sul lungomare di Bari, con raccolte dal Medioevo all'Ottocento e nuclei di pittura veneta, napoletana, pugliese e meridionale.",
+    "website": "https://www.pinacotecabari.it/",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco",
+      "realismo"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pinacoteca-nazionale-cagliari",
+    "name": "Pinacoteca Nazionale di Cagliari",
+    "type": "pinacoteca",
+    "city_id": "cagliari",
+    "description": "Pinacoteca dei Musei Nazionali di Cagliari nella Cittadella dei Musei, con una raccolta pittorica dal XV al XX secolo il cui nucleo fondamentale e costituito dai retabli di scuola catalana e locale provenienti soprattutto da San Francesco di Stampace.",
+    "website": "https://museinazionalicagliari.cultura.gov.it/",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento",
+      "contemporaneo"
+    ],
+    "movements": [
+      "gotico-internazionale",
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "arte-contemporanea"
+    ],
+    "notes": null
   }
 ]

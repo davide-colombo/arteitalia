@@ -1,0 +1,93 @@
+[
+  {
+    "id": "polittico-lorenzo-veneziano",
+    "title": "Polittico",
+    "author_id": "lorenzo-veneziano",
+    "year": 1380,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "medioevo",
+    "movement_id": "gotico",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Tempera e oro su tavola",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Il percorso accessibile del museo lo indica come opera medievale di Lorenzo Veneziano, datata intorno al 1380."
+  },
+  {
+    "id": "cristo-adultera-finoglio",
+    "title": "Cristo e l'adultera",
+    "author_id": "paolo-finoglio",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Olio su tela",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Comunicazione MiC sul Museo Castromediano",
+        "url": "https://cultura.gov.it/comunicato/risposta-scritta-all-interrogazione-n-4-04317-del-sen-maurizio-buccarella-lecce-museo-provinciale-1"
+      },
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Dipinto indicato tra gli highlights del Castromediano da fonti istituzionali e dal percorso accessibile del museo."
+  },
+  {
+    "id": "ritratto-fanciullo-toma",
+    "title": "Ritratto di fanciullo",
+    "author_id": "gioacchino-toma",
+    "year": null,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "ottocento",
+    "movement_id": "realismo",
+    "institution_id": "museo-castromediano-lecce",
+    "medium": "Olio su tela",
+    "dimensions": "",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Percorso accessibile del Museo Castromediano",
+        "url": "https://www.corrieresalentino.it/2023/12/la-cultura-accessibile-a-lecce-un-progetto-eurisko-e-museo-sigismondo-castromediano/"
+      }
+    ],
+    "verified": false,
+    "notes": "Scelto dal museo e da Eurisko APS per il modellino tattile del percorso accessibile."
+  }
+]

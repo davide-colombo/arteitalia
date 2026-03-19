@@ -1,0 +1,26 @@
+[
+  {
+    "id": "maestro-del-trionfo-della-morte",
+    "name": "Maestro del Trionfo della Morte",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "pietro-novelli",
+    "name": "Pietro Novelli",
+    "birth_year": 1603,
+    "death_year": 1647,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "museo-castromediano-lecce",
+    "name": "Museo Sigismondo Castromediano",
+    "type": "museo",
+    "city_id": "lecce",
+    "description": "Museo pubblico di Lecce dedicato ai paesaggi culturali del Salento, con sezioni archeologiche e una pinacoteca che attraversa Medioevo, Barocco e arte dell'Ottocento e Novecento.",
+    "website": "https://cultura.gov.it/luogo/museo-sigismondo-castromediano",
+    "periods": [
+      "medioevo",
+      "seicento",
+      "ottocento"
+    ],
+    "movements": [
+      "gotico",
+      "barocco",
+      "realismo"
+    ],
+    "notes": null
+  }
+]

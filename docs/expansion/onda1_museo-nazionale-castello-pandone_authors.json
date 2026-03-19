@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ambito-molisano",
+    "name": "Ambito molisano",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "nicola-maria-rossi",
+    "name": "Nicola Maria Rossi",
+    "birth_year": 1690,
+    "death_year": 1758,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Nicola_Maria_Rossi",
+    "movements": [
+      "barocco"
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pietro-cavaro",
+    "name": "Pietro Cavaro",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento-maturo"
+    ]
+  },
+  {
+    "id": "vincenzo-cannizzaro",
+    "name": "Vincenzo Cannizzaro",
+    "birth_year": 1742,
+    "death_year": 1768,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "palazzo-bianco-genova",
+    "name": "Palazzo Bianco",
+    "type": "palazzo",
+    "city_id": "genova",
+    "description": "Palazzo-museo del sistema civico dei Musei di Strada Nuova. Le schede del catalogo ufficiale distinguono la sede Palazzo Bianco dal complesso unitario Musei di Strada Nuova e vi localizzano collezioni di pittura italiana, fiamminga e spagnola tra Quattrocento e Seicento.",
+    "website": "https://www.museidigenova.it/it/storia-del-palazzo",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento"
+    ],
+    "movements": [
+      "rinascimento",
+      "barocco"
+    ],
+    "notes": "Naming canonico scelto per evitare collisioni semantiche con il nodo gia esistente 'musei-strada-nuova'. Nel catalogo civico il complesso e descritto come insieme di tre palazzi, mentre le schede oggettuali delle opere selezionate riportano esplicitamente la localizzazione a Palazzo Bianco."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "leonardo-di-sabino-da-teramo",
+    "name": "Leonardo di Sabino da Teramo",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "cola-dellamatrice",
+    "name": "Cola dell'Amatrice",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento"
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cleopatra-morente-guercino",
+    "title": "Cleopatra morente",
+    "author_id": "guercino",
+    "year": 1648,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "musei-strada-nuova",
+    "medium": "Olio su tela",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/197751-cleopatra-morente"
+      },
+      {
+        "label": "Scheda complesso - Musei di Strada Nuova",
+        "url": "https://catalogo.museidigenova.it/musei/musei-di-strada-nuova"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda civica cataloga l'opera con inventario PR 16 e collocazione Palazzo Rosso. Nel modello Onda 1 l'opera viene assegnata al nodo canonico gia esistente 'musei-strada-nuova', che rappresenta il complesso unitario formato da Palazzo Rosso, Palazzo Bianco e Palazzo Doria-Tursi."
+  },
+  {
+    "id": "madonna-col-bambino-van-cleve",
+    "title": "Madonna col Bambino",
+    "author_id": "joos-van-cleve",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1518-1522",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento",
+    "institution_id": "palazzo-bianco-genova",
+    "medium": "Olio su tavola",
+    "dimensions": null,
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/196957-madonna-col-bambino?i=55"
+      },
+      {
+        "label": "Scheda sede - Palazzo Bianco",
+        "url": "https://www.museidigenova.it/it/storia-del-palazzo"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda del catalogo civico registra inventario PB 108 e localizzazione 'Musei di Strada Nuova - Palazzo Bianco'; il batch separa quindi la sede Palazzo Bianco dal nodo complessivo dei Musei di Strada Nuova."
+  },
+  {
+    "id": "gia-venere-marte-rubens",
+    "title": "Già Venere e Marte / allegoria dell'intemperanza",
+    "author_id": "peter-paul-rubens",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1632-1635",
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "palazzo-bianco-genova",
+    "medium": "Olio su tavole di rovere",
+    "dimensions": "133 × 142 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda opera - Catalogo Musei di Genova",
+        "url": "https://catalogo.museidigenova.it/oggetti/196902-gia-venere-e-marte-allegoria-dellintemperanza"
+      },
+      {
+        "label": "Scheda sede - Palazzo Bianco",
+        "url": "https://www.museidigenova.it/it/storia-del-palazzo"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda ufficiale usa come SGTT 'Gia Venere e Marte / allegoria dell'intemperanza' e localizza l'opera a Palazzo Bianco; il catalogo civico offre anche la forma breve 'Venere e Marte' come titolo alternativo."
+  }
+]

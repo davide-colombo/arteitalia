@@ -1,6 +1,5 @@
 import Link from "next/link";
 
-import { ArtworkImage } from "@/components/ArtworkImage";
 import { ShareBarBottom } from "@/components/ShareBarBottom";
 import {
   artworks,

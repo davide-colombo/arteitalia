@@ -1,0 +1,60 @@
+[
+  {
+    "id": "san-pietro-cavaro",
+    "title": "San Pietro",
+    "author_id": "pietro-cavaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1500-1599",
+    "period_id": "cinquecento",
+    "movement_id": "rinascimento-maturo",
+    "institution_id": "museo-nazionale-reggio-calabria",
+    "medium": "Tempera su tavola",
+    "dimensions": "76,5 × 175 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800022908"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC localizza l'opera al Museo Nazionale di Reggio Calabria in Piazza De Nava. Non emerge una riproduzione affidabile su Wikimedia Commons."
+  },
+  {
+    "id": "caduta-simon-mago-cannizzaro",
+    "title": "Caduta di Simon Mago",
+    "author_id": "vincenzo-cannizzaro",
+    "year": null,
+    "year_approximate": false,
+    "year_range": "1763-1765",
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "museo-nazionale-reggio-calabria",
+    "medium": "Olio su tela",
+    "dimensions": "88,5 × 143,5 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vincenzo_cannizzaro%2C_caduta_di_simon_mago%2C_1760_ca.jpg",
+      "thumbnail": null,
+      "license": "CC BY-SA 4.0",
+      "attribution": "Sailko"
+    },
+    "links": [
+      {
+        "label": "Scheda Catalogo Generale dei Beni Culturali",
+        "url": "https://catalogo.cultura.gov.it/detail/HistoricOrArtisticProperty/1800022934"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda MiC data genericamente il dipinto al Settecento, ma propone un'esecuzione durante il soggiorno romano di Vincenzo Cannizzaro (1763-1765), da cui il year_range adottato."
+  }
+]

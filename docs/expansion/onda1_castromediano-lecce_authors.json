@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lorenzo-veneziano",
+    "name": "Lorenzo Veneziano",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "paolo-finoglio",
+    "name": "Paolo Finoglio",
+    "birth_year": 1590,
+    "death_year": 1645,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Paolo_Finoglio",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "gioacchino-toma",
+    "name": "Gioacchino Toma",
+    "birth_year": 1836,
+    "death_year": 1891,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Gioacchino_Toma",
+    "movements": [
+      "realismo"
+    ]
+  }
+]

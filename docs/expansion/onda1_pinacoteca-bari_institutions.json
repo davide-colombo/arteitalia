@@ -1,0 +1,24 @@
+[
+  {
+    "id": "pinacoteca-metropolitana-bari",
+    "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\" di Bari",
+    "type": "pinacoteca",
+    "city_id": "bari",
+    "description": "Pinacoteca metropolitana affacciata sul lungomare di Bari, con raccolte dal Medioevo all'Ottocento e nuclei di pittura veneta, napoletana, pugliese e meridionale.",
+    "website": "https://www.pinacotecabari.it/",
+    "periods": [
+      "quattrocento",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "ottocento"
+    ],
+    "movements": [
+      "rinascimento",
+      "manierismo",
+      "barocco",
+      "realismo"
+    ],
+    "notes": null
+  }
+]

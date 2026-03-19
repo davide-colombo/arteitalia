@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pacecco-de-rosa",
+    "name": "Pacecco De Rosa",
+    "birth_year": 1607,
+    "death_year": 1656,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Pacecco_De_Rosa",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "corrado-giaquinto",
+    "name": "Corrado Giaquinto",
+    "birth_year": 1703,
+    "death_year": 1766,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Corrado_Giaquinto",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "francesco-netti",
+    "name": "Francesco Netti",
+    "birth_year": 1832,
+    "death_year": 1894,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Francesco_Netti",
+    "movements": [
+      "realismo"
+    ]
+  }
+]

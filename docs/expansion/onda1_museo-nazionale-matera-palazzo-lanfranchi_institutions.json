@@ -1,0 +1,26 @@
+[
+  {
+    "id": "museo-nazionale-matera-palazzo-lanfranchi",
+    "name": "Museo nazionale di Matera - Palazzo Lanfranchi",
+    "type": "museo",
+    "city_id": "matera",
+    "description": "Sede di Palazzo Lanfranchi del Museo nazionale di Matera. La pagina MiC del luogo spiega che qui ha avuto sede dal 2003 il Museo Nazionale d'Arte Medievale e Moderna della Basilicata e che oggi il percorso si articola nelle sezioni Arte del Territorio, Collezionismo e Arte Contemporanea.",
+    "website": "https://cultura.gov.it/luogo/museo-nazionale-di-matera-palazzo-lanfranchi",
+    "periods": [
+      "medioevo",
+      "cinquecento",
+      "seicento",
+      "settecento",
+      "novecento"
+    ],
+    "movements": [
+      "gotico",
+      "rinascimento",
+      "barocco",
+      "naturalismo",
+      "realismo",
+      "arte-contemporanea"
+    ],
+    "notes": "Naming canonico scelto per evitare duplicazione semantica: la scheda luogo MiC titola oggi la sede come 'Musei nazionali di Matera - Palazzo Lanfranchi', mentre il blocco posizione della stessa pagina e la pagina regionale lucana usano il singolare 'Museo nazionale di Matera - Palazzo Lanfranchi'. La sede coincide con lo storico Museo Nazionale d'Arte Medievale e Moderna della Basilicata, confluito nel 2019 nel nuovo Museo nazionale di Matera."
+  }
+]

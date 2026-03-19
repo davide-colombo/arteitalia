@@ -1,0 +1,147 @@
+[
+  {
+    "id": "san-pietro-martire-bellini",
+    "title": "San Pietro martire",
+    "author_id": "giovanni-bellini",
+    "year": 1488,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "quattrocento",
+    "movement_id": "rinascimento",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Tempera su tavola",
+    "dimensions": "194 × 84 cm",
+    "description": "",
+    "image": {
+      "source": "Wikimedia Commons",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Giovanni_bellini%2C_san_pietro_martire%2C_da_monopoli%2C_01.jpg",
+      "thumbnail": null,
+      "license": "Public domain",
+      "attribution": "Giovanni Bellini"
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=92"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo colloca l'opera alla fine del nono decennio del XV secolo."
+  },
+  {
+    "id": "san-rocco-appestati-tintoretto",
+    "title": "San Rocco e gli appestati",
+    "author_id": "tintoretto",
+    "year": 1592,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "cinquecento",
+    "movement_id": "manierismo",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "320 × 195 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=96"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo considera verosimile la datazione al 1592."
+  },
+  {
+    "id": "incontro-rachele-giacobbe-de-rosa",
+    "title": "Incontro di Rachele e Giacobbe",
+    "author_id": "pacecco-de-rosa",
+    "year": 1640,
+    "year_approximate": true,
+    "year_range": null,
+    "period_id": "seicento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "126 × 182 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=111"
+      }
+    ],
+    "verified": false,
+    "notes": ""
+  },
+  {
+    "id": "trionfo-giuseppe-giaquinto",
+    "title": "Trionfo di Giuseppe",
+    "author_id": "corrado-giaquinto",
+    "year": 1753,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "settecento",
+    "movement_id": "barocco",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "83 × 98 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=148"
+      }
+    ],
+    "verified": false,
+    "notes": "Bozzetto per il ciclo di Aranjuez, datato dal museo al 1753."
+  },
+  {
+    "id": "in-corte-assise-netti",
+    "title": "In Corte d'Assise",
+    "author_id": "francesco-netti",
+    "year": 1882,
+    "year_approximate": false,
+    "year_range": null,
+    "period_id": "ottocento",
+    "movement_id": "realismo",
+    "institution_id": "pinacoteca-metropolitana-bari",
+    "medium": "Olio su tela",
+    "dimensions": "95,5 × 181,5 cm",
+    "description": "",
+    "image": {
+      "source": "",
+      "url": null,
+      "thumbnail": null,
+      "license": "",
+      "attribution": ""
+    },
+    "links": [
+      {
+        "label": "Scheda Pinacoteca Metropolitana di Bari",
+        "url": "https://www.pinacotecabari.it/intranet/ui_collezioni.php?sez=opera&id_opera=756"
+      }
+    ],
+    "verified": false,
+    "notes": "La scheda completa del museo riporta la firma e la data 1882."
+  }
+]

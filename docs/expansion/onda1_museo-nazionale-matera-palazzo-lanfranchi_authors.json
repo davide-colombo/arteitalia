@@ -1,0 +1,39 @@
+[
+  {
+    "id": "maestro-delle-tempere-francescane",
+    "name": "Maestro delle tempere francescane",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "jusepe-de-ribera",
+    "name": "Jusepe de Ribera",
+    "birth_year": 1591,
+    "death_year": 1652,
+    "bio": "",
+    "nationality": "Spagnolo",
+    "wikipedia_url": "",
+    "movements": [
+      "naturalismo",
+      "barocco"
+    ]
+  },
+  {
+    "id": "carlo-levi",
+    "name": "Carlo Levi",
+    "birth_year": 1902,
+    "death_year": 1975,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "realismo"
+    ]
+  }
+]

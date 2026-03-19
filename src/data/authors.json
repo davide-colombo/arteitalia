@@ -1567,5 +1567,283 @@
     "movements": [
       "rinascimento-maturo"
     ]
+  },
+  {
+    "id": "lorenzo-veneziano",
+    "name": "Lorenzo Veneziano",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "paolo-finoglio",
+    "name": "Paolo Finoglio",
+    "birth_year": 1590,
+    "death_year": 1645,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Paolo_Finoglio",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "gioacchino-toma",
+    "name": "Gioacchino Toma",
+    "birth_year": 1836,
+    "death_year": 1891,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Gioacchino_Toma",
+    "movements": [
+      "realismo"
+    ]
+  },
+  {
+    "id": "pietro-negroni",
+    "name": "Pietro Negroni",
+    "birth_year": 1505,
+    "death_year": 1567,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Pietro_Negroni",
+    "movements": [
+      "rinascimento-maturo"
+    ]
+  },
+  {
+    "id": "maestro-del-trionfo-della-morte",
+    "name": "Maestro del Trionfo della Morte",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "pietro-novelli",
+    "name": "Pietro Novelli",
+    "birth_year": 1603,
+    "death_year": 1647,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "joos-van-cleve",
+    "name": "Joos van Cleve",
+    "birth_year": 1485,
+    "death_year": 1540,
+    "bio": "",
+    "nationality": "Fiammingo",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "ambito-molisano",
+    "name": "Ambito molisano",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "nicola-maria-rossi",
+    "name": "Nicola Maria Rossi",
+    "birth_year": 1690,
+    "death_year": 1758,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Nicola_Maria_Rossi",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "leonardo-di-sabino-da-teramo",
+    "name": "Leonardo di Sabino da Teramo",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "cola-dellamatrice",
+    "name": "Cola dell'Amatrice",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "maestro-delle-tempere-francescane",
+    "name": "Maestro delle tempere francescane",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico"
+    ]
+  },
+  {
+    "id": "jusepe-de-ribera",
+    "name": "Jusepe de Ribera",
+    "birth_year": 1591,
+    "death_year": 1652,
+    "bio": "",
+    "nationality": "Spagnolo",
+    "wikipedia_url": "",
+    "movements": [
+      "naturalismo",
+      "barocco"
+    ]
+  },
+  {
+    "id": "carlo-levi",
+    "name": "Carlo Levi",
+    "birth_year": 1902,
+    "death_year": 1975,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "realismo"
+    ]
+  },
+  {
+    "id": "pietro-cavaro",
+    "name": "Pietro Cavaro",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento-maturo"
+    ]
+  },
+  {
+    "id": "vincenzo-cannizzaro",
+    "name": "Vincenzo Cannizzaro",
+    "birth_year": 1742,
+    "death_year": 1768,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "pacecco-de-rosa",
+    "name": "Pacecco De Rosa",
+    "birth_year": 1607,
+    "death_year": 1656,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Pacecco_De_Rosa",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "corrado-giaquinto",
+    "name": "Corrado Giaquinto",
+    "birth_year": 1703,
+    "death_year": 1766,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Corrado_Giaquinto",
+    "movements": [
+      "barocco"
+    ]
+  },
+  {
+    "id": "francesco-netti",
+    "name": "Francesco Netti",
+    "birth_year": 1832,
+    "death_year": 1894,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "https://it.wikipedia.org/wiki/Francesco_Netti",
+    "movements": [
+      "realismo"
+    ]
+  },
+  {
+    "id": "joan-mates",
+    "name": "Joan Mates",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Catalano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico-internazionale"
+    ]
+  },
+  {
+    "id": "lorenzo-cavaro",
+    "name": "Lorenzo Cavaro",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "maestro-di-sanluri",
+    "name": "Maestro di Sanluri",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "gotico",
+      "rinascimento"
+    ]
+  },
+  {
+    "id": "giovan-gioseffo-santi",
+    "name": "Giovan Gioseffo Santi",
+    "birth_year": null,
+    "death_year": null,
+    "bio": "",
+    "nationality": "Italiano",
+    "wikipedia_url": "",
+    "movements": [
+      "barocco"
+    ]
   }
 ]

@@ -388,5 +388,53 @@
     "name": "Vicenza",
     "province": "VI",
     "region_id": "veneto"
+  },
+  {
+    "id": "lecce",
+    "name": "Lecce",
+    "region_id": "puglia",
+    "province": "LE"
+  },
+  {
+    "id": "cosenza",
+    "name": "Cosenza",
+    "region_id": "calabria",
+    "province": "CS"
+  },
+  {
+    "id": "venafro",
+    "name": "Venafro",
+    "region_id": "molise",
+    "province": "IS"
+  },
+  {
+    "id": "matera",
+    "name": "Matera",
+    "region_id": "basilicata",
+    "province": "MT"
+  },
+  {
+    "id": "reggio-calabria",
+    "name": "Reggio Calabria",
+    "region_id": "calabria",
+    "province": "RC"
+  },
+  {
+    "id": "messina",
+    "name": "Messina",
+    "region_id": "sicilia",
+    "province": "ME"
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "region_id": "puglia",
+    "province": "BA"
+  },
+  {
+    "id": "cagliari",
+    "name": "Cagliari",
+    "region_id": "sardegna",
+    "province": "CA"
   }
 ]
