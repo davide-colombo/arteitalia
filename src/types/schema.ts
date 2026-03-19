@@ -16,6 +16,8 @@ export interface City {
 export type InstitutionType =
   | "pinacoteca"
   | "galleria"
+  | "museo"
+  | "palazzo"
   | "casa_museo"
   | "museo_civico"
   | "museo_diocesano"

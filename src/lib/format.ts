@@ -3,6 +3,8 @@ import type { Artwork, InstitutionType } from "@/types/schema";
 const institutionTypeLabels: Record<InstitutionType, string> = {
   pinacoteca: "Pinacoteca",
   galleria: "Galleria",
+  museo: "Museo",
+  palazzo: "Palazzo",
   casa_museo: "Casa museo",
   museo_civico: "Museo civico",
   museo_diocesano: "Museo diocesano",

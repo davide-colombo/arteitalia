@@ -7667,7 +7667,7 @@
     "dimensions": "",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7696,7 +7696,7 @@
     "dimensions": "",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7729,7 +7729,7 @@
     "dimensions": "",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7758,7 +7758,7 @@
     "dimensions": "119 × 244 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pietro_Negroni_-_The_Annunciation.jpg",
       "thumbnail": null,
       "license": "Public domain",
@@ -7779,7 +7779,10 @@
     "author_id": "mattia-preti",
     "year": null,
     "year_approximate": false,
-    "year_range": "1675-1699",
+    "year_range": [
+      1675,
+      1699
+    ],
     "period_id": "seicento",
     "movement_id": "barocco",
     "institution_id": "galleria-nazionale-cosenza",
@@ -7787,7 +7790,7 @@
     "dimensions": "101 × 141 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mattia_preti%2C_san_marco_evangelista%2C_1675-95_ca._01.jpg",
       "thumbnail": null,
       "license": "CC BY-SA 4.0",
@@ -7816,7 +7819,7 @@
     "dimensions": "50 × 74,5 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Corrado_giaquinto%2C_allegoria%2C_1751_ca._01.jpg",
       "thumbnail": null,
       "license": "CC BY-SA 4.0",
@@ -7837,7 +7840,10 @@
     "author_id": "maestro-del-trionfo-della-morte",
     "year": null,
     "year_approximate": false,
-    "year_range": "1440-1450",
+    "year_range": [
+      1440,
+      1450
+    ],
     "period_id": "quattrocento",
     "movement_id": "gotico",
     "institution_id": "galleria-regionale-di-palazzo-abatellis",
@@ -7845,7 +7851,7 @@
     "dimensions": "600 × 642 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7878,7 +7884,7 @@
     "dimensions": "174 × 145,5 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7907,7 +7913,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7932,7 +7938,10 @@
     "author_id": "joos-van-cleve",
     "year": null,
     "year_approximate": false,
-    "year_range": "1518-1522",
+    "year_range": [
+      1518,
+      1522
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento",
     "institution_id": "palazzo-bianco-genova",
@@ -7940,7 +7949,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7965,7 +7974,10 @@
     "author_id": "peter-paul-rubens",
     "year": null,
     "year_approximate": false,
-    "year_range": "1632-1635",
+    "year_range": [
+      1632,
+      1635
+    ],
     "period_id": "seicento",
     "movement_id": "barocco",
     "institution_id": "palazzo-bianco-genova",
@@ -7973,7 +7985,7 @@
     "dimensions": "133 × 142 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -7998,7 +8010,10 @@
     "author_id": "ambito-molisano",
     "year": null,
     "year_approximate": false,
-    "year_range": "1634-1680",
+    "year_range": [
+      1634,
+      1680
+    ],
     "period_id": "seicento",
     "movement_id": "barocco",
     "institution_id": "museo-nazionale-castello-pandone",
@@ -8006,7 +8021,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8039,7 +8054,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8064,7 +8079,10 @@
     "author_id": "leonardo-di-sabino-da-teramo",
     "year": null,
     "year_approximate": false,
-    "year_range": "1410-1420",
+    "year_range": [
+      1410,
+      1420
+    ],
     "period_id": "quattrocento",
     "movement_id": "gotico",
     "institution_id": "museo-nazionale-dabruzzo",
@@ -8072,7 +8090,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8097,7 +8115,10 @@
     "author_id": "cola-dellamatrice",
     "year": null,
     "year_approximate": false,
-    "year_range": "1520-1529",
+    "year_range": [
+      1520,
+      1529
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento",
     "institution_id": "museo-nazionale-dabruzzo",
@@ -8105,7 +8126,7 @@
     "dimensions": null,
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8138,7 +8159,7 @@
     "dimensions": "101,5 × 76 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8171,7 +8192,7 @@
     "dimensions": "138 × 149 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8196,7 +8217,10 @@
     "author_id": "jusepe-de-ribera",
     "year": null,
     "year_approximate": false,
-    "year_range": "1610-1629",
+    "year_range": [
+      1610,
+      1629
+    ],
     "period_id": "seicento",
     "movement_id": "naturalismo",
     "institution_id": "museo-nazionale-matera-palazzo-lanfranchi",
@@ -8204,7 +8228,7 @@
     "dimensions": "117 × 93 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8237,7 +8261,7 @@
     "dimensions": "321 × 1865 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8266,7 +8290,10 @@
     "author_id": "pietro-cavaro",
     "year": null,
     "year_approximate": false,
-    "year_range": "1500-1599",
+    "year_range": [
+      1500,
+      1599
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento-maturo",
     "institution_id": "museo-nazionale-reggio-calabria",
@@ -8274,7 +8301,7 @@
     "dimensions": "76,5 × 175 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8295,7 +8322,10 @@
     "author_id": "vincenzo-cannizzaro",
     "year": null,
     "year_approximate": false,
-    "year_range": "1763-1765",
+    "year_range": [
+      1763,
+      1765
+    ],
     "period_id": "settecento",
     "movement_id": "barocco",
     "institution_id": "museo-nazionale-reggio-calabria",
@@ -8303,7 +8333,7 @@
     "dimensions": "88,5 × 143,5 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Vincenzo_cannizzaro%2C_caduta_di_simon_mago%2C_1760_ca.jpg",
       "thumbnail": null,
       "license": "CC BY-SA 4.0",
@@ -8332,7 +8362,7 @@
     "dimensions": "170 × 203 cm complessivi",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8357,7 +8387,10 @@
     "author_id": "caravaggio",
     "year": null,
     "year_approximate": false,
-    "year_range": "1608-1609",
+    "year_range": [
+      1608,
+      1609
+    ],
     "period_id": "seicento",
     "movement_id": "naturalismo",
     "institution_id": "museo-regionale-interdisciplinare-messina",
@@ -8365,7 +8398,7 @@
     "dimensions": "314 × 211 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8398,7 +8431,7 @@
     "dimensions": "380 × 275 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8431,7 +8464,7 @@
     "dimensions": "194 × 84 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Giovanni_bellini%2C_san_pietro_martire%2C_da_monopoli%2C_01.jpg",
       "thumbnail": null,
       "license": "Public domain",
@@ -8460,7 +8493,7 @@
     "dimensions": "320 × 195 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8489,7 +8522,7 @@
     "dimensions": "126 × 182 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8518,7 +8551,7 @@
     "dimensions": "83 × 98 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8547,7 +8580,7 @@
     "dimensions": "95,5 × 181,5 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8576,7 +8609,7 @@
     "dimensions": "260,9 × 238,1 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",
@@ -8601,7 +8634,10 @@
     "author_id": "lorenzo-cavaro",
     "year": null,
     "year_approximate": false,
-    "year_range": "1507-1508",
+    "year_range": [
+      1507,
+      1508
+    ],
     "period_id": "cinquecento",
     "movement_id": "rinascimento",
     "institution_id": "pinacoteca-nazionale-cagliari",
@@ -8609,7 +8645,7 @@
     "dimensions": "61,8 × 56,8 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Lorenzo_Cavaro%2C_Calvario_%28Retablo_di_Giorgino%29.jpg",
       "thumbnail": null,
       "license": "CC BY-SA 4.0",
@@ -8642,7 +8678,7 @@
     "dimensions": "447,2 × 333,8 cm",
     "description": "",
     "image": {
-      "source": "Wikimedia Commons",
+      "source": "wikimedia",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maestro_di_sanluri%2C_retablo_di_sant%27eligio%2C_1510_ca._01_da_san_pietro_a_sanluri.jpg",
       "thumbnail": null,
       "license": "CC BY 3.0",
@@ -8675,7 +8711,7 @@
     "dimensions": "77 × 64,5 cm",
     "description": "",
     "image": {
-      "source": "",
+      "source": "placeholder",
       "url": null,
       "thumbnail": null,
       "license": "",

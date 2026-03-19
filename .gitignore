@@ -44,3 +44,4 @@ next-env.d.ts
 /scripts/research/
 /scripts/institution_audit_pre_enrichment.txt
 /src/scripts/validate-data.ts
+/docs/expansion-protocol.md
